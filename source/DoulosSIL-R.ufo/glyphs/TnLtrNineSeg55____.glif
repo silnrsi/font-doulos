@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="TnLtrNineSeg55" format="1">
+  <advance width="944"/>
+  <unicode hex="F1F5"/>
+  <outline>
+    <contour>
+      <point x="1" y="438" type="curve" smooth="yes"/>
+      <point x="943" y="438" type="line" smooth="yes"/>
+      <point x="973" y="438"/>
+      <point x="998" y="463"/>
+      <point x="998" y="493" type="curve" smooth="yes"/>
+      <point x="998" y="523"/>
+      <point x="973" y="548"/>
+      <point x="943" y="548" type="curve" smooth="yes"/>
+      <point x="1" y="548" type="line" smooth="yes"/>
+      <point x="-29" y="548"/>
+      <point x="-54" y="523"/>
+      <point x="-54" y="493" type="curve" smooth="yes"/>
+      <point x="-54" y="463"/>
+      <point x="-29" y="438"/>
+    </contour>
+  </outline>
+</glyph>

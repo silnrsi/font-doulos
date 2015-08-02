@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ModVertLineDep" format="1">
+  <advance width="420"/>
+  <unicode hex="F196"/>
+  <outline>
+    <contour>
+      <point x="130" y="857" type="line"/>
+      <point x="290" y="857" type="line"/>
+      <point x="290" y="1583" type="line"/>
+      <point x="130" y="1583" type="line"/>
+    </contour>
+    <contour>
+      <point x="160" y="887" type="line"/>
+      <point x="160" y="1553" type="line"/>
+      <point x="260" y="1553" type="line"/>
+      <point x="260" y="887" type="line"/>
+    </contour>
+  </outline>
+</glyph>

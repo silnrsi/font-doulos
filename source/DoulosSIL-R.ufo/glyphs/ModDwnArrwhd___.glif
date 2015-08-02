@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ModDwnArrwhd" format="1">
+  <advance width="938"/>
+  <unicode hex="02C5"/>
+  <outline>
+    <contour>
+      <point x="839" y="1527" type="line"/>
+      <point x="751" y="1527" type="line"/>
+      <point x="469" y="893" type="line"/>
+      <point x="188" y="1527" type="line"/>
+      <point x="98" y="1527" type="line"/>
+      <point x="425" y="818" type="line"/>
+      <point x="512" y="818" type="line"/>
+    </contour>
+  </outline>
+</glyph>

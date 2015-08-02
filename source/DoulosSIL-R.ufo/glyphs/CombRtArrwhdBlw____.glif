@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="CombRtArrwhdBlw" format="1">
+  <advance width="0"/>
+  <unicode hex="0355"/>
+  <outline>
+    <contour>
+      <point x="-86" y="-488" type="line"/>
+      <point x="-86" y="-413" type="line"/>
+      <point x="-938" y="-140" type="line"/>
+      <point x="-938" y="-216" type="line"/>
+      <point x="-177" y="-450" type="line"/>
+      <point x="-938" y="-684" type="line"/>
+      <point x="-938" y="-759" type="line"/>
+    </contour>
+    <contour>
+      <point x="-501" y="-750" type="move" name="L"/>
+    </contour>
+    <contour>
+      <point x="-512" y="-100" type="move" name="_L"/>
+    </contour>
+  </outline>
+</glyph>

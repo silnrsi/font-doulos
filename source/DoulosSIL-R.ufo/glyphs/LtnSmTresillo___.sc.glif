@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="LtnSmTresillo.sc" format="1">
+  <advance width="867"/>
+  <outline>
+    <contour>
+      <point x="64" y="280" type="curve" smooth="yes"/>
+      <point x="64" y="65"/>
+      <point x="273" y="-24"/>
+      <point x="504" y="-24" type="curve" smooth="yes"/>
+      <point x="700" y="-24"/>
+      <point x="791" y="46"/>
+      <point x="791" y="81" type="curve" smooth="yes"/>
+      <point x="791" y="125"/>
+      <point x="751" y="166"/>
+      <point x="701" y="166" type="curve" smooth="yes"/>
+      <point x="664" y="166"/>
+      <point x="629" y="143"/>
+      <point x="591" y="120" type="curve" smooth="yes"/>
+      <point x="549" y="94"/>
+      <point x="504" y="66"/>
+      <point x="443" y="66" type="curve" smooth="yes"/>
+      <point x="346" y="66"/>
+      <point x="252" y="133"/>
+      <point x="252" y="248" type="curve" smooth="yes"/>
+      <point x="252" y="447"/>
+      <point x="426" y="508"/>
+      <point x="592" y="518" type="curve"/>
+      <point x="592" y="555" type="line"/>
+      <point x="269" y="803" type="line"/>
+      <point x="465" y="969" type="line"/>
+      <point x="546" y="969"/>
+      <point x="575" y="919"/>
+      <point x="602" y="875" type="curve" smooth="yes"/>
+      <point x="627" y="834"/>
+      <point x="650" y="796"/>
+      <point x="700" y="796" type="curve" smooth="yes"/>
+      <point x="751" y="796"/>
+      <point x="798" y="831"/>
+      <point x="798" y="885" type="curve" smooth="yes"/>
+      <point x="798" y="968"/>
+      <point x="631" y="1060"/>
+      <point x="440" y="1060" type="curve"/>
+      <point x="61" y="749" type="line"/>
+      <point x="353" y="547" type="line"/>
+      <point x="196" y="521"/>
+      <point x="64" y="415"/>
+    </contour>
+  </outline>
+</glyph>

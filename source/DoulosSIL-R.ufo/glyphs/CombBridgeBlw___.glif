@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="CombBridgeBlw" format="1">
+  <advance width="0"/>
+  <unicode hex="032A"/>
+  <outline>
+    <contour>
+      <point x="-334" y="-402" type="line"/>
+      <point x="-334" y="-186" type="line"/>
+      <point x="-689" y="-186" type="line"/>
+      <point x="-689" y="-402" type="line"/>
+      <point x="-610" y="-402" type="line"/>
+      <point x="-610" y="-264" type="line"/>
+      <point x="-413" y="-264" type="line"/>
+      <point x="-413" y="-402" type="line"/>
+    </contour>
+    <contour>
+      <point x="-512" y="-500" type="move" name="L"/>
+    </contour>
+    <contour>
+      <point x="-512" y="-100" type="move" name="_L"/>
+    </contour>
+  </outline>
+</glyph>

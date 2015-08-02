@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="CyCapHaStrk" format="1">
+  <advance width="1480"/>
+  <unicode hex="04FE"/>
+  <outline>
+    <contour>
+      <point x="1059" y="751" type="line"/>
+      <point x="428" y="751" type="line"/>
+      <point x="428" y="666" type="line"/>
+      <point x="1059" y="666" type="line"/>
+    </contour>
+    <component base="CyCapHa"/>
+    <contour>
+      <point x="734" y="1435" type="move" name="U"/>
+    </contour>
+    <contour>
+      <point x="734" y="-100" type="move" name="L"/>
+    </contour>
+  </outline>
+</glyph>

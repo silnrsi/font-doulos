@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="EmptySet.SlashZero" format="1">
+  <advance width="1025"/>
+  <outline>
+    <contour>
+      <point x="160" y="-40" type="line"/>
+      <point x="275" y="-40" type="line"/>
+      <point x="857" y="1396" type="line"/>
+      <point x="742" y="1396" type="line"/>
+    </contour>
+    <component base="DigitZero"/>
+  </outline>
+</glyph>

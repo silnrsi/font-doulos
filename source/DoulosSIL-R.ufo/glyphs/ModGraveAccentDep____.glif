@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ModGraveAccentDep" format="1">
+  <advance width="467"/>
+  <unicode hex="F195"/>
+  <outline>
+    <contour>
+      <point x="-30" y="1012" type="line"/>
+      <point x="497" y="1012" type="line"/>
+      <point x="497" y="1425" type="line"/>
+      <point x="-30" y="1425" type="line"/>
+    </contour>
+    <contour>
+      <point x="384" y="1042" type="line"/>
+      <point x="89" y="1230" type="line" smooth="yes"/>
+      <point x="55" y="1251"/>
+      <point x="0" y="1283"/>
+      <point x="0" y="1318" type="curve" smooth="yes"/>
+      <point x="0" y="1366"/>
+      <point x="24" y="1395"/>
+      <point x="64" y="1395" type="curve" smooth="yes"/>
+      <point x="98" y="1395"/>
+      <point x="146" y="1366"/>
+      <point x="183" y="1328" type="curve" smooth="yes"/>
+      <point x="467" y="1042" type="line"/>
+    </contour>
+    <contour>
+      <point x="233" y="1435" type="move" name="U"/>
+    </contour>
+  </outline>
+</glyph>

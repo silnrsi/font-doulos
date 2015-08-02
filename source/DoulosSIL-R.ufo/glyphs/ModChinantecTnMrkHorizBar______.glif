@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ModChinantecTnMrkHorizBar" format="1">
+  <advance width="703"/>
+  <outline>
+    <contour>
+      <point x="661" y="1042" type="line"/>
+      <point x="661" y="1167" type="line"/>
+      <point x="43" y="1167" type="line"/>
+      <point x="43" y="1042" type="line"/>
+    </contour>
+  </outline>
+</glyph>

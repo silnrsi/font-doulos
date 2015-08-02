@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="LtnSmCapIStrk" format="1">
+  <advance width="546"/>
+  <unicode hex="1D7B"/>
+  <outline>
+    <contour>
+      <point x="531" y="455" type="line"/>
+      <point x="531" y="558" type="line"/>
+      <point x="15" y="558" type="line"/>
+      <point x="15" y="455" type="line"/>
+    </contour>
+    <component base="LtnSmCapI" xOffset="-24"/>
+    <contour>
+      <point x="273" y="1000" type="move" name="U"/>
+    </contour>
+    <contour>
+      <point x="273" y="-100" type="move" name="L"/>
+    </contour>
+  </outline>
+</glyph>

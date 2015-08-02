@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="LftCurlyBrac" format="1">
+  <advance width="980"/>
+  <unicode hex="007B"/>
+  <outline>
+    <contour>
+      <point x="775" y="-442" type="curve"/>
+      <point x="775" y="-406" type="line"/>
+      <point x="643" y="-372"/>
+      <point x="551" y="-288"/>
+      <point x="551" y="-141" type="curve" smooth="yes"/>
+      <point x="551" y="-47"/>
+      <point x="595" y="38"/>
+      <point x="595" y="132" type="curve" smooth="yes"/>
+      <point x="595" y="312"/>
+      <point x="481" y="434"/>
+      <point x="321" y="491" type="curve"/>
+      <point x="479" y="548"/>
+      <point x="595" y="668"/>
+      <point x="595" y="846" type="curve" smooth="yes"/>
+      <point x="595" y="942"/>
+      <point x="551" y="1029"/>
+      <point x="551" y="1123" type="curve" smooth="yes"/>
+      <point x="551" y="1269"/>
+      <point x="643" y="1354"/>
+      <point x="775" y="1388" type="curve"/>
+      <point x="775" y="1423" type="line"/>
+      <point x="589" y="1403"/>
+      <point x="402" y="1245"/>
+      <point x="402" y="1053" type="curve" smooth="yes"/>
+      <point x="402" y="940"/>
+      <point x="448" y="824"/>
+      <point x="448" y="731" type="curve" smooth="yes"/>
+      <point x="448" y="605"/>
+      <point x="314" y="528"/>
+      <point x="218" y="517" type="curve"/>
+      <point x="218" y="465" type="line"/>
+      <point x="316" y="453"/>
+      <point x="448" y="374"/>
+      <point x="448" y="246" type="curve" smooth="yes"/>
+      <point x="448" y="158"/>
+      <point x="402" y="49"/>
+      <point x="402" y="-57" type="curve" smooth="yes"/>
+      <point x="402" y="-258"/>
+      <point x="583" y="-422"/>
+    </contour>
+  </outline>
+</glyph>

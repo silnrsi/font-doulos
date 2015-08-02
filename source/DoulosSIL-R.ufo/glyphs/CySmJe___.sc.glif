@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="CySmJe.sc" format="1">
+  <advance width="706"/>
+  <outline>
+    <contour>
+      <point x="678" y="993" type="line"/>
+      <point x="678" y="1036" type="line"/>
+      <point x="180" y="1036" type="line"/>
+      <point x="180" y="993" type="line"/>
+      <point x="226" y="993" type="line" smooth="yes"/>
+      <point x="271" y="993"/>
+      <point x="315" y="973"/>
+      <point x="328" y="956" type="curve" smooth="yes"/>
+      <point x="342" y="937"/>
+      <point x="345" y="906"/>
+      <point x="345" y="848" type="curve" smooth="yes"/>
+      <point x="345" y="152" type="line" smooth="yes"/>
+      <point x="345" y="74"/>
+      <point x="313" y="46"/>
+      <point x="287" y="46" type="curve" smooth="yes"/>
+      <point x="260" y="46"/>
+      <point x="247" y="72"/>
+      <point x="234" y="101" type="curve" smooth="yes"/>
+      <point x="216" y="142"/>
+      <point x="194" y="187"/>
+      <point x="135" y="187" type="curve" smooth="yes"/>
+      <point x="88" y="187"/>
+      <point x="44" y="161"/>
+      <point x="44" y="100" type="curve" smooth="yes"/>
+      <point x="44" y="38"/>
+      <point x="103" y="-24"/>
+      <point x="219" y="-24" type="curve" smooth="yes"/>
+      <point x="326" y="-24"/>
+      <point x="517" y="30"/>
+      <point x="517" y="349" type="curve" smooth="yes"/>
+      <point x="517" y="848" type="line" smooth="yes"/>
+      <point x="517" y="903"/>
+      <point x="524" y="942"/>
+      <point x="535" y="959" type="curve"/>
+      <point x="556" y="977"/>
+      <point x="590" y="993"/>
+      <point x="632" y="993" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="436" y="1113" type="move" name="U"/>
+    </contour>
+    <contour>
+      <point x="365" y="-69" type="move" name="L"/>
+    </contour>
+  </outline>
+</glyph>

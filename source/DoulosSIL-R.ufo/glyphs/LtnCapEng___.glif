@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="LtnCapEng" format="1">
+  <advance width="1354"/>
+  <unicode hex="014A"/>
+  <outline>
+    <contour>
+      <point x="1245" y="903" type="line" smooth="yes" name="sh04"/>
+      <point x="1245" y="1208" name="at02"/>
+      <point x="1059" y="1388" name="iv03"/>
+      <point x="814" y="1388" type="curve" smooth="yes"/>
+      <point x="584" y="1388" name="at01"/>
+      <point x="442" y="1249" name="sv04"/>
+      <point x="420" y="1187" type="curve"/>
+      <point x="420" y="1356" type="line"/>
+      <point x="36" y="1356" type="line" name="iv02"/>
+      <point x="36" y="1320" type="line" name="sh01"/>
+      <point x="85" y="1320" type="line" smooth="yes" name="sv02"/>
+      <point x="124" y="1320" name="ab01"/>
+      <point x="182" y="1299"/>
+      <point x="201" y="1275" type="curve" smooth="yes" name="sv03"/>
+      <point x="223" y="1248" name="sh02"/>
+      <point x="229" y="1213" name="iv01"/>
+      <point x="229" y="1104" type="curve" smooth="yes" name="sv01"/>
+      <point x="229" y="305" type="line" smooth="yes" name="sh03"/>
+      <point x="229" y="45"/>
+      <point x="208" y="38" name="dv02"/>
+      <point x="36" y="38" type="curve"/>
+      <point x="36" y="0" type="line"/>
+      <point x="617" y="0" type="line" name="dv01"/>
+      <point x="617" y="38" type="line"/>
+      <point x="437" y="38" name="ah01"/>
+      <point x="420" y="53" name="sh05"/>
+      <point x="420" y="305" type="curve" smooth="yes"/>
+      <point x="420" y="1096" type="line"/>
+      <point x="457" y="1182"/>
+      <point x="597" y="1271"/>
+      <point x="715" y="1271" type="curve" smooth="yes"/>
+      <point x="915" y="1271"/>
+      <point x="1055" y="1122"/>
+      <point x="1055" y="877" type="curve" smooth="yes"/>
+      <point x="1055" y="-105" type="line" smooth="yes"/>
+      <point x="1055" y="-186"/>
+      <point x="1027" y="-299"/>
+      <point x="948" y="-299" type="curve" smooth="yes"/>
+      <point x="828" y="-299"/>
+      <point x="908" y="-118"/>
+      <point x="756" y="-118" type="curve" smooth="yes"/>
+      <point x="713" y="-118"/>
+      <point x="674" y="-150"/>
+      <point x="674" y="-231" type="curve" smooth="yes"/>
+      <point x="674" y="-327"/>
+      <point x="803" y="-374"/>
+      <point x="903" y="-374" type="curve" smooth="yes"/>
+      <point x="1112" y="-374"/>
+      <point x="1245" y="-267"/>
+      <point x="1245" y="64" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="737" y="1435" type="move" name="U"/>
+    </contour>
+    <contour>
+      <point x="737" y="-500" type="move" name="L"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.ttprogram</key>
+      <data>
+        <ttProgram>
+          <ttc align="round" code="alignh" point="ah01"/>
+          <ttc align="round" code="singleh" point1="ah01" point2="sh01"/>
+          <ttc code="singleh" point1="sh01" point2="sh02" stem="T1 V: 193"/>
+          <ttc code="singleh" point1="sh02" point2="sh03" round="true"/>
+          <ttc code="singleh" point1="sh03" point2="sh04" stem="T1 V: 193"/>
+          <ttc align="right" code="singleh" point1="sh04" point2="sh05"/>
+          <ttc code="alignt" point="at01" zone="t: 1"/>
+          <ttc code="alignt" point="at02" zone="t: 1"/>
+          <ttc code="alignb" point="ab01" zone="b: 0"/>
+          <ttc code="doublev" point1="dv01" point2="dv02" stem="T1 H: 76"/>
+          <ttc code="singlev" point1="at02" point2="sv01" stem="T1 H: 116"/>
+          <ttc code="interpolatev" point="iv01" point1="ab01" point2="sv01"/>
+          <ttc code="interpolatev" point="sh02" point1="ab01" point2="at01"/>
+          <ttc code="singlev" point1="ab01" point2="sv02" stem="T1 H: 37"/>
+          <ttc code="singlev" point1="sv02" point2="sv03"/>
+          <ttc code="interpolatev" point="sh01" point1="ab01" point2="at01"/>
+          <ttc code="interpolatev" point="iv02" point1="ab01" point2="at01"/>
+          <ttc code="singlev" point1="at01" point2="sv04" stem="T1 H: 37"/>
+          <ttc code="interpolatev" point="iv03" point1="ab01" point2="sv01"/>
+        </ttProgram>
+      </data>
+    </dict>
+  </lib>
+</glyph>

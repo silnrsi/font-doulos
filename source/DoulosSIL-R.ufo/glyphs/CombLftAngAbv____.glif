@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="CombLftAngAbv" format="1">
+  <advance width="589"/>
+  <unicode hex="031A"/>
+  <outline>
+    <contour>
+      <point x="491" y="944" type="line"/>
+      <point x="491" y="1356" type="line"/>
+      <point x="98" y="1356" type="line"/>
+      <point x="98" y="1277" type="line"/>
+      <point x="412" y="1277" type="line"/>
+      <point x="412" y="944" type="line"/>
+    </contour>
+  </outline>
+</glyph>

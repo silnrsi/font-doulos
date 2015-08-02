@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="CyCapO" format="1">
+  <advance width="1478"/>
+  <unicode hex="041E"/>
+  <outline>
+    <contour>
+      <point x="1399" y="686" type="curve"/>
+      <point x="1399" y="1092"/>
+      <point x="1106" y="1388"/>
+      <point x="751" y="1388" type="curve" smooth="yes"/>
+      <point x="365" y="1388"/>
+      <point x="71" y="1088"/>
+      <point x="71" y="682" type="curve" smooth="yes"/>
+      <point x="71" y="256"/>
+      <point x="365" y="-32"/>
+      <point x="733" y="-32" type="curve" smooth="yes"/>
+      <point x="1112" y="-32"/>
+      <point x="1399" y="276"/>
+    </contour>
+    <contour>
+      <point x="1173" y="660" type="curve"/>
+      <point x="1171" y="233"/>
+      <point x="989" y="38"/>
+      <point x="731" y="39" type="curve" smooth="yes"/>
+      <point x="451" y="41"/>
+      <point x="301" y="305"/>
+      <point x="301" y="688" type="curve" smooth="yes"/>
+      <point x="301" y="1076"/>
+      <point x="457" y="1318"/>
+      <point x="729" y="1317" type="curve" smooth="yes"/>
+      <point x="1029" y="1315"/>
+      <point x="1175" y="1074"/>
+    </contour>
+    <contour>
+      <point x="735" y="1435" type="move" name="U"/>
+    </contour>
+    <contour>
+      <point x="735" y="-100" type="move" name="L"/>
+    </contour>
+  </outline>
+</glyph>

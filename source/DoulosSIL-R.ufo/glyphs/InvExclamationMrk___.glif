@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="InvExclamationMrk" format="1">
+  <advance width="682"/>
+  <unicode hex="00A1"/>
+  <outline>
+    <contour>
+      <point x="453" y="861" type="curve"/>
+      <point x="453" y="942"/>
+      <point x="386" y="976"/>
+      <point x="341" y="976" type="curve" smooth="yes"/>
+      <point x="282" y="976"/>
+      <point x="231" y="925"/>
+      <point x="231" y="861" type="curve" smooth="yes"/>
+      <point x="231" y="794"/>
+      <point x="290" y="753"/>
+      <point x="341" y="753" type="curve" smooth="yes"/>
+      <point x="393" y="753"/>
+      <point x="453" y="790"/>
+    </contour>
+    <contour>
+      <point x="455" y="-301" type="curve"/>
+      <point x="455" y="-286"/>
+      <point x="453" y="-272"/>
+      <point x="448" y="-224" type="curve" smooth="yes"/>
+      <point x="361" y="587" type="line"/>
+      <point x="321" y="587" type="line"/>
+      <point x="231" y="-224" type="line" smooth="yes"/>
+      <point x="227" y="-252"/>
+      <point x="227" y="-276"/>
+      <point x="227" y="-292" type="curve" smooth="yes"/>
+      <point x="227" y="-402"/>
+      <point x="290" y="-442"/>
+      <point x="339" y="-442" type="curve" smooth="yes"/>
+      <point x="404" y="-442"/>
+      <point x="455" y="-391"/>
+    </contour>
+  </outline>
+</glyph>

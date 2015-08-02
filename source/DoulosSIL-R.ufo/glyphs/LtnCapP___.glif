@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="LtnCapP" format="1">
+  <advance width="1139"/>
+  <unicode hex="0050"/>
+  <outline>
+    <contour>
+      <point x="1068" y="982" type="curve" smooth="yes"/>
+      <point x="1068" y="1122"/>
+      <point x="1000" y="1207" name="at01"/>
+      <point x="912" y="1271" type="curve" name="at02"/>
+      <point x="818" y="1343" name="sv04"/>
+      <point x="668" y="1356"/>
+      <point x="530" y="1356" type="curve" smooth="yes"/>
+      <point x="36" y="1356" type="line" name="sh01"/>
+      <point x="36" y="1320" type="line"/>
+      <point x="85" y="1320" type="line" smooth="yes"/>
+      <point x="138" y="1320"/>
+      <point x="174" y="1305" name="sv02"/>
+      <point x="201" y="1277" type="curve" name="ab01"/>
+      <point x="218" y="1254"/>
+      <point x="227" y="1200" name="sv03"/>
+      <point x="227" y="1117" type="curve" smooth="yes"/>
+      <point x="227" y="241" type="line" smooth="yes"/>
+      <point x="227" y="161" name="sh05"/>
+      <point x="218" y="113"/>
+      <point x="207" y="92" type="curve" name="sv01"/>
+      <point x="183" y="55" name="dv01"/>
+      <point x="141" y="38" name="sh04"/>
+      <point x="85" y="38" type="curve" smooth="yes"/>
+      <point x="36" y="38" type="line" name="dv02"/>
+      <point x="36" y="0" type="line"/>
+      <point x="615" y="0" type="line" name="sh02"/>
+      <point x="615" y="38" type="line" name="sv05"/>
+      <point x="564" y="38" type="line" smooth="yes" name="sh03"/>
+      <point x="513" y="38" name="ah01"/>
+      <point x="474" y="53" name="sh06"/>
+      <point x="449" y="83" type="curve"/>
+      <point x="426" y="102"/>
+      <point x="420" y="156"/>
+      <point x="420" y="241" type="curve" smooth="yes"/>
+      <point x="420" y="617" type="line"/>
+      <point x="498" y="609"/>
+      <point x="527" y="607"/>
+      <point x="559" y="607" type="curve" smooth="yes"/>
+      <point x="593" y="607" type="line" smooth="yes"/>
+      <point x="950" y="604"/>
+      <point x="1068" y="775"/>
+    </contour>
+    <contour>
+      <point x="839" y="961" type="curve" smooth="yes"/>
+      <point x="836" y="786"/>
+      <point x="723" y="672"/>
+      <point x="583" y="672" type="curve" smooth="yes"/>
+      <point x="544" y="672"/>
+      <point x="489" y="673"/>
+      <point x="420" y="684" type="curve"/>
+      <point x="420" y="1258" type="line"/>
+      <point x="475" y="1269"/>
+      <point x="519" y="1277"/>
+      <point x="551" y="1277" type="curve" smooth="yes"/>
+      <point x="743" y="1277"/>
+      <point x="842" y="1127"/>
+    </contour>
+    <contour>
+      <point x="552" y="1435" type="move" name="U"/>
+    </contour>
+    <contour>
+      <point x="552" y="-100" type="move" name="L"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.ttprogram</key>
+      <data>
+        <ttProgram>
+          <ttc align="round" code="alignh" point="ah01"/>
+          <ttc align="round" code="singleh" point1="ah01" point2="sh01"/>
+          <ttc code="singleh" point1="sh01" point2="sh02" stem="T1 V: 193"/>
+          <ttc align="right" code="singleh" point1="sh02" point2="sh03"/>
+          <ttc code="singleh" point1="sh03" point2="sh04" stem="T1 V: 228"/>
+          <ttc code="singleh" point1="sh02" point2="sh05"/>
+          <ttc align="right" code="singleh" point1="sh04" point2="sh06"/>
+          <ttc code="alignt" point="at01" zone="t: 1"/>
+          <ttc code="alignt" point="at02" zone="t: 1"/>
+          <ttc code="alignb" point="ab01" zone="b: 0"/>
+          <ttc code="doublev" point1="dv01" point2="dv02" stem="T1 H: 63"/>
+          <ttc code="singlev" point1="dv01" point2="sv01"/>
+          <ttc code="singlev" point1="ab01" point2="sv02" stem="T1 H: 37"/>
+          <ttc code="singlev" point1="sv02" point2="sv03"/>
+          <ttc code="singlev" point1="at02" point2="sv04" stem="T1 H: 37"/>
+          <ttc code="singlev" point1="at01" point2="sv05" stem="T1 H: 76"/>
+        </ttProgram>
+      </data>
+    </dict>
+  </lib>
+</glyph>

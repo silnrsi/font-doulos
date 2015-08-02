@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="LtnCapA" format="1">
+  <advance width="1472"/>
+  <unicode hex="0041"/>
+  <outline>
+    <contour>
+      <point x="1456" y="0" type="line"/>
+      <point x="1456" y="38" type="line" name="sv04"/>
+      <point x="1343" y="46"/>
+      <point x="1304" y="71"/>
+      <point x="1224" y="260" type="curve" name="at01"/>
+      <point x="753" y="1388" type="line"/>
+      <point x="717" y="1388" type="line" name="sv02"/>
+      <point x="241" y="270" type="line" name="ab01"/>
+      <point x="176" y="122"/>
+      <point x="131" y="46" name="sv03"/>
+      <point x="15" y="38" type="curve"/>
+      <point x="15" y="0" type="line" name="dv01"/>
+      <point x="444" y="0" type="line"/>
+      <point x="444" y="38" type="line"/>
+      <point x="254" y="54" name="sv01"/>
+      <point x="269" y="115" name="ab02"/>
+      <point x="320" y="239" type="curve"/>
+      <point x="412" y="455" type="line" name="dv02"/>
+      <point x="938" y="455" type="line"/>
+      <point x="1019" y="260" type="line" smooth="yes"/>
+      <point x="1064" y="151"/>
+      <point x="1110" y="41"/>
+      <point x="922" y="38" type="curve"/>
+      <point x="922" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="910" y="528" type="line"/>
+      <point x="444" y="528" type="line"/>
+      <point x="680" y="1078" type="line"/>
+    </contour>
+    <contour>
+      <point x="735" y="1435" type="move" name="U"/>
+    </contour>
+    <contour>
+      <point x="735" y="-100" type="move" name="L"/>
+    </contour>
+    <contour>
+      <point x="1300" y="0" type="move" name="O"/>
+    </contour>
+    <contour>
+      <point x="735" y="0" type="move" name="H"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.ttprogram</key>
+      <data>
+        <ttProgram>
+          <ttc code="alignt" point="at01" zone="t: 1"/>
+          <ttc code="alignb" point="ab01" zone="b: 0"/>
+          <ttc code="alignb" point="ab02" zone="b: 0"/>
+          <ttc code="doublev" point1="dv01" point2="dv02" stem="T1 H: 76"/>
+          <ttc code="singlev" point1="ab02" point2="sv01" stem="T1 H: 37"/>
+          <ttc code="singlev" point1="ab01" point2="sv02" stem="T1 H: 37"/>
+          <ttc code="singlev" point1="sv02" point2="sv03"/>
+          <ttc code="singlev" point1="sv01" point2="sv04"/>
+        </ttProgram>
+      </data>
+    </dict>
+  </lib>
+</glyph>

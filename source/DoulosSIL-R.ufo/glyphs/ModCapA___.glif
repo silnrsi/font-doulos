@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ModCapA" format="1">
+  <advance width="1059"/>
+  <unicode hex="1D2C"/>
+  <outline>
+    <contour>
+      <point x="1048" y="806" type="line"/>
+      <point x="1048" y="829" type="line"/>
+      <point x="966" y="834"/>
+      <point x="940" y="847"/>
+      <point x="881" y="962" type="curve"/>
+      <point x="542" y="1639" type="line"/>
+      <point x="516" y="1639" type="line"/>
+      <point x="174" y="968" type="line"/>
+      <point x="125" y="879"/>
+      <point x="96" y="834"/>
+      <point x="11" y="829" type="curve"/>
+      <point x="11" y="806" type="line"/>
+      <point x="320" y="806" type="line"/>
+      <point x="320" y="829" type="line"/>
+      <point x="181" y="837"/>
+      <point x="195" y="877"/>
+      <point x="230" y="949" type="curve"/>
+      <point x="297" y="1079" type="line"/>
+      <point x="675" y="1079" type="line"/>
+      <point x="734" y="962" type="line"/>
+      <point x="765" y="897"/>
+      <point x="800" y="829"/>
+      <point x="664" y="829" type="curve"/>
+      <point x="664" y="806" type="line"/>
+    </contour>
+    <contour>
+      <point x="655" y="1123" type="line"/>
+      <point x="320" y="1123" type="line"/>
+      <point x="490" y="1453" type="line"/>
+    </contour>
+    <contour>
+      <point x="530" y="1625" type="move" name="U"/>
+    </contour>
+    <contour>
+      <point x="530" y="750" type="move" name="L"/>
+    </contour>
+  </outline>
+</glyph>

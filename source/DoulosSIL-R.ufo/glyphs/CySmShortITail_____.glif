@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="CySmShortITail" format="1">
+  <advance width="1110"/>
+  <unicode hex="048B"/>
+  <outline>
+    <contour>
+      <point x="982" y="30" type="line"/>
+      <point x="982" y="0" type="line"/>
+      <point x="784" y="-258" type="line"/>
+      <point x="881" y="-258" type="line"/>
+      <point x="1079" y="0" type="line"/>
+      <point x="1079" y="30" type="line"/>
+    </contour>
+    <component base="CySmI"/>
+    <component base="CombBreve.CyShortMrkAlt" xOffset="1111"/>
+    <contour>
+      <point x="555" y="1435" type="move" name="U"/>
+    </contour>
+    <contour>
+      <point x="555" y="-100" type="move" name="L"/>
+    </contour>
+  </outline>
+</glyph>

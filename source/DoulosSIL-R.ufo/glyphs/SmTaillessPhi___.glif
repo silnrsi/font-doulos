@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="SmTaillessPhi" format="1">
+  <advance width="1236"/>
+  <unicode hex="2C77"/>
+  <outline>
+    <contour>
+      <point x="1147" y="536" type="curve" smooth="yes"/>
+      <point x="1147" y="763"/>
+      <point x="1044" y="942"/>
+      <point x="875" y="942" type="curve" smooth="yes"/>
+      <point x="664" y="942"/>
+      <point x="525" y="733"/>
+      <point x="525" y="314" type="curve" smooth="yes"/>
+      <point x="525" y="42" type="line"/>
+      <point x="292" y="91"/>
+      <point x="244" y="345"/>
+      <point x="244" y="536" type="curve" smooth="yes"/>
+      <point x="244" y="704"/>
+      <point x="310" y="835"/>
+      <point x="395" y="835" type="curve" smooth="yes"/>
+      <point x="493" y="835"/>
+      <point x="525" y="756"/>
+      <point x="525" y="756" type="curve"/>
+      <point x="525" y="756"/>
+      <point x="530" y="942"/>
+      <point x="341" y="942" type="curve" smooth="yes"/>
+      <point x="171" y="942"/>
+      <point x="69" y="763"/>
+      <point x="69" y="536" type="curve" smooth="yes"/>
+      <point x="69" y="58"/>
+      <point x="399" y="-26"/>
+      <point x="610" y="-26" type="curve" smooth="yes"/>
+      <point x="767" y="-26"/>
+      <point x="1147" y="36"/>
+    </contour>
+    <contour>
+      <point x="972" y="536" type="curve"/>
+      <point x="972" y="346"/>
+      <point x="916" y="96"/>
+      <point x="694" y="43" type="curve"/>
+      <point x="694" y="491" type="line" smooth="yes"/>
+      <point x="694" y="765"/>
+      <point x="747" y="835"/>
+      <point x="820" y="835" type="curve" smooth="yes"/>
+      <point x="905" y="835"/>
+      <point x="972" y="705"/>
+    </contour>
+  </outline>
+</glyph>

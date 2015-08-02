@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ModLowCircumDep" format="1">
+  <advance width="643"/>
+  <unicode hex="F1E7"/>
+  <outline>
+    <contour>
+      <point x="673" y="-530" type="line"/>
+      <point x="673" y="-128" type="line"/>
+      <point x="-30" y="-128" type="line"/>
+      <point x="-30" y="-530" type="line"/>
+    </contour>
+    <contour>
+      <point x="643" y="-500" type="line"/>
+      <point x="572" y="-500" type="line"/>
+      <point x="321" y="-289" type="line"/>
+      <point x="71" y="-500" type="line"/>
+      <point x="0" y="-500" type="line"/>
+      <point x="258" y="-158" type="line"/>
+      <point x="386" y="-158" type="line"/>
+    </contour>
+  </outline>
+</glyph>

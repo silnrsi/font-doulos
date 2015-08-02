@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="MultSgn" format="1">
+  <advance width="1971"/>
+  <unicode hex="00D7"/>
+  <outline>
+    <contour>
+      <point x="1518" y="136" type="line"/>
+      <point x="1064" y="591" type="line"/>
+      <point x="1518" y="1046" type="line"/>
+      <point x="1441" y="1123" type="line"/>
+      <point x="985" y="666" type="line"/>
+      <point x="530" y="1123" type="line"/>
+      <point x="453" y="1046" type="line"/>
+      <point x="907" y="591" type="line"/>
+      <point x="453" y="136" type="line"/>
+      <point x="530" y="59" type="line"/>
+      <point x="985" y="517" type="line"/>
+      <point x="1441" y="59" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="FontVertMetricsMrkrLft" format="1">
+  <advance width="419"/>
+  <unicode hex="F132"/>
+  <outline>
+    <contour>
+      <point x="419" y="-410" type="line"/>
+      <point x="419" y="1423" type="line"/>
+      <point x="100" y="1423" type="line"/>
+      <point x="100" y="1393" type="line"/>
+      <point x="389" y="1393" type="line"/>
+      <point x="389" y="1356" type="line"/>
+      <point x="100" y="1356" type="line"/>
+      <point x="100" y="1326" type="line"/>
+      <point x="389" y="1326" type="line"/>
+      <point x="389" y="916" type="line"/>
+      <point x="100" y="916" type="line"/>
+      <point x="100" y="886" type="line"/>
+      <point x="389" y="886" type="line"/>
+      <point x="389" y="30" type="line"/>
+      <point x="100" y="30" type="line"/>
+      <point x="100" y="0" type="line"/>
+      <point x="389" y="0" type="line"/>
+      <point x="389" y="-380" type="line"/>
+      <point x="100" y="-380" type="line"/>
+      <point x="100" y="-410" type="line"/>
+    </contour>
+  </outline>
+</glyph>

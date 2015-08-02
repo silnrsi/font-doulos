@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="LtnSmCapEth" format="1">
+  <advance width="1178"/>
+  <unicode hex="1D06"/>
+  <outline>
+    <contour>
+      <point x="654" y="458" type="line"/>
+      <point x="654" y="535" type="line"/>
+      <point x="29" y="535" type="line"/>
+      <point x="29" y="458" type="line"/>
+    </contour>
+    <component base="LtnCapD" xScale="0.8" yScale="0.674779"/>
+    <contour>
+      <point x="717" y="-100" type="move" name="L"/>
+    </contour>
+    <contour>
+      <point x="575" y="1000" type="move" name="U"/>
+    </contour>
+  </outline>
+</glyph>

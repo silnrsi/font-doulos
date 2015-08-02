@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="CySmHaStrk" format="1">
+  <advance width="1025"/>
+  <unicode hex="04FF"/>
+  <outline>
+    <contour>
+      <point x="748" y="478" type="line"/>
+      <point x="748" y="533" type="line"/>
+      <point x="239" y="533" type="line"/>
+      <point x="239" y="478" type="line"/>
+    </contour>
+    <component base="CySmHa"/>
+    <contour>
+      <point x="515" y="1000" type="move" name="U"/>
+    </contour>
+    <contour>
+      <point x="515" y="-100" type="move" name="L"/>
+    </contour>
+  </outline>
+</glyph>

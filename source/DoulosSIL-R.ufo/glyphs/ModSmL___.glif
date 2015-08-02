@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ModSmL" format="1">
+  <advance width="425"/>
+  <unicode hex="02E1"/>
+  <outline>
+    <contour>
+      <point x="386" y="806" type="line"/>
+      <point x="386" y="828" type="line"/>
+      <point x="329" y="828"/>
+      <point x="312" y="835"/>
+      <point x="299" y="850" type="curve" smooth="yes"/>
+      <point x="286" y="863"/>
+      <point x="280" y="881"/>
+      <point x="280" y="931" type="curve" smooth="yes"/>
+      <point x="280" y="1659" type="line"/>
+      <point x="248" y="1659" type="line"/>
+      <point x="51" y="1595" type="line"/>
+      <point x="65" y="1573" type="line"/>
+      <point x="107" y="1585"/>
+      <point x="122" y="1583"/>
+      <point x="141" y="1573" type="curve"/>
+      <point x="156" y="1561"/>
+      <point x="162" y="1555"/>
+      <point x="162" y="1429" type="curve" smooth="yes"/>
+      <point x="162" y="931" type="line" smooth="yes"/>
+      <point x="162" y="879"/>
+      <point x="152" y="859"/>
+      <point x="141" y="848" type="curve" smooth="yes"/>
+      <point x="126" y="832"/>
+      <point x="109" y="828"/>
+      <point x="65" y="828" type="curve"/>
+      <point x="65" y="806" type="line"/>
+    </contour>
+    <contour>
+      <point x="219" y="1625" type="move" name="U"/>
+    </contour>
+    <contour>
+      <point x="219" y="750" type="move" name="L"/>
+    </contour>
+  </outline>
+</glyph>

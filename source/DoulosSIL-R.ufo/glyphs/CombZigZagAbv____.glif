@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="CombZigZagAbv" format="1">
+  <advance width="0"/>
+  <unicode hex="035B"/>
+  <outline>
+    <contour>
+      <point x="-597" y="1403" type="line"/>
+      <point x="-662" y="1173" type="line"/>
+      <point x="-457" y="1173" type="line"/>
+      <point x="-497" y="1023" type="line"/>
+      <point x="-427" y="1023" type="line"/>
+      <point x="-362" y="1253" type="line"/>
+      <point x="-567" y="1253" type="line"/>
+      <point x="-527" y="1403" type="line"/>
+    </contour>
+    <contour>
+      <point x="-512" y="1435" type="move" name="U"/>
+    </contour>
+    <contour>
+      <point x="-512" y="1000" type="move" name="_U"/>
+    </contour>
+  </outline>
+</glyph>

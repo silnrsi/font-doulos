@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="UpDwnArrwWBase" format="1">
+  <advance width="985"/>
+  <unicode hex="21A8"/>
+  <outline>
+    <contour>
+      <point x="984" y="-471" type="line"/>
+      <point x="984" y="-344" type="line"/>
+      <point x="0" y="-344" type="line"/>
+      <point x="0" y="-471" type="line"/>
+    </contour>
+    <contour>
+      <point x="820" y="385" type="line"/>
+      <point x="725" y="422" type="line"/>
+      <point x="555" y="0" type="line"/>
+      <point x="555" y="1221" type="line"/>
+      <point x="725" y="799" type="line"/>
+      <point x="820" y="836" type="line"/>
+      <point x="562" y="1434" type="line"/>
+      <point x="422" y="1434" type="line"/>
+      <point x="164" y="836" type="line"/>
+      <point x="259" y="799" type="line"/>
+      <point x="429" y="1221" type="line"/>
+      <point x="429" y="0" type="line"/>
+      <point x="259" y="422" type="line"/>
+      <point x="164" y="385" type="line"/>
+      <point x="422" y="-213" type="line"/>
+      <point x="562" y="-213" type="line"/>
+    </contour>
+  </outline>
+</glyph>

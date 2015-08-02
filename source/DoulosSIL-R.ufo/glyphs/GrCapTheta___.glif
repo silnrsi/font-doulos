@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="GrCapTheta" format="1">
+  <advance width="1480"/>
+  <unicode hex="0398"/>
+  <outline>
+    <contour>
+      <point x="1027" y="540" type="line"/>
+      <point x="1027" y="820" type="line"/>
+      <point x="967" y="820" type="line"/>
+      <point x="967" y="780"/>
+      <point x="947" y="760"/>
+      <point x="907" y="760" type="curve"/>
+      <point x="567" y="760" type="line"/>
+      <point x="527" y="760"/>
+      <point x="507" y="780"/>
+      <point x="507" y="820" type="curve"/>
+      <point x="447" y="820" type="line"/>
+      <point x="447" y="540" type="line"/>
+      <point x="507" y="540" type="line"/>
+      <point x="507" y="580"/>
+      <point x="527" y="600"/>
+      <point x="567" y="600" type="curve"/>
+      <point x="907" y="600" type="line"/>
+      <point x="947" y="600"/>
+      <point x="967" y="580"/>
+      <point x="967" y="540" type="curve"/>
+    </contour>
+    <component base="LtnCapO"/>
+    <contour>
+      <point x="735" y="1435" type="move" name="U"/>
+    </contour>
+    <contour>
+      <point x="735" y="-100" type="move" name="L"/>
+    </contour>
+  </outline>
+</glyph>

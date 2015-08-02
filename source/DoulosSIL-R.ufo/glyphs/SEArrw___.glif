@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="SEArrw" format="1">
+  <advance width="1971"/>
+  <unicode hex="2198"/>
+  <outline>
+    <contour>
+      <point x="1636" y="36" type="line"/>
+      <point x="1405" y="617" type="line"/>
+      <point x="1317" y="577" type="line"/>
+      <point x="1488" y="175" type="line"/>
+      <point x="420" y="1243" type="line"/>
+      <point x="333" y="1157" type="line"/>
+      <point x="1401" y="89" type="line"/>
+      <point x="999" y="260" type="line"/>
+      <point x="960" y="171" type="line"/>
+      <point x="1542" y="-59" type="line"/>
+    </contour>
+  </outline>
+</glyph>

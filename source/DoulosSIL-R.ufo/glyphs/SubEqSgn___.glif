@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="SubEqSgn" format="1">
+  <advance width="395"/>
+  <unicode hex="208C"/>
+  <outline>
+    <contour>
+      <point x="395" y="-143" type="line"/>
+      <point x="395" y="-64" type="line"/>
+      <point x="0" y="-64" type="line"/>
+      <point x="0" y="-143" type="line"/>
+    </contour>
+    <contour>
+      <point x="395" y="13" type="line"/>
+      <point x="395" y="92" type="line"/>
+      <point x="0" y="92" type="line"/>
+      <point x="0" y="13" type="line"/>
+    </contour>
+  </outline>
+</glyph>

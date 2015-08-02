@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="LtnSmUpsilonOverSmSchwa" format="1">
+  <advance width="735"/>
+  <unicode hex="F259"/>
+  <outline>
+    <component base="LtnSupSmSchwa" xOffset="47" yOffset="-819"/>
+    <component base="LtnSupSmUpsilon" yOffset="-163"/>
+  </outline>
+</glyph>

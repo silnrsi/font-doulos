@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="CombDblOverline" format="1">
+  <advance width="0"/>
+  <unicode hex="033F"/>
+  <outline>
+    <contour>
+      <point x="131" y="1345" type="line"/>
+      <point x="131" y="1454" type="line"/>
+      <point x="-1155" y="1454" type="line" name="sv01"/>
+      <point x="-1155" y="1345" type="line" name="av02"/>
+    </contour>
+    <contour>
+      <point x="131" y="1125" type="line"/>
+      <point x="131" y="1234" type="line"/>
+      <point x="-1155" y="1234" type="line" name="av01"/>
+      <point x="-1155" y="1125" type="line" name="sv02"/>
+    </contour>
+    <contour>
+      <point x="-512" y="1475" type="move" name="U"/>
+    </contour>
+    <contour>
+      <point x="-512" y="1000" type="move" name="_U"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.ttprogram</key>
+      <data>
+        <ttProgram>
+          <ttc align="round" code="alignv" point="av01"/>
+          <ttc align="round" code="alignv" point="av02"/>
+          <ttc code="doublev" point1="av01" point2="av02" round="true"/>
+          <ttc align="round" code="singlev" point1="av02" point2="sv01" stem="T1 H: 37"/>
+          <ttc align="round" code="singlev" point1="av01" point2="sv02" stem="T1 H: 37"/>
+        </ttProgram>
+      </data>
+    </dict>
+  </lib>
+</glyph>

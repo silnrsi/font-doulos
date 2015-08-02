@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="LtnCapAfricanD" format="1">
+  <advance width="1480"/>
+  <unicode hex="0189"/>
+  <outline>
+    <contour>
+      <point x="818" y="678" type="line"/>
+      <point x="818" y="792" type="line"/>
+      <point x="36" y="792" type="line"/>
+      <point x="36" y="678" type="line"/>
+    </contour>
+    <component base="LtnCapD"/>
+    <contour>
+      <point x="717" y="1435" type="move" name="U"/>
+    </contour>
+    <contour>
+      <point x="717" y="-100" type="move" name="L"/>
+    </contour>
+  </outline>
+</glyph>

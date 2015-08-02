@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="SglLftPtngAngQuotMrk" format="1">
+  <advance width="682"/>
+  <unicode hex="2039"/>
+  <outline>
+    <contour>
+      <point x="560" y="-8" type="line"/>
+      <point x="316" y="465" type="line"/>
+      <point x="560" y="934" type="line"/>
+      <point x="506" y="934" type="line"/>
+      <point x="118" y="465" type="line"/>
+      <point x="506" y="-8" type="line"/>
+    </contour>
+  </outline>
+</glyph>

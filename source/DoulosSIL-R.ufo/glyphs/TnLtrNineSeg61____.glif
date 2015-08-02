@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="TnLtrNineSeg61" format="1">
+  <advance width="944"/>
+  <outline>
+    <contour>
+      <point x="-40" y="667" type="curve" smooth="yes"/>
+      <point x="902" y="-388" type="line" smooth="yes"/>
+      <point x="922" y="-411"/>
+      <point x="957" y="-412"/>
+      <point x="980" y="-392" type="curve" smooth="yes"/>
+      <point x="1003" y="-372"/>
+      <point x="1004" y="-337"/>
+      <point x="984" y="-314" type="curve" smooth="yes"/>
+      <point x="42" y="741" type="line" smooth="yes"/>
+      <point x="22" y="764"/>
+      <point x="-13" y="765"/>
+      <point x="-36" y="745" type="curve" smooth="yes"/>
+      <point x="-59" y="725"/>
+      <point x="-60" y="690"/>
+    </contour>
+  </outline>
+</glyph>

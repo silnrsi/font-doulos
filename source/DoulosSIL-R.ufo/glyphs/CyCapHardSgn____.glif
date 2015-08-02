@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="CyCapHardSgn" format="1">
+  <advance width="1384"/>
+  <unicode hex="042A"/>
+  <outline>
+    <contour>
+      <point x="1317" y="384" type="curve"/>
+      <point x="1317" y="615"/>
+      <point x="1143" y="753"/>
+      <point x="761" y="753" type="curve" smooth="yes"/>
+      <point x="709" y="753"/>
+      <point x="743" y="755"/>
+      <point x="641" y="743" type="curve"/>
+      <point x="641" y="1189" type="line" smooth="yes"/>
+      <point x="641" y="1267"/>
+      <point x="672" y="1318"/>
+      <point x="828" y="1318" type="curve"/>
+      <point x="828" y="1356" type="line"/>
+      <point x="73" y="1356" type="line"/>
+      <point x="53" y="1038" type="line"/>
+      <point x="102" y="1038" type="line"/>
+      <point x="122" y="1216"/>
+      <point x="193" y="1283"/>
+      <point x="371" y="1283" type="curve" smooth="yes"/>
+      <point x="449" y="1283" type="line"/>
+      <point x="449" y="246" type="line" smooth="yes"/>
+      <point x="449" y="94"/>
+      <point x="446" y="51"/>
+      <point x="278" y="38" type="curve"/>
+      <point x="278" y="0" type="line"/>
+      <point x="812" y="0" type="line" smooth="yes"/>
+      <point x="1046" y="0"/>
+      <point x="1317" y="124"/>
+    </contour>
+    <contour>
+      <point x="1080" y="391" type="curve"/>
+      <point x="1080" y="158"/>
+      <point x="903" y="73"/>
+      <point x="739" y="73" type="curve" smooth="yes"/>
+      <point x="641" y="73"/>
+      <point x="641" y="73"/>
+      <point x="641" y="171" type="curve" smooth="yes"/>
+      <point x="641" y="668" type="line"/>
+      <point x="709" y="678"/>
+      <point x="722" y="674"/>
+      <point x="761" y="674" type="curve" smooth="yes"/>
+      <point x="976" y="674"/>
+      <point x="1080" y="607"/>
+    </contour>
+    <contour>
+      <point x="685" y="1435" type="move" name="U"/>
+    </contour>
+    <contour>
+      <point x="685" y="-100" type="move" name="L"/>
+    </contour>
+  </outline>
+</glyph>

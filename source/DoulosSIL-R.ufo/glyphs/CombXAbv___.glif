@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="CombXAbv" format="1">
+  <advance width="0"/>
+  <unicode hex="033D"/>
+  <outline>
+    <contour>
+      <point x="-269" y="1042" type="line"/>
+      <point x="-451" y="1202" type="line"/>
+      <point x="-269" y="1364" type="line"/>
+      <point x="-389" y="1364" type="line"/>
+      <point x="-511" y="1256" type="line"/>
+      <point x="-634" y="1364" type="line"/>
+      <point x="-754" y="1364" type="line"/>
+      <point x="-573" y="1202" type="line"/>
+      <point x="-754" y="1042" type="line"/>
+      <point x="-634" y="1042" type="line"/>
+      <point x="-511" y="1151" type="line"/>
+      <point x="-389" y="1042" type="line"/>
+    </contour>
+    <contour>
+      <point x="-512" y="1435" type="move" name="U"/>
+    </contour>
+    <contour>
+      <point x="-512" y="1000" type="move" name="_U"/>
+    </contour>
+  </outline>
+</glyph>

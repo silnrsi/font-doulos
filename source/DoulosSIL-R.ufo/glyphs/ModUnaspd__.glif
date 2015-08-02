@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ModUnaspd" format="1">
+  <advance width="780"/>
+  <unicode hex="02ED"/>
+  <outline>
+    <contour>
+      <point x="730" y="1014" type="line"/>
+      <point x="730" y="1123" type="line"/>
+      <point x="50" y="1123" type="line"/>
+      <point x="50" y="1014" type="line"/>
+    </contour>
+    <contour>
+      <point x="730" y="794" type="line"/>
+      <point x="730" y="903" type="line"/>
+      <point x="50" y="903" type="line"/>
+      <point x="50" y="794" type="line"/>
+    </contour>
+  </outline>
+</glyph>

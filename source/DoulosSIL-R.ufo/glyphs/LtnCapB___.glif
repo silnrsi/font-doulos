@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="LtnCapB" format="1">
+  <advance width="1332"/>
+  <unicode hex="0042"/>
+  <outline>
+    <contour>
+      <point x="1254" y="371" type="curve" smooth="yes"/>
+      <point x="1254" y="525" name="iv01"/>
+      <point x="1159" y="654" name="dh04"/>
+      <point x="946" y="694" type="curve" name="at01"/>
+      <point x="1110" y="744"/>
+      <point x="1192" y="862" name="sv02"/>
+      <point x="1192" y="993" type="curve" smooth="yes"/>
+      <point x="1192" y="1155"/>
+      <point x="1100" y="1356" name="dh01"/>
+      <point x="621" y="1356" type="curve" smooth="yes"/>
+      <point x="36" y="1356" type="line"/>
+      <point x="36" y="1320" type="line"/>
+      <point x="85" y="1320" type="line" smooth="yes" name="sv01"/>
+      <point x="138" y="1320" name="ab01"/>
+      <point x="174" y="1305"/>
+      <point x="201" y="1277" type="curve"/>
+      <point x="220" y="1254" name="sh01"/>
+      <point x="229" y="1201"/>
+      <point x="229" y="1117" type="curve" smooth="yes" name="dv02"/>
+      <point x="229" y="241" type="line" smooth="yes"/>
+      <point x="229" y="164" name="dh02"/>
+      <point x="220" y="115" name="sv03"/>
+      <point x="207" y="92" type="curve" name="dh03"/>
+      <point x="182" y="56"/>
+      <point x="141" y="38" name="sv04"/>
+      <point x="85" y="38" type="curve" smooth="yes" name="sh03"/>
+      <point x="36" y="38" type="line"/>
+      <point x="36" y="0" type="line" name="dv01"/>
+      <point x="674" y="0" type="line" smooth="yes" name="sh02"/>
+      <point x="906" y="0"/>
+      <point x="1032" y="31" name="ah01"/>
+      <point x="1117" y="98" type="curve" smooth="yes"/>
+      <point x="1206" y="168"/>
+      <point x="1254" y="276"/>
+    </contour>
+    <contour>
+      <point x="982" y="1003" type="curve" smooth="yes"/>
+      <point x="982" y="833"/>
+      <point x="877" y="733"/>
+      <point x="613" y="733" type="curve" smooth="yes"/>
+      <point x="533" y="733"/>
+      <point x="474" y="735"/>
+      <point x="422" y="747" type="curve"/>
+      <point x="422" y="1269" type="line"/>
+      <point x="475" y="1284"/>
+      <point x="535" y="1289"/>
+      <point x="603" y="1289" type="curve" smooth="yes"/>
+      <point x="859" y="1289"/>
+      <point x="982" y="1158"/>
+    </contour>
+    <contour>
+      <point x="1023" y="355" type="curve" smooth="yes"/>
+      <point x="1023" y="190"/>
+      <point x="893" y="71"/>
+      <point x="653" y="71" type="curve" smooth="yes"/>
+      <point x="576" y="71"/>
+      <point x="501" y="81"/>
+      <point x="422" y="98" type="curve"/>
+      <point x="422" y="654" type="line"/>
+      <point x="459" y="662"/>
+      <point x="515" y="664"/>
+      <point x="600" y="664" type="curve" smooth="yes"/>
+      <point x="875" y="664"/>
+      <point x="1023" y="535"/>
+    </contour>
+    <contour>
+      <point x="645" y="1435" type="move" name="U"/>
+    </contour>
+    <contour>
+      <point x="645" y="-100" type="move" name="L"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.ttprogram</key>
+      <data>
+        <ttProgram>
+          <ttc align="round" code="alignh" point="ah01"/>
+          <ttc code="doubleh" point1="dh01" point2="dh02" stem="T1 V: 193"/>
+          <ttc code="doubleh" point1="dh03" point2="dh04" stem="T1 V: 213"/>
+          <ttc code="singleh" point1="ah01" point2="sh01" round="true"/>
+          <ttc code="singleh" point1="sh01" point2="sh02" stem="T1 V: 228"/>
+          <ttc code="singleh" point1="dh02" point2="sh03"/>
+          <ttc code="alignt" point="at01" zone="t: 1"/>
+          <ttc code="alignb" point="ab01" zone="b: 0"/>
+          <ttc code="doublev" point1="dv01" point2="dv02" stem="T1 H: 69"/>
+          <ttc code="singlev" point1="ab01" point2="sv01" stem="T1 H: 37"/>
+          <ttc code="singlev" point1="at01" point2="sv02" stem="T1 H: 37"/>
+          <ttc code="interpolatev" point="iv01" point1="dv01" point2="dv02"/>
+          <ttc code="singlev" point1="at01" point2="sv03" stem="T1 H: 69"/>
+          <ttc code="singlev" point1="ab01" point2="sv04" stem="T1 H: 69"/>
+        </ttProgram>
+      </data>
+    </dict>
+  </lib>
+</glyph>

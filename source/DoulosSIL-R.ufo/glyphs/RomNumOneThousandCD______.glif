@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="RomNumOneThousandCD" format="1">
+  <advance width="2286"/>
+  <unicode hex="2180"/>
+  <outline>
+    <contour>
+      <point x="276" y="676" type="curve" smooth="yes"/>
+      <point x="276" y="1051"/>
+      <point x="505" y="1281"/>
+      <point x="824" y="1281" type="curve"/>
+      <point x="883" y="1281"/>
+      <point x="951" y="1273"/>
+      <point x="1029" y="1251" type="curve" smooth="yes"/>
+      <point x="1029" y="98" type="line"/>
+      <point x="945" y="81"/>
+      <point x="874" y="69"/>
+      <point x="817" y="69" type="curve"/>
+      <point x="511" y="67"/>
+      <point x="276" y="297"/>
+    </contour>
+    <contour>
+      <point x="50" y="686" type="curve" smooth="yes"/>
+      <point x="50" y="305"/>
+      <point x="286" y="0"/>
+      <point x="808" y="0" type="curve"/>
+      <point x="1478" y="0" type="line" smooth="yes"/>
+      <point x="2000" y="0"/>
+      <point x="2236" y="305"/>
+      <point x="2236" y="686" type="curve"/>
+      <point x="2236" y="899"/>
+      <point x="2153" y="1084"/>
+      <point x="2027" y="1196" type="curve" smooth="yes"/>
+      <point x="1899" y="1309"/>
+      <point x="1722" y="1356"/>
+      <point x="1422" y="1356" type="curve" smooth="yes"/>
+      <point x="851" y="1356" type="line"/>
+      <point x="545" y="1356"/>
+      <point x="387" y="1309"/>
+      <point x="259" y="1196" type="curve" smooth="yes"/>
+      <point x="133" y="1084"/>
+      <point x="50" y="899"/>
+    </contour>
+    <contour>
+      <point x="2010" y="676" type="curve"/>
+      <point x="2010" y="297"/>
+      <point x="1775" y="67"/>
+      <point x="1469" y="69" type="curve" smooth="yes"/>
+      <point x="1412" y="69"/>
+      <point x="1341" y="81"/>
+      <point x="1257" y="98" type="curve"/>
+      <point x="1257" y="1251" type="line"/>
+      <point x="1335" y="1273"/>
+      <point x="1403" y="1281"/>
+      <point x="1462" y="1281" type="curve" smooth="yes"/>
+      <point x="1781" y="1281"/>
+      <point x="2010" y="1051"/>
+    </contour>
+    <contour>
+      <point x="1142" y="1435" type="move" name="U"/>
+    </contour>
+  </outline>
+</glyph>

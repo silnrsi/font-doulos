@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="CombDblVertLineAbv" format="1">
+  <advance width="0"/>
+  <unicode hex="030E"/>
+  <outline>
+    <contour>
+      <point x="-374" y="1042" type="line"/>
+      <point x="-374" y="1356" type="line"/>
+      <point x="-453" y="1356" type="line"/>
+      <point x="-453" y="1042" type="line"/>
+    </contour>
+    <contour>
+      <point x="-571" y="1042" type="line"/>
+      <point x="-571" y="1356" type="line"/>
+      <point x="-650" y="1356" type="line"/>
+      <point x="-650" y="1042" type="line"/>
+    </contour>
+    <contour>
+      <point x="-512" y="1435" type="move" name="U"/>
+    </contour>
+    <contour>
+      <point x="-512" y="1000" type="move" name="_U"/>
+    </contour>
+  </outline>
+</glyph>

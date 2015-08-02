@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="CombLftAngBlw" format="1">
+  <advance width="0"/>
+  <unicode hex="0349"/>
+  <outline>
+    <contour>
+      <point x="-669" y="-237" type="line"/>
+      <point x="-434" y="-237" type="line"/>
+      <point x="-434" y="-475" type="line"/>
+      <point x="-355" y="-475" type="line"/>
+      <point x="-355" y="-158" type="line"/>
+      <point x="-669" y="-158" type="line"/>
+    </contour>
+    <contour>
+      <point x="-512" y="-500" type="move" name="L"/>
+    </contour>
+    <contour>
+      <point x="-512" y="-100" type="move" name="_L"/>
+    </contour>
+  </outline>
+</glyph>

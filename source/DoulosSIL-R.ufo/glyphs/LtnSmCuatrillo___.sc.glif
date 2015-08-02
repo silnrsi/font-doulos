@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="LtnSmCuatrillo.sc" format="1">
+  <advance width="925"/>
+  <outline>
+    <contour>
+      <point x="519" y="454" type="line"/>
+      <point x="142" y="454" type="line"/>
+      <point x="519" y="898" type="line"/>
+    </contour>
+    <contour>
+      <point x="519" y="316" type="line"/>
+      <point x="519" y="129"/>
+      <point x="472" y="49"/>
+      <point x="360" y="49" type="curve" smooth="yes"/>
+      <point x="271" y="49"/>
+      <point x="243" y="86"/>
+      <point x="217" y="121" type="curve" smooth="yes"/>
+      <point x="193" y="152"/>
+      <point x="173" y="183"/>
+      <point x="116" y="183" type="curve" smooth="yes"/>
+      <point x="74" y="183"/>
+      <point x="43" y="143"/>
+      <point x="43" y="113" type="curve" smooth="yes"/>
+      <point x="43" y="30"/>
+      <point x="163" y="-24"/>
+      <point x="294" y="-24" type="curve" smooth="yes"/>
+      <point x="348" y="-24"/>
+      <point x="670" y="1"/>
+      <point x="670" y="320" type="curve" smooth="yes"/>
+      <point x="670" y="332" type="line"/>
+      <point x="862" y="332" type="line"/>
+      <point x="862" y="454" type="line"/>
+      <point x="670" y="454" type="line"/>
+      <point x="670" y="1060" type="line"/>
+      <point x="569" y="1060" type="line"/>
+      <point x="37" y="439" type="line"/>
+      <point x="37" y="332" type="line"/>
+      <point x="519" y="332" type="line"/>
+    </contour>
+  </outline>
+</glyph>

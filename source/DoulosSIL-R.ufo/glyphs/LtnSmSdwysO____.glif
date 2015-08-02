@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="LtnSmSdwysO" format="1">
+  <advance width="1112"/>
+  <unicode hex="1D11"/>
+  <outline>
+    <contour>
+      <point x="575" y="14" type="curve" smooth="yes"/>
+      <point x="837" y="14"/>
+      <point x="1042" y="193"/>
+      <point x="1042" y="456" type="curve" smooth="yes"/>
+      <point x="1042" y="731"/>
+      <point x="796" y="899"/>
+      <point x="549" y="899" type="curve" smooth="yes"/>
+      <point x="295" y="899"/>
+      <point x="70" y="722"/>
+      <point x="70" y="466" type="curve" smooth="yes"/>
+      <point x="70" y="165"/>
+      <point x="339" y="14"/>
+    </contour>
+    <contour>
+      <point x="498" y="201" type="curve" smooth="yes"/>
+      <point x="236" y="201"/>
+      <point x="143" y="292"/>
+      <point x="143" y="424" type="curve" smooth="yes"/>
+      <point x="143" y="600"/>
+      <point x="370" y="714"/>
+      <point x="632" y="714" type="curve" smooth="yes"/>
+      <point x="898" y="714"/>
+      <point x="979" y="592"/>
+      <point x="979" y="487" type="curve" smooth="yes"/>
+      <point x="979" y="311"/>
+      <point x="770" y="201"/>
+    </contour>
+    <contour>
+      <point x="555" y="1000" type="move" name="U"/>
+    </contour>
+    <contour>
+      <point x="555" y="-100" type="move" name="L"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="RtDblArrw" format="1">
+  <advance width="1945"/>
+  <unicode hex="21D2"/>
+  <outline>
+    <contour>
+      <point x="1892" y="550" type="line"/>
+      <point x="1892" y="632" type="line"/>
+      <point x="1281" y="1025" type="line"/>
+      <point x="1226" y="934" type="line"/>
+      <point x="1403" y="822" type="line"/>
+      <point x="79" y="822" type="line"/>
+      <point x="79" y="729" type="line"/>
+      <point x="1549" y="729" type="line"/>
+      <point x="1753" y="591" type="line"/>
+      <point x="1549" y="453" type="line"/>
+      <point x="79" y="453" type="line"/>
+      <point x="79" y="361" type="line"/>
+      <point x="1403" y="361" type="line"/>
+      <point x="1226" y="248" type="line"/>
+      <point x="1281" y="158" type="line"/>
+    </contour>
+  </outline>
+</glyph>

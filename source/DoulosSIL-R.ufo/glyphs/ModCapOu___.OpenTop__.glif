@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ModCapOu.OpenTop" format="1">
+  <advance width="623"/>
+  <outline>
+    <component base="LtnSmCapOu.OpenTop" xScale="0.72" yScale="0.5996" yOffset="806"/>
+  </outline>
+</glyph>

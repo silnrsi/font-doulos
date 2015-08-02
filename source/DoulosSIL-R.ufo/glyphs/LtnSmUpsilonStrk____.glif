@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="LtnSmUpsilonStrk" format="1">
+  <advance width="1025"/>
+  <unicode hex="1D7F"/>
+  <outline>
+    <contour>
+      <point x="1010" y="455" type="line"/>
+      <point x="1010" y="558" type="line"/>
+      <point x="15" y="558" type="line"/>
+      <point x="15" y="455" type="line"/>
+    </contour>
+    <component base="LtnSmUpsilon"/>
+    <contour>
+      <point x="511" y="1000" type="move" name="U"/>
+    </contour>
+    <contour>
+      <point x="511" y="-100" type="move" name="L"/>
+    </contour>
+  </outline>
+</glyph>

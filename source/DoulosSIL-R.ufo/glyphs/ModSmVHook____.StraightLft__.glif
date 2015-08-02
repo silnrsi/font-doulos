@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ModSmVHook.StraightLft" format="1">
+  <advance width="724"/>
+  <outline>
+    <component base="LtnSmVHook.StraightLft" xScale="0.72" yScale="0.6" xOffset="-2" yOffset="806"/>
+  </outline>
+</glyph>

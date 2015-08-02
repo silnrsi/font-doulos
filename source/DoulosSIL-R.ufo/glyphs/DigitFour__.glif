@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="DigitFour" format="1">
+  <advance width="1025"/>
+  <unicode hex="0034"/>
+  <outline>
+    <contour>
+      <point x="952" y="359" type="line" name="dv01"/>
+      <point x="952" y="500" type="line" name="dv02"/>
+      <point x="773" y="500" type="line"/>
+      <point x="773" y="1386" type="line" name="at01"/>
+      <point x="662" y="1386" type="line"/>
+      <point x="32" y="485" type="line"/>
+      <point x="32" y="359" type="line" name="sv01"/>
+      <point x="607" y="359" type="line" name="dh01"/>
+      <point x="607" y="0" type="line" name="ab01"/>
+      <point x="773" y="0" type="line"/>
+      <point x="773" y="359" type="line" name="dh02"/>
+    </contour>
+    <contour>
+      <point x="607" y="500" type="line" name="sh01"/>
+      <point x="130" y="500" type="line" name="mh01"/>
+      <point x="607" y="1175" type="line" name="iv01"/>
+    </contour>
+    <contour>
+      <point x="492" y="1435" type="move" name="U"/>
+    </contour>
+    <contour>
+      <point x="492" y="-100" type="move" name="L"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.ttprogram</key>
+      <data>
+        <ttProgram>
+          <ttc code="doubleh" point1="dh01" point2="dh02" stem="T1 V: 169"/>
+          <ttc code="mdeltah" delta="6" point="mh01" ppm1="9" ppm2="9"/>
+          <ttc code="singleh" point1="dh01" point2="sh01"/>
+          <ttc code="singleh" point1="dh02" point2="rsb" round="true"/>
+          <ttc code="alignt" point="at01" zone="t: 1"/>
+          <ttc code="alignb" point="ab01" zone="b: 0"/>
+          <ttc code="doublev" point1="dv01" point2="dv02" stem="T1 H: 141"/>
+          <ttc code="singlev" point1="dv01" point2="sv01"/>
+          <ttc code="interpolatev" point="iv01" point1="dv02" point2="at01"/>
+          <ttc code="singlev" point1="dv02" point2="sh01"/>
+        </ttProgram>
+      </data>
+    </dict>
+  </lib>
+</glyph>

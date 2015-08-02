@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ModYangDepartingToneMrk" format="1">
+  <advance width="662"/>
+  <unicode hex="02EB"/>
+  <outline>
+    <contour>
+      <point x="548" y="429" type="line"/>
+      <point x="548" y="508" type="line"/>
+      <point x="193" y="508" type="line"/>
+      <point x="193" y="745" type="line"/>
+      <point x="115" y="745" type="line"/>
+      <point x="115" y="195" type="line"/>
+      <point x="193" y="195" type="line"/>
+      <point x="193" y="429" type="line"/>
+    </contour>
+  </outline>
+</glyph>

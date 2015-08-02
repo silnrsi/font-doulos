@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="NWArrw" format="1">
+  <advance width="1971"/>
+  <unicode hex="2196"/>
+  <outline>
+    <contour>
+      <point x="1638" y="28" type="line"/>
+      <point x="570" y="1096" type="line"/>
+      <point x="972" y="925" type="line"/>
+      <point x="1011" y="1013" type="line"/>
+      <point x="429" y="1243" type="line"/>
+      <point x="335" y="1149" type="line"/>
+      <point x="566" y="568" type="line"/>
+      <point x="654" y="607" type="line"/>
+      <point x="483" y="1010" type="line"/>
+      <point x="1551" y="-59" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ModChinantecTnMrkDotVertBar" format="1">
+  <advance width="451"/>
+  <unicode hex="A717"/>
+  <outline>
+    <contour>
+      <point x="405" y="967" type="line"/>
+      <point x="405" y="1585" type="line"/>
+      <point x="281" y="1585" type="line"/>
+      <point x="281" y="967" type="line"/>
+    </contour>
+    <contour>
+      <point x="194" y="1275" type="curve"/>
+      <point x="194" y="1316"/>
+      <point x="160" y="1353"/>
+      <point x="119" y="1353" type="curve" smooth="yes"/>
+      <point x="78" y="1353"/>
+      <point x="42" y="1316"/>
+      <point x="42" y="1275" type="curve" smooth="yes"/>
+      <point x="42" y="1233"/>
+      <point x="78" y="1199"/>
+      <point x="119" y="1199" type="curve" smooth="yes"/>
+      <point x="160" y="1199"/>
+      <point x="194" y="1233"/>
+    </contour>
+  </outline>
+</glyph>

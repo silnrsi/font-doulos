@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="LtnSmVHook.StraightLft" format="1">
+  <advance width="995"/>
+  <outline>
+    <contour>
+      <point x="946" y="696" type="curve"/>
+      <point x="946" y="806"/>
+      <point x="861" y="942"/>
+      <point x="767" y="942" type="curve" smooth="yes"/>
+      <point x="717" y="942"/>
+      <point x="649" y="916"/>
+      <point x="649" y="850" type="curve" smooth="yes"/>
+      <point x="649" y="765"/>
+      <point x="720" y="745"/>
+      <point x="777" y="763" type="curve" smooth="yes"/>
+      <point x="839" y="782"/>
+      <point x="863" y="729"/>
+      <point x="863" y="641" type="curve" smooth="yes"/>
+      <point x="863" y="489"/>
+      <point x="792" y="312"/>
+      <point x="613" y="132" type="curve"/>
+      <point x="361" y="726" type="line" smooth="yes"/>
+      <point x="331" y="792"/>
+      <point x="335" y="833"/>
+      <point x="361" y="861" type="curve" smooth="yes"/>
+      <point x="372" y="875"/>
+      <point x="395" y="879"/>
+      <point x="420" y="879" type="curve" smooth="yes"/>
+      <point x="449" y="879" type="line"/>
+      <point x="449" y="916" type="line"/>
+      <point x="15" y="916" type="line"/>
+      <point x="15" y="879" type="line"/>
+      <point x="51" y="873"/>
+      <point x="73" y="869"/>
+      <point x="85" y="863" type="curve" smooth="yes"/>
+      <point x="122" y="839"/>
+      <point x="148" y="814"/>
+      <point x="175" y="747" type="curve" smooth="yes"/>
+      <point x="504" y="-30" type="line"/>
+      <point x="546" y="-30" type="line"/>
+      <point x="810" y="211"/>
+      <point x="946" y="438"/>
+    </contour>
+    <contour>
+      <point x="480" y="1000" type="move" name="U"/>
+    </contour>
+    <contour>
+      <point x="480" y="-100" type="move" name="L"/>
+    </contour>
+    <contour>
+      <point x="531" y="0" type="move" name="O"/>
+    </contour>
+    <contour>
+      <point x="481" y="0" type="move" name="H"/>
+    </contour>
+  </outline>
+</glyph>

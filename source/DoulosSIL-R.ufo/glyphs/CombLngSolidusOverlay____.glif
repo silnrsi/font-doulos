@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="CombLngSolidusOverlay" format="1">
+  <advance width="0"/>
+  <unicode hex="0338"/>
+  <outline>
+    <contour>
+      <point x="-39" y="1142" type="line"/>
+      <point x="-93" y="1180" type="line"/>
+      <point x="-993" y="-224" type="line"/>
+      <point x="-938" y="-261" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="LtnSmBHook" format="1">
+  <advance width="1005"/>
+  <unicode hex="0253"/>
+  <outline>
+    <contour>
+      <point x="954" y="495" type="curve" smooth="yes"/>
+      <point x="954" y="775" name="at02"/>
+      <point x="790" y="942" name="sh04"/>
+      <point x="603" y="942" type="curve" smooth="yes"/>
+      <point x="500" y="942"/>
+      <point x="404" y="881"/>
+      <point x="316" y="758" type="curve" name="ih01"/>
+      <point x="316" y="982" type="line" smooth="yes" name="at01"/>
+      <point x="316" y="1240"/>
+      <point x="334" y="1348" name="sh02"/>
+      <point x="474" y="1348" type="curve" smooth="yes" name="ab01"/>
+      <point x="674" y="1348" name="sh01"/>
+      <point x="603" y="1168"/>
+      <point x="743" y="1168" type="curve" smooth="yes" name="sv02"/>
+      <point x="787" y="1168" name="sh03"/>
+      <point x="824" y="1216"/>
+      <point x="824" y="1251" type="curve" smooth="yes" name="sv01"/>
+      <point x="824" y="1356" name="ah02"/>
+      <point x="704" y="1423" name="ah01"/>
+      <point x="551" y="1423" type="curve" smooth="yes"/>
+      <point x="489" y="1423"/>
+      <point x="148" y="1393"/>
+      <point x="148" y="978" type="curve" smooth="yes"/>
+      <point x="148" y="89" type="line"/>
+      <point x="267" y="8"/>
+      <point x="376" y="-30"/>
+      <point x="481" y="-30" type="curve" smooth="yes"/>
+      <point x="733" y="-30"/>
+      <point x="954" y="193"/>
+    </contour>
+    <contour>
+      <point x="781" y="438" type="curve" smooth="yes"/>
+      <point x="781" y="177"/>
+      <point x="652" y="45"/>
+      <point x="532" y="45" type="curve" smooth="yes"/>
+      <point x="455" y="45"/>
+      <point x="380" y="81"/>
+      <point x="316" y="146" type="curve"/>
+      <point x="316" y="696" type="line"/>
+      <point x="418" y="790"/>
+      <point x="472" y="803"/>
+      <point x="523" y="803" type="curve" smooth="yes"/>
+      <point x="662" y="803"/>
+      <point x="781" y="668"/>
+    </contour>
+    <contour>
+      <point x="551" y="1435" type="move" name="U"/>
+    </contour>
+    <contour>
+      <point x="551" y="-100" type="move" name="L"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.ttprogram</key>
+      <data>
+        <ttProgram>
+          <ttc align="round" code="alignh" point="ah01"/>
+          <ttc align="round" code="alignh" point="ah02"/>
+          <ttc code="singleh" point1="ah02" point2="sh01" stem="T1 V: 175"/>
+          <ttc code="singleh" point1="ah01" point2="sh02" stem="V: 148-167 LSB"/>
+          <ttc code="interpolateh" point="ih01" point1="sh02" point2="sh01"/>
+          <ttc code="singleh" point1="sh02" point2="sh03" stem="T1 V: 169"/>
+          <ttc code="singleh" point1="sh03" point2="sh04"/>
+          <ttc code="alignt" point="at01" zone="t: 2"/>
+          <ttc code="alignt" point="at02" zone="t: 0"/>
+          <ttc code="alignb" point="ab01" zone="b: 0"/>
+          <ttc code="interpolatev" point="sh04" point1="ab01" point2="at01"/>
+          <ttc code="singlev" point1="at02" point2="sv01" stem="T1 H: 141"/>
+          <ttc code="singlev" point1="ab01" point2="sv02" stem="T1 H: 76"/>
+        </ttProgram>
+      </data>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="NotSgn" format="1">
+  <advance width="1222"/>
+  <unicode hex="00AC"/>
+  <outline>
+    <contour>
+      <point x="1143" y="372" type="line"/>
+      <point x="1143" y="828" type="line"/>
+      <point x="79" y="828" type="line"/>
+      <point x="79" y="709" type="line"/>
+      <point x="1025" y="709" type="line"/>
+      <point x="1025" y="372" type="line"/>
+    </contour>
+  </outline>
+</glyph>

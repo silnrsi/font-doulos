@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="CombBreveAcute.VN" format="1">
+  <advance width="579"/>
+  <outline>
+    <contour>
+      <point x="579" y="1366" type="curve"/>
+      <point x="519" y="1366" type="line"/>
+      <point x="493" y="1254"/>
+      <point x="411" y="1166"/>
+      <point x="286" y="1166" type="curve" smooth="yes"/>
+      <point x="188" y="1166"/>
+      <point x="85" y="1256"/>
+      <point x="61" y="1366" type="curve"/>
+      <point x="0" y="1366" type="line"/>
+      <point x="-6" y="1189"/>
+      <point x="100" y="1042"/>
+      <point x="286" y="1042" type="curve" smooth="yes"/>
+      <point x="479" y="1042"/>
+      <point x="568" y="1189"/>
+    </contour>
+    <contour>
+      <point x="695" y="1655" type="curve"/>
+      <point x="695" y="1683"/>
+      <point x="663" y="1720"/>
+      <point x="642" y="1720" type="curve" smooth="yes"/>
+      <point x="598" y="1720"/>
+      <point x="553" y="1689"/>
+      <point x="518" y="1653" type="curve" smooth="yes"/>
+      <point x="234" y="1367" type="line"/>
+      <point x="316" y="1367" type="line"/>
+      <point x="612" y="1555" type="line" smooth="yes"/>
+      <point x="655" y="1583"/>
+      <point x="695" y="1616"/>
+    </contour>
+    <contour>
+      <point x="289" y="1000" type="move" name="_U"/>
+    </contour>
+    <contour>
+      <point x="408" y="1760" type="move" name="U"/>
+    </contour>
+  </outline>
+</glyph>

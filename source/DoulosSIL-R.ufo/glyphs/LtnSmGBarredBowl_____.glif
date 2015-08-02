@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="LtnSmGBarredBowl" format="1">
+  <advance width="1025"/>
+  <outline>
+    <contour>
+      <point x="-22" y="559" type="line"/>
+      <point x="1052" y="559" type="line"/>
+      <point x="1052" y="662" type="line"/>
+      <point x="-22" y="662" type="line"/>
+    </contour>
+    <component base="LtnSmG"/>
+    <contour>
+      <point x="515" y="1000" type="move" name="U"/>
+    </contour>
+    <contour>
+      <point x="515" y="-500" type="move" name="L"/>
+    </contour>
+  </outline>
+</glyph>

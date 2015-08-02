@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="CySmUkrainIe.sc" format="1">
+  <advance width="1184"/>
+  <outline>
+    <contour>
+      <point x="1107" y="230" type="line"/>
+      <point x="1075" y="249" type="line"/>
+      <point x="1025" y="170"/>
+      <point x="887" y="50"/>
+      <point x="683" y="50" type="curve" smooth="yes"/>
+      <point x="451" y="50"/>
+      <point x="286" y="221"/>
+      <point x="281" y="500" type="curve"/>
+      <point x="735" y="500" type="line"/>
+      <point x="735" y="580" type="line"/>
+      <point x="283" y="580" type="line"/>
+      <point x="293" y="822"/>
+      <point x="450" y="991"/>
+      <point x="652" y="991" type="curve" smooth="yes"/>
+      <point x="816" y="991"/>
+      <point x="996" y="875"/>
+      <point x="1021" y="701" type="curve"/>
+      <point x="1065" y="701" type="line"/>
+      <point x="1043" y="1060" type="line"/>
+      <point x="1006" y="1060" type="line"/>
+      <point x="991" y="1027"/>
+      <point x="964" y="1006"/>
+      <point x="944" y="1006" type="curve" smooth="yes"/>
+      <point x="930" y="1006"/>
+      <point x="913" y="1013"/>
+      <point x="891" y="1019" type="curve" smooth="yes"/>
+      <point x="838" y="1035"/>
+      <point x="757" y="1060"/>
+      <point x="649" y="1060" type="curve" smooth="yes"/>
+      <point x="315" y="1060"/>
+      <point x="74" y="793"/>
+      <point x="74" y="518" type="curve" smooth="yes"/>
+      <point x="74" y="203"/>
+      <point x="320" y="-24"/>
+      <point x="652" y="-24" type="curve" smooth="yes"/>
+      <point x="940" y="-24"/>
+      <point x="1076" y="164"/>
+      <point x="1109" y="219" type="curve"/>
+    </contour>
+    <contour>
+      <point x="599" y="1113" type="move" name="U"/>
+    </contour>
+    <contour>
+      <point x="599" y="-69" type="move" name="L"/>
+    </contour>
+  </outline>
+</glyph>

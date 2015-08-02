@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="LtnSmTurnedRHookTail" format="1">
+  <advance width="720"/>
+  <unicode hex="2C79"/>
+  <outline>
+    <contour>
+      <point x="711" y="87" type="line"/>
+      <point x="702" y="122" type="line"/>
+      <point x="647" y="98"/>
+      <point x="615" y="105"/>
+      <point x="585" y="120" type="curve"/>
+      <point x="564" y="146"/>
+      <point x="556" y="164"/>
+      <point x="556" y="357" type="curve" smooth="yes"/>
+      <point x="556" y="980" type="line" smooth="yes"/>
+      <point x="556" y="1394"/>
+      <point x="278" y="1425"/>
+      <point x="213" y="1425" type="curve" smooth="yes"/>
+      <point x="96" y="1425"/>
+      <point x="4" y="1344"/>
+      <point x="4" y="1254" type="curve" smooth="yes"/>
+      <point x="4" y="1218"/>
+      <point x="36" y="1171"/>
+      <point x="81" y="1171" type="curve" smooth="yes"/>
+      <point x="215" y="1171"/>
+      <point x="144" y="1350"/>
+      <point x="276" y="1350" type="curve" smooth="yes"/>
+      <point x="371" y="1350"/>
+      <point x="388" y="1241"/>
+      <point x="388" y="984" type="curve" smooth="yes"/>
+      <point x="388" y="264" type="line"/>
+      <point x="337" y="167"/>
+      <point x="288" y="109"/>
+      <point x="254" y="109" type="curve" smooth="yes"/>
+      <point x="211" y="109"/>
+      <point x="179" y="179"/>
+      <point x="113" y="179" type="curve" smooth="yes"/>
+      <point x="61" y="179"/>
+      <point x="22" y="134"/>
+      <point x="22" y="87" type="curve" smooth="yes"/>
+      <point x="22" y="22"/>
+      <point x="79" y="-24"/>
+      <point x="152" y="-24" type="curve" smooth="yes"/>
+      <point x="235" y="-24"/>
+      <point x="312" y="43"/>
+      <point x="388" y="181" type="curve"/>
+      <point x="388" y="-24" type="line"/>
+      <point x="427" y="-24" type="line"/>
+    </contour>
+    <contour>
+      <point x="349" y="1435" type="move" name="U"/>
+    </contour>
+    <contour>
+      <point x="349" y="-100" type="move" name="L"/>
+    </contour>
+  </outline>
+</glyph>

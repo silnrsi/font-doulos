@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="LtnCapADotAbvMacron" format="1">
+  <advance width="1472"/>
+  <unicode hex="01E0"/>
+  <outline>
+    <component base="LtnCapA"/>
+    <component base="DotAbv" xOffset="633" yOffset="435"/>
+    <component base="CombMacron" xOffset="1248" yOffset="870"/>
+  </outline>
+</glyph>

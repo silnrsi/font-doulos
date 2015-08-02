@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="RtPtngAngBrac" format="1">
+  <advance width="985"/>
+  <unicode hex="232A"/>
+  <unicode hex="27E9"/>
+  <outline>
+    <contour>
+      <point x="914" y="566" type="line"/>
+      <point x="71" y="1411" type="line"/>
+      <point x="71" y="1234" type="line"/>
+      <point x="739" y="566" type="line"/>
+      <point x="71" y="-105" type="line"/>
+      <point x="71" y="-280" type="line"/>
+    </contour>
+  </outline>
+</glyph>

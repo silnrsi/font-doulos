@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="SubSeven" format="1">
+  <advance width="737"/>
+  <unicode hex="2087"/>
+  <outline>
+    <contour>
+      <point x="670" y="369" type="line"/>
+      <point x="670" y="391" type="line"/>
+      <point x="148" y="391" type="line"/>
+      <point x="53" y="199" type="line"/>
+      <point x="75" y="193" type="line"/>
+      <point x="105" y="237"/>
+      <point x="130" y="292"/>
+      <point x="290" y="292" type="curve" smooth="yes"/>
+      <point x="558" y="292" type="line"/>
+      <point x="264" y="-442" type="line"/>
+      <point x="345" y="-442" type="line"/>
+    </contour>
+  </outline>
+</glyph>

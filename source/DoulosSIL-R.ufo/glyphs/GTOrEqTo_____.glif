@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="GTOrEqTo" format="1">
+  <advance width="1971"/>
+  <unicode hex="2265"/>
+  <outline>
+    <contour>
+      <point x="1576" y="605" type="line"/>
+      <point x="1576" y="728" type="line"/>
+      <point x="395" y="1102" type="line"/>
+      <point x="395" y="980" type="line"/>
+      <point x="1450" y="666" type="line"/>
+      <point x="395" y="353" type="line"/>
+      <point x="395" y="231" type="line"/>
+    </contour>
+    <contour>
+      <point x="1576" y="0" type="line"/>
+      <point x="1576" y="109" type="line"/>
+      <point x="395" y="109" type="line"/>
+      <point x="395" y="0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

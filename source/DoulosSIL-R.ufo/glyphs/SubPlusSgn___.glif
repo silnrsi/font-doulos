@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="SubPlusSgn" format="1">
+  <advance width="395"/>
+  <unicode hex="208A"/>
+  <outline>
+    <contour>
+      <point x="395" y="-65" type="line"/>
+      <point x="395" y="14" type="line"/>
+      <point x="237" y="14" type="line"/>
+      <point x="237" y="172" type="line"/>
+      <point x="158" y="172" type="line"/>
+      <point x="158" y="14" type="line"/>
+      <point x="0" y="14" type="line"/>
+      <point x="0" y="-65" type="line"/>
+      <point x="158" y="-65" type="line"/>
+      <point x="158" y="-221" type="line"/>
+      <point x="237" y="-221" type="line"/>
+      <point x="237" y="-65" type="line"/>
+    </contour>
+  </outline>
+</glyph>

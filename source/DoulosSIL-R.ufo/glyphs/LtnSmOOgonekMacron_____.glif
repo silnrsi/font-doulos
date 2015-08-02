@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="LtnSmOOgonekMacron" format="1">
+  <advance width="1025"/>
+  <unicode hex="01ED"/>
+  <outline>
+    <component base="LtnSmO"/>
+    <component base="CombOgonek" xOffset="1059" yOffset="18"/>
+    <component base="CombMacron" xOffset="1024"/>
+  </outline>
+</glyph>
