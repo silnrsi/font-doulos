@@ -1,2 +1,6 @@
-# font-doulos
-Roman/Cyrillic font
+font-doulos
+===========
+
+Font for Roman- and Cyrillic-based writing systems.
+
+Not yet ready for use or distribution.
