@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="ModSmW" format="1">
-  <advance width="1053"/>
-  <unicode hex="02B7"/>
-  <outline>
-    <component base="LtnSmW" xScale="0.72" yScale="0.6" yOffset="806"/>
-  </outline>
-</glyph>

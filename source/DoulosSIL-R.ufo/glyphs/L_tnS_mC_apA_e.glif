@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="LtnSmCapAe" format="1">
+  <advance width="1455"/>
+  <unicode hex="1D01"/>
+  <outline>
+    <component base="LtnCapAe" xScale="0.799776" yScale="0.674779"/>
+    <contour>
+      <point x="690" y="1000" type="move" name="U"/>
+    </contour>
+    <contour>
+      <point x="693" y="-100" type="move" name="L"/>
+    </contour>
+  </outline>
+</glyph>

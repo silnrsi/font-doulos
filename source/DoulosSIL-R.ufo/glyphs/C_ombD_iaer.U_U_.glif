@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="CombDiaer.UU" format="1">
+  <advance width="613"/>
+  <outline>
+    <component base="CombDiaer" xOffset="818"/>
+    <contour>
+      <point x="306" y="1435" type="move" name="U"/>
+    </contour>
+    <contour>
+      <point x="-320" y="1000" type="move" name="_U"/>
+    </contour>
+  </outline>
+</glyph>

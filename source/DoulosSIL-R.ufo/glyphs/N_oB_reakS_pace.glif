@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="NoBreakSpace" format="1">
+  <advance width="512"/>
+  <unicode hex="00A0"/>
+  <outline>
+    <contour>
+      <point x="306" y="0" type="move" name="O"/>
+    </contour>
+    <contour>
+      <point x="256" y="-100" type="move" name="L"/>
+    </contour>
+    <contour>
+      <point x="256" y="0" type="move" name="H"/>
+    </contour>
+    <contour>
+      <point x="256" y="1435" type="move" name="U"/>
+    </contour>
+    <contour>
+      <point x="512" y="900" type="move" name="R"/>
+    </contour>
+  </outline>
+</glyph>

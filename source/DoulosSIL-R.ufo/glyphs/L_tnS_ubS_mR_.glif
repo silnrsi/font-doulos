@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="LtnSubSmR" format="1">
+  <advance width="506"/>
+  <unicode hex="1D63"/>
+  <outline>
+    <component base="ModSmR" yOffset="-1256"/>
+    <contour>
+      <point x="263" y="-500" type="move" name="L"/>
+    </contour>
+    <contour>
+      <point x="263" y="140" type="move" name="U"/>
+    </contour>
+  </outline>
+</glyph>

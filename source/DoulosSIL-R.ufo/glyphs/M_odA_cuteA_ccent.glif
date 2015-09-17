@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ModAcuteAccent" format="1">
+  <advance width="461"/>
+  <unicode hex="02CA"/>
+  <outline>
+    <component base="CombAcute" xOffset="686"/>
+    <contour>
+      <point x="174" y="1375" type="move" name="U"/>
+    </contour>
+  </outline>
+</glyph>

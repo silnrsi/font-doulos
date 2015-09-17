@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="LtnSmEOgonek" format="1">
-  <advance width="910"/>
-  <unicode hex="0119"/>
-  <outline>
-    <component base="LtnSmE"/>
-    <component base="CombOgonek" xOffset="968"/>
-  </outline>
-</glyph>

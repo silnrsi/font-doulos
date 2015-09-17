@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="LtnLigSmFSmL.SItal" format="1">
+  <advance width="1145"/>
+  <outline>
+    <component base="LtnSmLigFl"/>
+    <contour>
+      <point x="863" y="1475" type="move" name="U"/>
+    </contour>
+    <contour>
+      <point x="869" y="-100" type="move" name="L"/>
+    </contour>
+    <contour>
+      <point x="1141" y="900" type="move" name="R"/>
+    </contour>
+  </outline>
+</glyph>

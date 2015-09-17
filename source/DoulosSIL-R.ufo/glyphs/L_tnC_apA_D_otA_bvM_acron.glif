@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="LtnCapADotAbvMacron" format="1">
+  <advance width="1472"/>
+  <unicode hex="01E0"/>
+  <outline>
+    <component base="LtnCapA"/>
+    <component base="DotAbv" xOffset="633" yOffset="435"/>
+    <component base="CombMacron" xOffset="1248" yOffset="870"/>
+    <contour>
+      <point x="735" y="-100" type="move" name="L"/>
+    </contour>
+    <contour>
+      <point x="1347" y="0" type="move" name="O"/>
+    </contour>
+    <contour>
+      <point x="1180" y="0" type="move" name="H"/>
+    </contour>
+    <contour>
+      <point x="735" y="2305" type="move" name="U"/>
+    </contour>
+  </outline>
+</glyph>

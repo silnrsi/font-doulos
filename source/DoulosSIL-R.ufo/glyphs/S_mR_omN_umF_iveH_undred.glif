@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="SmRomNumFiveHundred" format="1">
+  <advance width="1025"/>
+  <unicode hex="217E"/>
+  <outline>
+    <component base="LtnSmD"/>
+    <contour>
+      <point x="547" y="1435" type="move" name="U"/>
+    </contour>
+  </outline>
+</glyph>

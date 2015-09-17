@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Space" format="1">
+  <advance width="591"/>
+  <unicode hex="0020"/>
+  <outline>
+    <contour>
+      <point x="591" y="900" type="move" name="R"/>
+    </contour>
+    <contour>
+      <point x="296" y="1435" type="move" name="U"/>
+    </contour>
+    <contour>
+      <point x="346" y="0" type="move" name="O"/>
+    </contour>
+    <contour>
+      <point x="296" y="-100" type="move" name="L"/>
+    </contour>
+    <contour>
+      <point x="296" y="0" type="move" name="H"/>
+    </contour>
+  </outline>
+</glyph>

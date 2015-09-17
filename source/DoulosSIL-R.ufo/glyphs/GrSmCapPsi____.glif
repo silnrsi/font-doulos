@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="GrSmCapPsi" format="1">
-  <advance width="1379"/>
-  <unicode hex="1D2A"/>
-  <outline>
-    <component base="GrCapPsi" xScale="0.7981" yScale="0.672566" xOffset="4"/>
-  </outline>
-</glyph>

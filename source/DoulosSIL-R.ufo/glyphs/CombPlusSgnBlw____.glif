@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="CombPlusSgnBlw" format="1">
-  <advance width="0"/>
-  <unicode hex="031F"/>
-  <outline>
-    <component base="SubPlusSgn" xOffset="-709"/>
-  </outline>
-</glyph>

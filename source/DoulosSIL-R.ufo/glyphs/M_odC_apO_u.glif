@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ModCapOu" format="1">
+  <advance width="623"/>
+  <unicode hex="1D3D"/>
+  <outline>
+    <component base="LtnSmCapOu" xScale="0.72" yScale="0.6" yOffset="806"/>
+    <contour>
+      <point x="312" y="1450" type="move" name="U"/>
+    </contour>
+    <contour>
+      <point x="312" y="750" type="move" name="L"/>
+    </contour>
+  </outline>
+</glyph>

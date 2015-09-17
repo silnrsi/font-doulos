@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="LftStemTnLtr5no" format="1">
+  <advance width="779"/>
+  <outline>
+    <component base="TnLtrSpcFlatLeft"/>
+    <component base="TnLtrSeg55" xOffset="165"/>
+    <component base="TnLtrSpcPointRight" xOffset="600"/>
+    <contour>
+      <point x="599" y="1370" type="move" name="TL"/>
+    </contour>
+  </outline>
+</glyph>

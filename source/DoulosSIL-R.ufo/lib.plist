@@ -4,324 +4,10 @@
 <dict>
   <key>com.fontlab.v2.tth</key>
   <dict>
-    <key>zones</key>
-    <dict>
-      <key>b: 0</key>
-      <dict>
-        <key>position</key>
-        <integer>0</integer>
-        <key>width</key>
-        <integer>32</integer>
-        <key>top</key>
-        <false/>
-      </dict>
-      <key>b: 1</key>
-      <dict>
-        <key>position</key>
-        <integer>-440</integer>
-        <key>width</key>
-        <integer>4</integer>
-        <key>top</key>
-        <false/>
-      </dict>
-      <key>t: 0</key>
-      <dict>
-        <key>position</key>
-        <integer>916</integer>
-        <key>width</key>
-        <integer>28</integer>
-        <key>top</key>
-        <true/>
-      </dict>
-      <key>t: 1</key>
-      <dict>
-        <key>position</key>
-        <integer>1356</integer>
-        <key>width</key>
-        <integer>32</integer>
-        <key>top</key>
-        <true/>
-      </dict>
-      <key>t: 2</key>
-      <dict>
-        <key>position</key>
-        <integer>1423</integer>
-        <key>width</key>
-        <integer>0</integer>
-        <key>top</key>
-        <true/>
-      </dict>
-    </dict>
     <key>stems</key>
     <dict>
-      <key>T1 H: 0</key>
-      <dict>
-        <key>width</key>
-        <integer>31</integer>
-        <key>horizontal</key>
-        <true/>
-        <key>round</key>
-        <dict>
-          <key>0</key>
-          <integer>1</integer>
-          <key>90</key>
-          <integer>2</integer>
-          <key>150</key>
-          <integer>3</integer>
-          <key>209</key>
-          <integer>4</integer>
-          <key>269</key>
-          <integer>5</integer>
-          <key>364</key>
-          <integer>6</integer>
-        </dict>
-      </dict>
-      <key>T1 H: 37</key>
-      <dict>
-        <key>width</key>
-        <integer>37</integer>
-        <key>horizontal</key>
-        <true/>
-        <key>round</key>
-        <dict>
-          <key>0</key>
-          <integer>1</integer>
-          <key>90</key>
-          <integer>2</integer>
-          <key>150</key>
-          <integer>3</integer>
-          <key>209</key>
-          <integer>4</integer>
-          <key>269</key>
-          <integer>5</integer>
-          <key>305</key>
-          <integer>6</integer>
-        </dict>
-      </dict>
-      <key>T1 H: 48</key>
-      <dict>
-        <key>width</key>
-        <integer>48</integer>
-        <key>horizontal</key>
-        <true/>
-        <key>round</key>
-        <dict>
-          <key>0</key>
-          <integer>1</integer>
-          <key>60</key>
-          <integer>2</integer>
-          <key>94</key>
-          <integer>3</integer>
-          <key>150</key>
-          <integer>4</integer>
-          <key>179</key>
-          <integer>5</integer>
-          <key>235</key>
-          <integer>6</integer>
-        </dict>
-      </dict>
-      <key>T1 H: 56</key>
-      <dict>
-        <key>width</key>
-        <integer>56</integer>
-        <key>horizontal</key>
-        <true/>
-        <key>round</key>
-        <dict>
-          <key>0</key>
-          <integer>1</integer>
-          <key>60</key>
-          <integer>2</integer>
-          <key>94</key>
-          <integer>3</integer>
-          <key>116</key>
-          <integer>4</integer>
-          <key>179</key>
-          <integer>5</integer>
-          <key>202</key>
-          <integer>6</integer>
-        </dict>
-      </dict>
-      <key>T1 H: 63</key>
-      <dict>
-        <key>width</key>
-        <integer>63</integer>
-        <key>horizontal</key>
-        <true/>
-        <key>round</key>
-        <dict>
-          <key>0</key>
-          <integer>1</integer>
-          <key>42</key>
-          <integer>2</integer>
-          <key>94</key>
-          <integer>3</integer>
-          <key>116</key>
-          <integer>4</integer>
-          <key>141</key>
-          <integer>5</integer>
-          <key>179</key>
-          <integer>6</integer>
-        </dict>
-      </dict>
-      <key>T1 H: 69</key>
-      <dict>
-        <key>width</key>
-        <integer>69</integer>
-        <key>horizontal</key>
-        <true/>
-        <key>round</key>
-        <dict>
-          <key>0</key>
-          <integer>1</integer>
-          <key>42</key>
-          <integer>2</integer>
-          <key>66</key>
-          <integer>3</integer>
-          <key>116</key>
-          <integer>4</integer>
-          <key>141</key>
-          <integer>5</integer>
-          <key>164</key>
-          <integer>6</integer>
-        </dict>
-      </dict>
-      <key>T1 H: 76</key>
-      <dict>
-        <key>width</key>
-        <integer>76</integer>
-        <key>horizontal</key>
-        <true/>
-        <key>round</key>
-        <dict>
-          <key>0</key>
-          <integer>1</integer>
-          <key>42</key>
-          <integer>2</integer>
-          <key>66</key>
-          <integer>3</integer>
-          <key>87</key>
-          <integer>4</integer>
-          <key>112</key>
-          <integer>5</integer>
-          <key>149</key>
-          <integer>6</integer>
-        </dict>
-      </dict>
-      <key>T1 H: 86</key>
-      <dict>
-        <key>width</key>
-        <integer>86</integer>
-        <key>horizontal</key>
-        <true/>
-        <key>round</key>
-        <dict>
-          <key>0</key>
-          <integer>1</integer>
-          <key>42</key>
-          <integer>2</integer>
-          <key>66</key>
-          <integer>3</integer>
-          <key>87</key>
-          <integer>4</integer>
-          <key>112</key>
-          <integer>5</integer>
-          <key>131</key>
-          <integer>6</integer>
-        </dict>
-      </dict>
-      <key>T1 H: 116</key>
-      <dict>
-        <key>width</key>
-        <integer>116</integer>
-        <key>horizontal</key>
-        <true/>
-        <key>round</key>
-        <dict>
-          <key>0</key>
-          <integer>1</integer>
-          <key>26</key>
-          <integer>2</integer>
-          <key>44</key>
-          <integer>3</integer>
-          <key>61</key>
-          <integer>4</integer>
-          <key>80</key>
-          <integer>5</integer>
-          <key>98</key>
-          <integer>6</integer>
-        </dict>
-      </dict>
-      <key>T1 H: 123</key>
-      <dict>
-        <key>width</key>
-        <integer>123</integer>
-        <key>horizontal</key>
-        <true/>
-        <key>round</key>
-        <dict>
-          <key>0</key>
-          <integer>1</integer>
-          <key>26</key>
-          <integer>2</integer>
-          <key>44</key>
-          <integer>3</integer>
-          <key>61</key>
-          <integer>4</integer>
-          <key>71</key>
-          <integer>5</integer>
-          <key>92</key>
-          <integer>6</integer>
-        </dict>
-      </dict>
-      <key>T1 H: 141</key>
-      <dict>
-        <key>width</key>
-        <integer>141</integer>
-        <key>horizontal</key>
-        <true/>
-        <key>round</key>
-        <dict>
-          <key>0</key>
-          <integer>1</integer>
-          <key>26</key>
-          <integer>2</integer>
-          <key>33</key>
-          <integer>3</integer>
-          <key>45</key>
-          <integer>4</integer>
-          <key>71</key>
-          <integer>5</integer>
-          <key>80</key>
-          <integer>6</integer>
-        </dict>
-      </dict>
-      <key>T1 H: 163</key>
-      <dict>
-        <key>width</key>
-        <integer>163</integer>
-        <key>horizontal</key>
-        <true/>
-        <key>round</key>
-        <dict>
-          <key>0</key>
-          <integer>1</integer>
-          <key>18</key>
-          <integer>2</integer>
-          <key>33</key>
-          <integer>3</integer>
-          <key>45</key>
-          <integer>4</integer>
-          <key>54</key>
-          <integer>5</integer>
-          <key>70</key>
-          <integer>6</integer>
-        </dict>
-      </dict>
       <key>H: 204</key>
       <dict>
-        <key>width</key>
-        <integer>204</integer>
         <key>horizontal</key>
         <true/>
         <key>round</key>
@@ -339,55 +25,275 @@
           <key>56</key>
           <integer>6</integer>
         </dict>
-      </dict>
-      <key>T1 V: 36</key>
-      <dict>
         <key>width</key>
-        <integer>36</integer>
+        <integer>204</integer>
+      </dict>
+      <key>T1 H: 0</key>
+      <dict>
         <key>horizontal</key>
-        <false/>
+        <true/>
         <key>round</key>
         <dict>
           <key>0</key>
           <integer>1</integer>
-          <key>90</key>
-          <integer>2</integer>
           <key>150</key>
           <integer>3</integer>
           <key>209</key>
           <integer>4</integer>
           <key>269</key>
           <integer>5</integer>
-          <key>313</key>
+          <key>364</key>
+          <integer>6</integer>
+          <key>90</key>
+          <integer>2</integer>
+        </dict>
+        <key>width</key>
+        <integer>31</integer>
+      </dict>
+      <key>T1 H: 116</key>
+      <dict>
+        <key>horizontal</key>
+        <true/>
+        <key>round</key>
+        <dict>
+          <key>0</key>
+          <integer>1</integer>
+          <key>26</key>
+          <integer>2</integer>
+          <key>44</key>
+          <integer>3</integer>
+          <key>61</key>
+          <integer>4</integer>
+          <key>80</key>
+          <integer>5</integer>
+          <key>98</key>
           <integer>6</integer>
         </dict>
-      </dict>
-      <key>T1 V: 89</key>
-      <dict>
         <key>width</key>
-        <integer>89</integer>
+        <integer>116</integer>
+      </dict>
+      <key>T1 H: 123</key>
+      <dict>
         <key>horizontal</key>
-        <false/>
+        <true/>
+        <key>round</key>
+        <dict>
+          <key>0</key>
+          <integer>1</integer>
+          <key>26</key>
+          <integer>2</integer>
+          <key>44</key>
+          <integer>3</integer>
+          <key>61</key>
+          <integer>4</integer>
+          <key>71</key>
+          <integer>5</integer>
+          <key>92</key>
+          <integer>6</integer>
+        </dict>
+        <key>width</key>
+        <integer>123</integer>
+      </dict>
+      <key>T1 H: 141</key>
+      <dict>
+        <key>horizontal</key>
+        <true/>
+        <key>round</key>
+        <dict>
+          <key>0</key>
+          <integer>1</integer>
+          <key>26</key>
+          <integer>2</integer>
+          <key>33</key>
+          <integer>3</integer>
+          <key>45</key>
+          <integer>4</integer>
+          <key>71</key>
+          <integer>5</integer>
+          <key>80</key>
+          <integer>6</integer>
+        </dict>
+        <key>width</key>
+        <integer>141</integer>
+      </dict>
+      <key>T1 H: 163</key>
+      <dict>
+        <key>horizontal</key>
+        <true/>
         <key>round</key>
         <dict>
           <key>0</key>
           <integer>1</integer>
           <key>18</key>
           <integer>2</integer>
-          <key>34</key>
+          <key>33</key>
+          <integer>3</integer>
+          <key>45</key>
+          <integer>4</integer>
+          <key>54</key>
+          <integer>5</integer>
+          <key>70</key>
+          <integer>6</integer>
+        </dict>
+        <key>width</key>
+        <integer>163</integer>
+      </dict>
+      <key>T1 H: 37</key>
+      <dict>
+        <key>horizontal</key>
+        <true/>
+        <key>round</key>
+        <dict>
+          <key>0</key>
+          <integer>1</integer>
+          <key>150</key>
+          <integer>3</integer>
+          <key>209</key>
+          <integer>4</integer>
+          <key>269</key>
+          <integer>5</integer>
+          <key>305</key>
+          <integer>6</integer>
+          <key>90</key>
+          <integer>2</integer>
+        </dict>
+        <key>width</key>
+        <integer>37</integer>
+      </dict>
+      <key>T1 H: 48</key>
+      <dict>
+        <key>horizontal</key>
+        <true/>
+        <key>round</key>
+        <dict>
+          <key>0</key>
+          <integer>1</integer>
+          <key>150</key>
+          <integer>4</integer>
+          <key>179</key>
+          <integer>5</integer>
+          <key>235</key>
+          <integer>6</integer>
+          <key>60</key>
+          <integer>2</integer>
+          <key>94</key>
+          <integer>3</integer>
+        </dict>
+        <key>width</key>
+        <integer>48</integer>
+      </dict>
+      <key>T1 H: 56</key>
+      <dict>
+        <key>horizontal</key>
+        <true/>
+        <key>round</key>
+        <dict>
+          <key>0</key>
+          <integer>1</integer>
+          <key>116</key>
+          <integer>4</integer>
+          <key>179</key>
+          <integer>5</integer>
+          <key>202</key>
+          <integer>6</integer>
+          <key>60</key>
+          <integer>2</integer>
+          <key>94</key>
+          <integer>3</integer>
+        </dict>
+        <key>width</key>
+        <integer>56</integer>
+      </dict>
+      <key>T1 H: 63</key>
+      <dict>
+        <key>horizontal</key>
+        <true/>
+        <key>round</key>
+        <dict>
+          <key>0</key>
+          <integer>1</integer>
+          <key>116</key>
+          <integer>4</integer>
+          <key>141</key>
+          <integer>5</integer>
+          <key>179</key>
+          <integer>6</integer>
+          <key>42</key>
+          <integer>2</integer>
+          <key>94</key>
+          <integer>3</integer>
+        </dict>
+        <key>width</key>
+        <integer>63</integer>
+      </dict>
+      <key>T1 H: 69</key>
+      <dict>
+        <key>horizontal</key>
+        <true/>
+        <key>round</key>
+        <dict>
+          <key>0</key>
+          <integer>1</integer>
+          <key>116</key>
+          <integer>4</integer>
+          <key>141</key>
+          <integer>5</integer>
+          <key>164</key>
+          <integer>6</integer>
+          <key>42</key>
+          <integer>2</integer>
+          <key>66</key>
+          <integer>3</integer>
+        </dict>
+        <key>width</key>
+        <integer>69</integer>
+      </dict>
+      <key>T1 H: 76</key>
+      <dict>
+        <key>horizontal</key>
+        <true/>
+        <key>round</key>
+        <dict>
+          <key>0</key>
+          <integer>1</integer>
+          <key>112</key>
+          <integer>5</integer>
+          <key>149</key>
+          <integer>6</integer>
+          <key>42</key>
+          <integer>2</integer>
+          <key>66</key>
           <integer>3</integer>
           <key>87</key>
           <integer>4</integer>
+        </dict>
+        <key>width</key>
+        <integer>76</integer>
+      </dict>
+      <key>T1 H: 86</key>
+      <dict>
+        <key>horizontal</key>
+        <true/>
+        <key>round</key>
+        <dict>
+          <key>0</key>
+          <integer>1</integer>
           <key>112</key>
           <integer>5</integer>
-          <key>127</key>
+          <key>131</key>
           <integer>6</integer>
+          <key>42</key>
+          <integer>2</integer>
+          <key>66</key>
+          <integer>3</integer>
+          <key>87</key>
+          <integer>4</integer>
         </dict>
+        <key>width</key>
+        <integer>86</integer>
       </dict>
       <key>T1 V: 162</key>
       <dict>
-        <key>width</key>
-        <integer>162</integer>
         <key>horizontal</key>
         <false/>
         <key>round</key>
@@ -405,11 +311,11 @@
           <key>70</key>
           <integer>6</integer>
         </dict>
+        <key>width</key>
+        <integer>162</integer>
       </dict>
       <key>T1 V: 169</key>
       <dict>
-        <key>width</key>
-        <integer>169</integer>
         <key>horizontal</key>
         <false/>
         <key>round</key>
@@ -427,11 +333,11 @@
           <key>67</key>
           <integer>6</integer>
         </dict>
+        <key>width</key>
+        <integer>169</integer>
       </dict>
       <key>T1 V: 175</key>
       <dict>
-        <key>width</key>
-        <integer>175</integer>
         <key>horizontal</key>
         <false/>
         <key>round</key>
@@ -449,11 +355,11 @@
           <key>65</key>
           <integer>6</integer>
         </dict>
+        <key>width</key>
+        <integer>175</integer>
       </dict>
       <key>T1 V: 186</key>
       <dict>
-        <key>width</key>
-        <integer>186</integer>
         <key>horizontal</key>
         <false/>
         <key>round</key>
@@ -471,11 +377,11 @@
           <key>61</key>
           <integer>6</integer>
         </dict>
+        <key>width</key>
+        <integer>186</integer>
       </dict>
       <key>T1 V: 193</key>
       <dict>
-        <key>width</key>
-        <integer>193</integer>
         <key>horizontal</key>
         <false/>
         <key>round</key>
@@ -493,11 +399,11 @@
           <key>59</key>
           <integer>6</integer>
         </dict>
+        <key>width</key>
+        <integer>193</integer>
       </dict>
       <key>T1 V: 206</key>
       <dict>
-        <key>width</key>
-        <integer>206</integer>
         <key>horizontal</key>
         <false/>
         <key>round</key>
@@ -515,11 +421,11 @@
           <key>55</key>
           <integer>6</integer>
         </dict>
+        <key>width</key>
+        <integer>206</integer>
       </dict>
       <key>T1 V: 213</key>
       <dict>
-        <key>width</key>
-        <integer>213</integer>
         <key>horizontal</key>
         <false/>
         <key>round</key>
@@ -537,11 +443,11 @@
           <key>53</key>
           <integer>6</integer>
         </dict>
+        <key>width</key>
+        <integer>213</integer>
       </dict>
       <key>T1 V: 228</key>
       <dict>
-        <key>width</key>
-        <integer>228</integer>
         <key>horizontal</key>
         <false/>
         <key>round</key>
@@ -559,55 +465,77 @@
           <key>50</key>
           <integer>6</integer>
         </dict>
+        <key>width</key>
+        <integer>228</integer>
+      </dict>
+      <key>T1 V: 36</key>
+      <dict>
+        <key>horizontal</key>
+        <false/>
+        <key>round</key>
+        <dict>
+          <key>0</key>
+          <integer>1</integer>
+          <key>150</key>
+          <integer>3</integer>
+          <key>209</key>
+          <integer>4</integer>
+          <key>269</key>
+          <integer>5</integer>
+          <key>313</key>
+          <integer>6</integer>
+          <key>90</key>
+          <integer>2</integer>
+        </dict>
+        <key>width</key>
+        <integer>36</integer>
+      </dict>
+      <key>T1 V: 89</key>
+      <dict>
+        <key>horizontal</key>
+        <false/>
+        <key>round</key>
+        <dict>
+          <key>0</key>
+          <integer>1</integer>
+          <key>112</key>
+          <integer>5</integer>
+          <key>127</key>
+          <integer>6</integer>
+          <key>18</key>
+          <integer>2</integer>
+          <key>34</key>
+          <integer>3</integer>
+          <key>87</key>
+          <integer>4</integer>
+        </dict>
+        <key>width</key>
+        <integer>89</integer>
       </dict>
       <key>V: 0</key>
       <dict>
+        <key>horizontal</key>
+        <false/>
+        <key>round</key>
+        <dict>
+          <key>0</key>
+          <integer>6</integer>
+          <key>0</key>
+          <integer>2</integer>
+          <key>0</key>
+          <integer>3</integer>
+          <key>0</key>
+          <integer>4</integer>
+          <key>0</key>
+          <integer>5</integer>
+          <key>0</key>
+          <integer>6</integer>
+        </dict>
         <key>width</key>
         <integer>0</integer>
-        <key>horizontal</key>
-        <false/>
-        <key>round</key>
-        <dict>
-          <key>0</key>
-          <integer>1</integer>
-          <key>0</key>
-          <integer>2</integer>
-          <key>0</key>
-          <integer>3</integer>
-          <key>0</key>
-          <integer>4</integer>
-          <key>0</key>
-          <integer>5</integer>
-          <key>0</key>
-          <integer>6</integer>
-        </dict>
-      </dict>
-      <key>V: 388 M</key>
-      <dict>
-        <key>width</key>
-        <integer>388</integer>
-        <key>horizontal</key>
-        <false/>
-        <key>round</key>
-        <dict>
-          <key>0</key>
-          <integer>1</integer>
-          <key>8</key>
-          <integer>2</integer>
-          <key>14</key>
-          <integer>3</integer>
-          <key>21</key>
-          <integer>4</integer>
-          <key>26</key>
-          <integer>5</integer>
-          <key>32</key>
-          <integer>6</integer>
-        </dict>
       </dict>
       <key>V: 137 serif</key>
       <dict>
-        <key>width</key>
-        <integer>137</integer>
         <key>horizontal</key>
         <false/>
         <key>round</key>
@@ -625,11 +553,11 @@
           <key>88</key>
           <integer>6</integer>
         </dict>
+        <key>width</key>
+        <integer>137</integer>
       </dict>
       <key>V: 148-167 LSB</key>
       <dict>
-        <key>width</key>
-        <integer>155</integer>
         <key>horizontal</key>
         <false/>
         <key>round</key>
@@ -647,6 +575,78 @@
           <key>73</key>
           <integer>6</integer>
         </dict>
+        <key>width</key>
+        <integer>155</integer>
+      </dict>
+      <key>V: 388 M</key>
+      <dict>
+        <key>horizontal</key>
+        <false/>
+        <key>round</key>
+        <dict>
+          <key>0</key>
+          <integer>1</integer>
+          <key>14</key>
+          <integer>3</integer>
+          <key>21</key>
+          <integer>4</integer>
+          <key>26</key>
+          <integer>5</integer>
+          <key>32</key>
+          <integer>6</integer>
+          <key>8</key>
+          <integer>2</integer>
+        </dict>
+        <key>width</key>
+        <integer>388</integer>
+      </dict>
+    </dict>
+    <key>zones</key>
+    <dict>
+      <key>b: 0</key>
+      <dict>
+        <key>position</key>
+        <integer>0</integer>
+        <key>top</key>
+        <false/>
+        <key>width</key>
+        <integer>32</integer>
+      </dict>
+      <key>b: 1</key>
+      <dict>
+        <key>position</key>
+        <integer>-440</integer>
+        <key>top</key>
+        <false/>
+        <key>width</key>
+        <integer>4</integer>
+      </dict>
+      <key>t: 0</key>
+      <dict>
+        <key>position</key>
+        <integer>916</integer>
+        <key>top</key>
+        <true/>
+        <key>width</key>
+        <integer>28</integer>
+      </dict>
+      <key>t: 1</key>
+      <dict>
+        <key>position</key>
+        <integer>1356</integer>
+        <key>top</key>
+        <true/>
+        <key>width</key>
+        <integer>32</integer>
+      </dict>
+      <key>t: 2</key>
+      <dict>
+        <key>position</key>
+        <integer>1423</integer>
+        <key>top</key>
+        <true/>
+        <key>width</key>
+        <integer>0</integer>
       </dict>
     </dict>
   </dict>
@@ -654,15 +654,15 @@
   <array>
     <dict>
       <key>angle</key>
-      <real>0</real>
+      <integer>0</integer>
       <key>isGlobal</key>
       <true/>
       <key>magnetic</key>
       <integer>5</integer>
       <key>x</key>
-      <real>0</real>
+      <integer>0</integer>
       <key>y</key>
-      <real>2463</real>
+      <integer>2463</integer>
     </dict>
   </array>
   <key>public.glyphOrder</key>

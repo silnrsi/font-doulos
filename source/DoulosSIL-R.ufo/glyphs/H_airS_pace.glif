@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="HairSpace" format="1">
+  <advance width="39"/>
+  <unicode hex="200A"/>
+  <outline>
+    <contour>
+      <point x="20" y="-100" type="move" name="L"/>
+    </contour>
+    <contour>
+      <point x="20" y="0" type="move" name="H"/>
+    </contour>
+    <contour>
+      <point x="39" y="900" type="move" name="R"/>
+    </contour>
+    <contour>
+      <point x="20" y="1435" type="move" name="U"/>
+    </contour>
+    <contour>
+      <point x="70" y="0" type="move" name="O"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.ttprogram</key>
+      <data>
+        <ttProgram>
+          <ttc align="round" code="alignh" point="lsb"/>
+          <ttc align="right" code="singleh" point1="lsb" point2="rsb"/>
+        </ttProgram>
+      </data>
+    </dict>
+  </lib>
+</glyph>

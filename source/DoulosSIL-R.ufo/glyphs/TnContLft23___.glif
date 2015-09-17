@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="TnContLft23" format="1">
-  <advance width="614"/>
-  <outline>
-    <component base="TnLtrSeg23"/>
-    <component base="TnLtrSpcPointRight" xOffset="435"/>
-  </outline>
-</glyph>

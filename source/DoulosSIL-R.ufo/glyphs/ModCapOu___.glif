@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="ModCapOu" format="1">
-  <advance width="623"/>
-  <unicode hex="1D3D"/>
-  <outline>
-    <component base="LtnSmCapOu" xScale="0.72" yScale="0.6" yOffset="806"/>
-  </outline>
-</glyph>

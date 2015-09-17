@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ModSmY" format="1">
+  <advance width="729"/>
+  <unicode hex="02B8"/>
+  <outline>
+    <component base="LtnSmY" xScale="0.72" yScale="0.6" yOffset="806"/>
+    <contour>
+      <point x="369" y="1400" type="move" name="U"/>
+    </contour>
+    <contour>
+      <point x="729" y="900" type="move" name="R"/>
+    </contour>
+    <contour>
+      <point x="369" y="750" type="move" name="L"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="CyCapJe" format="1">
+  <advance width="798"/>
+  <unicode hex="0408"/>
+  <outline>
+    <component base="LtnCapJ"/>
+    <contour>
+      <point x="495" y="1435" type="move" name="U"/>
+    </contour>
+    <contour>
+      <point x="413" y="-100" type="move" name="L"/>
+    </contour>
+  </outline>
+</glyph>
