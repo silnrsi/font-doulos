@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="LtnSmTCommaBlw.sc" format="1">
+  <advance width="1092"/>
+  <outline>
+    <component base="LtnSmT.sc"/>
+    <component base="CombCommaBlw" xOffset="1059" yOffset="31"/>
+    <contour>
+      <point x="547" y="8" type="move" name="H"/>
+    </contour>
+    <contour>
+      <point x="547" y="1113" type="move" name="U"/>
+    </contour>
+    <contour>
+      <point x="547" y="-469" type="move" name="L"/>
+    </contour>
+  </outline>
+</glyph>

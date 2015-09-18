@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="LtnSmDDotBlw.sc" format="1">
+  <advance width="1293"/>
+  <outline>
+    <component base="LtnSmD.sc"/>
+    <component base="CombDotBlw" xOffset="1139" yOffset="31"/>
+    <contour>
+      <point x="627" y="1113" type="move" name="U"/>
+    </contour>
+    <contour>
+      <point x="627" y="-469" type="move" name="L"/>
+    </contour>
+  </outline>
+</glyph>

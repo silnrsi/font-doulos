@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="LtnSmOMacronGrave" format="1">
+  <advance width="1025"/>
+  <unicode hex="1E51"/>
+  <outline>
+    <component base="LtnSmO"/>
+    <component base="CombMacron" xOffset="1023"/>
+    <component base="CombGrave" xOffset="1023" yOffset="365"/>
+    <contour>
+      <point x="511" y="0" type="move" name="H"/>
+    </contour>
+    <contour>
+      <point x="1025" y="900" type="move" name="R"/>
+    </contour>
+    <contour>
+      <point x="511" y="1800" type="move" name="U"/>
+    </contour>
+    <contour>
+      <point x="511" y="-100" type="move" name="L"/>
+    </contour>
+    <contour>
+      <point x="717" y="0" type="move" name="O"/>
+    </contour>
+  </outline>
+</glyph>

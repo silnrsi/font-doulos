@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="LtnSmDHook.TopBar" format="1">
+  <advance width="1031"/>
+  <outline>
+    <component base="LtnSmDHook"/>
+    <contour>
+      <point x="666" y="1435" type="move" name="U"/>
+    </contour>
+    <contour>
+      <point x="665" y="-100" type="move" name="L"/>
+    </contour>
+  </outline>
+</glyph>

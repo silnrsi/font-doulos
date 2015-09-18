@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="LtnSmOCircumTilde.VN.sc" format="1">
+  <advance width="1936"/>
+  <outline>
+    <component base="LtnSmO.sc"/>
+    <component base="CombCircumTilde.VN" xOffset="321" yOffset="113"/>
+    <contour>
+      <point x="642" y="8" type="move" name="H"/>
+    </contour>
+    <contour>
+      <point x="1283" y="855" type="move" name="R"/>
+    </contour>
+    <contour>
+      <point x="642" y="1873" type="move" name="U"/>
+    </contour>
+    <contour>
+      <point x="642" y="-69" type="move" name="L"/>
+    </contour>
+    <contour>
+      <point x="861" y="8" type="move" name="O"/>
+    </contour>
+  </outline>
+</glyph>

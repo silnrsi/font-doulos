@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="CyCapKje" format="1">
+  <advance width="1366"/>
+  <unicode hex="040C"/>
+  <outline>
+    <component base="CyCapKa"/>
+    <component base="CombAcute" xOffset="1211" yOffset="435"/>
+    <contour>
+      <point x="699" y="1870" type="move" name="U"/>
+    </contour>
+    <contour>
+      <point x="699" y="-100" type="move" name="L"/>
+    </contour>
+  </outline>
+</glyph>

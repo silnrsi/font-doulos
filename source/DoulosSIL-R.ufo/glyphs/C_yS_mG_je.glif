@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="CySmGje" format="1">
+  <advance width="844"/>
+  <unicode hex="0453"/>
+  <outline>
+    <component base="CySmGhe"/>
+    <component base="CombAcute" xOffset="933"/>
+    <contour>
+      <point x="421" y="1435" type="move" name="U"/>
+    </contour>
+    <contour>
+      <point x="421" y="-100" type="move" name="L"/>
+    </contour>
+  </outline>
+</glyph>

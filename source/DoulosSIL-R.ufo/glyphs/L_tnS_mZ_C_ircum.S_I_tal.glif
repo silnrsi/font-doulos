@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="LtnSmZCircum.SItal" format="1">
+  <advance width="910"/>
+  <outline>
+    <component base="LtnSmZ.SItal"/>
+    <component base="CombCircum" xOffset="971"/>
+    <contour>
+      <point x="459" y="0" type="move" name="H"/>
+    </contour>
+    <contour>
+      <point x="459" y="1435" type="move" name="U"/>
+    </contour>
+    <contour>
+      <point x="459" y="-100" type="move" name="L"/>
+    </contour>
+  </outline>
+</glyph>

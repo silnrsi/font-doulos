@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="LtnSupSmG.SngBowl" format="1">
+  <advance width="709"/>
+  <outline>
+    <component base="LtnSupSmScriptG"/>
+    <contour>
+      <point x="341" y="1407" type="move" name="U"/>
+    </contour>
+    <contour>
+      <point x="341" y="500" type="move" name="L"/>
+    </contour>
+  </outline>
+</glyph>

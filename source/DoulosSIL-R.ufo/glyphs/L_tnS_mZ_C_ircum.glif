@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="LtnSmZCircum" format="1">
+  <advance width="910"/>
+  <unicode hex="1E91"/>
+  <outline>
+    <component base="LtnSmZ"/>
+    <component base="CombCircum" xOffset="971"/>
+    <contour>
+      <point x="459" y="0" type="move" name="H"/>
+    </contour>
+    <contour>
+      <point x="459" y="1435" type="move" name="U"/>
+    </contour>
+    <contour>
+      <point x="459" y="-100" type="move" name="L"/>
+    </contour>
+  </outline>
+</glyph>

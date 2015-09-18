@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="CySmShha" format="1">
+  <advance width="1025"/>
+  <unicode hex="04BB"/>
+  <outline>
+    <component base="LtnSmH"/>
+    <contour>
+      <point x="251" y="0" type="move" name="H"/>
+    </contour>
+    <contour>
+      <point x="513" y="1435" type="move" name="U"/>
+    </contour>
+    <contour>
+      <point x="513" y="-100" type="move" name="L"/>
+    </contour>
+  </outline>
+</glyph>

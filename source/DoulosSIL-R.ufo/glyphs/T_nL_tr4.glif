@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="TnLtr4" format="1">
+  <advance width="779"/>
+  <unicode hex="02E6"/>
+  <outline>
+    <component base="TnLtrSpcPointLeft"/>
+    <component base="TnLtrSeg44" xOffset="139"/>
+    <component base="TnLtrBar" xOffset="574"/>
+    <component base="TnLtrSpcFlatRight" xOffset="574"/>
+  </outline>
+</glyph>
