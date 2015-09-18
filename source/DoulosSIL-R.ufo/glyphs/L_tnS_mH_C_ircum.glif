@@ -103,6 +103,8 @@
           <ttc code="alignt" point="at03" zone="t: 1"/>
         </ttProgram>
       </data>
+      <key>public.postscriptname</key>
+      <string>hcircumflex</string>
     </dict>
   </lib>
 </glyph>

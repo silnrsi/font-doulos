@@ -54,4 +54,10 @@
       <point x="812" y="-303"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.postscriptname</key>
+      <string>questiondown</string>
+    </dict>
+  </lib>
 </glyph>

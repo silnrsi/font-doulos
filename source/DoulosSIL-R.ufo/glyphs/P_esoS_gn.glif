@@ -98,4 +98,10 @@
       <point x="568" y="672"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.postscriptname</key>
+      <string>uni20B1</string>
+    </dict>
+  </lib>
 </glyph>

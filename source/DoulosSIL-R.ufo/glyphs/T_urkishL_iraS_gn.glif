@@ -66,6 +66,8 @@
           <integer>633</integer>
         </dict>
       </array>
+      <key>public.postscriptname</key>
+      <string>uni20BA</string>
     </dict>
   </lib>
 </glyph>

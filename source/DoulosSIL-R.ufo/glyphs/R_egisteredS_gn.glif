@@ -91,4 +91,10 @@
       <point x="910" y="980"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.postscriptname</key>
+      <string>registered</string>
+    </dict>
+  </lib>
 </glyph>

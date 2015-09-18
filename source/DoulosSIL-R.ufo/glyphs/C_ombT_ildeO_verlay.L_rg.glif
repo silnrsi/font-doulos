@@ -25,4 +25,10 @@
       <point x="1019" y="523"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.postscriptname</key>
+      <string>uni0334.Lrg</string>
+    </dict>
+  </lib>
 </glyph>

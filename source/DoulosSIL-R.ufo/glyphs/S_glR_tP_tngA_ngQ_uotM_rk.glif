@@ -12,4 +12,10 @@
       <point x="175" y="-8" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.postscriptname</key>
+      <string>guilsinglright</string>
+    </dict>
+  </lib>
 </glyph>

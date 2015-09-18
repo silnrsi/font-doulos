@@ -5,4 +5,10 @@
   <outline>
     <component base="CentSgn"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.postscriptname</key>
+      <string>uni023C</string>
+    </dict>
+  </lib>
 </glyph>

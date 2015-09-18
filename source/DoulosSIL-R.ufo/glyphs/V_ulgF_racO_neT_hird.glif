@@ -72,4 +72,10 @@
       <point x="154" y="525" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.postscriptname</key>
+      <string>onethird</string>
+    </dict>
+  </lib>
 </glyph>

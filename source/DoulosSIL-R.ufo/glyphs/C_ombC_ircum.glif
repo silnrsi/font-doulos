@@ -28,6 +28,8 @@
           <ttc code="alignt" point="at01" zone="t: 1"/>
         </ttProgram>
       </data>
+      <key>public.postscriptname</key>
+      <string>uni0302</string>
     </dict>
   </lib>
 </glyph>

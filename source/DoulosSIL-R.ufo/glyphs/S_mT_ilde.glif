@@ -47,6 +47,8 @@
           <ttc code="interpolatev" point="iv04" point1="sh01" point2="sh02"/>
         </ttProgram>
       </data>
+      <key>public.postscriptname</key>
+      <string>tilde</string>
     </dict>
   </lib>
 </glyph>

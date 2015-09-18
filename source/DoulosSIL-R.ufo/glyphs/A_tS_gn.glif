@@ -75,4 +75,10 @@
       <point x="1228" y="767"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.postscriptname</key>
+      <string>at</string>
+    </dict>
+  </lib>
 </glyph>

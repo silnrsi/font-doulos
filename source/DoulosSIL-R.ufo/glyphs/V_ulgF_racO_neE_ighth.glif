@@ -83,4 +83,10 @@
       <point x="1303" y="248"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.postscriptname</key>
+      <string>oneeighth</string>
+    </dict>
+  </lib>
 </glyph>

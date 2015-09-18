@@ -13,4 +13,10 @@
       <point x="71" y="-280" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.postscriptname</key>
+      <string>angleright</string>
+    </dict>
+  </lib>
 </glyph>

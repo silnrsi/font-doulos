@@ -119,6 +119,8 @@
           <ttc code="singlev" point1="sv01" point2="sh01"/>
         </ttProgram>
       </data>
+      <key>public.postscriptname</key>
+      <string>uni2C69</string>
     </dict>
   </lib>
 </glyph>

@@ -88,6 +88,12 @@
           <ttc code="interpolatev" point="iv03" point1="ab01" point2="sv01"/>
         </ttProgram>
       </data>
+      <key>org.sil.assocFeature</key>
+      <string>Engs</string>
+      <key>org.sil.assocFeatureValue</key>
+      <integer>0</integer>
+      <key>public.postscriptname</key>
+      <string>Eng</string>
     </dict>
   </lib>
 </glyph>

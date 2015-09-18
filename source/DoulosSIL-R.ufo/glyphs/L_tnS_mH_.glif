@@ -92,6 +92,8 @@
           <ttc code="fdeltah" delta="8" point="sh10" ppm1="9" ppm2="13"/>
         </ttProgram>
       </data>
+      <key>public.postscriptname</key>
+      <string>h</string>
     </dict>
   </lib>
 </glyph>

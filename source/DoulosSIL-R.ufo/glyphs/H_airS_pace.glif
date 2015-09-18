@@ -28,6 +28,8 @@
           <ttc align="right" code="singleh" point1="lsb" point2="rsb"/>
         </ttProgram>
       </data>
+      <key>public.postscriptname</key>
+      <string>uni200A</string>
     </dict>
   </lib>
 </glyph>

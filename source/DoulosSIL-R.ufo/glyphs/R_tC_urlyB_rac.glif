@@ -45,4 +45,10 @@
       <point x="664" y="453"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.postscriptname</key>
+      <string>braceright</string>
+    </dict>
+  </lib>
 </glyph>

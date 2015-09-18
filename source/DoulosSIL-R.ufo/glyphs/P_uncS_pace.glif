@@ -19,4 +19,10 @@
       <point x="572" y="900" type="move" name="R"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.postscriptname</key>
+      <string>uni2008</string>
+    </dict>
+  </lib>
 </glyph>

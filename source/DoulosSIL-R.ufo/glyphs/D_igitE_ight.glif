@@ -93,6 +93,8 @@
           <ttc code="mdeltav" delta="-4" point="iv03" ppm1="13" ppm2="14"/>
         </ttProgram>
       </data>
+      <key>public.postscriptname</key>
+      <string>eight</string>
     </dict>
   </lib>
 </glyph>

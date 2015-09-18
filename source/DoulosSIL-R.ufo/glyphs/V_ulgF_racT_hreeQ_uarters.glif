@@ -71,4 +71,10 @@
       <point x="1168" y="704" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.postscriptname</key>
+      <string>threequarters</string>
+    </dict>
+  </lib>
 </glyph>

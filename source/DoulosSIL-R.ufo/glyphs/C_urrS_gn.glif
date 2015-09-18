@@ -56,4 +56,10 @@
       <point x="914" y="1008"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.postscriptname</key>
+      <string>currency</string>
+    </dict>
+  </lib>
 </glyph>

@@ -9,4 +9,10 @@
     <component base="TnLtrDot2" xOffset="472"/>
     <component base="TnLtrSpcDotRight" xOffset="472"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.postscriptname</key>
+      <string>uniA710</string>
+    </dict>
+  </lib>
 </glyph>

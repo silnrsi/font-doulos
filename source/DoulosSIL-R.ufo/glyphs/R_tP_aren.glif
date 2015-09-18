@@ -20,4 +20,10 @@
       <point x="600" y="81"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.postscriptname</key>
+      <string>parenright</string>
+    </dict>
+  </lib>
 </glyph>

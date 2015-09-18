@@ -18,4 +18,10 @@
       <point x="301" y="605"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.postscriptname</key>
+      <string>periodcentered</string>
+    </dict>
+  </lib>
 </glyph>

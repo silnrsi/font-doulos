@@ -62,6 +62,8 @@
           <ttc code="singlev" point1="sv01" point2="sv04"/>
         </ttProgram>
       </data>
+      <key>public.postscriptname</key>
+      <string>A</string>
     </dict>
   </lib>
 </glyph>

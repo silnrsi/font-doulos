@@ -16,4 +16,10 @@
       <point x="333" y="530" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.postscriptname</key>
+      <string>arrowleft</string>
+    </dict>
+  </lib>
 </glyph>

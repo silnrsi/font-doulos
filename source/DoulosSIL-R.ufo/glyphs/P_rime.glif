@@ -18,4 +18,10 @@
       <point x="167" y="835" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.postscriptname</key>
+      <string>minute</string>
+    </dict>
+  </lib>
 </glyph>

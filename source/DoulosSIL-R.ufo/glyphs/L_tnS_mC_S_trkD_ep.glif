@@ -86,6 +86,8 @@
           <ttc code="alignb" point="ab01" zone="b: 0"/>
         </ttProgram>
       </data>
+      <key>public.postscriptname</key>
+      <string>uniF20B</string>
     </dict>
   </lib>
 </glyph>

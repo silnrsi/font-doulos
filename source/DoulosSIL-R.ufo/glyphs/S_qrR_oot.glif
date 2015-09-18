@@ -17,4 +17,10 @@
       <point x="1035" y="1320" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.postscriptname</key>
+      <string>radical</string>
+    </dict>
+  </lib>
 </glyph>

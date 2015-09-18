@@ -113,4 +113,10 @@
       <point x="1416" y="1038" type="curve"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.postscriptname</key>
+      <string>ffl</string>
+    </dict>
+  </lib>
 </glyph>

@@ -102,4 +102,10 @@
       <point x="766" y="-100" type="move" name="L"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.postscriptname</key>
+      <string>uniA744</string>
+    </dict>
+  </lib>
 </glyph>

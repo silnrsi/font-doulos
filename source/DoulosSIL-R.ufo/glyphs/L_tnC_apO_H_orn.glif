@@ -73,4 +73,10 @@
       <point x="735" y="1435" type="move" name="U"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.postscriptname</key>
+      <string>Ohorn</string>
+    </dict>
+  </lib>
 </glyph>

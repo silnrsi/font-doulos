@@ -94,6 +94,8 @@
           <ttc code="interpolatev" point="iv01" point1="ab01" point2="at02"/>
         </ttProgram>
       </data>
+      <key>public.postscriptname</key>
+      <string>eng</string>
     </dict>
   </lib>
 </glyph>

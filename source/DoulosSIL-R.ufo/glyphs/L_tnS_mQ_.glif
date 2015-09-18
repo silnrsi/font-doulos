@@ -81,6 +81,8 @@
           <ttc code="singlev" point1="ab02" point2="sv04" stem="T1 H: 141"/>
         </ttProgram>
       </data>
+      <key>public.postscriptname</key>
+      <string>q</string>
     </dict>
   </lib>
 </glyph>

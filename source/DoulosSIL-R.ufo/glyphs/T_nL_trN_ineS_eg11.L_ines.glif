@@ -243,4 +243,10 @@
       <point x="867" y="-473"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.postscriptname</key>
+      <string>uniF1F1.Lines</string>
+    </dict>
+  </lib>
 </glyph>

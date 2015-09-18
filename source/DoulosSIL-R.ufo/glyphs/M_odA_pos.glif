@@ -28,4 +28,10 @@
       <point x="296" y="980"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.postscriptname</key>
+      <string>uni02BC</string>
+    </dict>
+  </lib>
 </glyph>

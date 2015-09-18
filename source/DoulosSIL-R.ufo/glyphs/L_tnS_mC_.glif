@@ -52,4 +52,10 @@
       <point x="910" y="900" type="move" name="R"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.postscriptname</key>
+      <string>c</string>
+    </dict>
+  </lib>
 </glyph>

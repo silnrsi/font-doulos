@@ -76,4 +76,10 @@
       <point x="767" y="1173"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.postscriptname</key>
+      <string>percent</string>
+    </dict>
+  </lib>
 </glyph>

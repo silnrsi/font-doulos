@@ -18,4 +18,10 @@
       <point x="397" y="24"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.postscriptname</key>
+      <string>onedotenleader</string>
+    </dict>
+  </lib>
 </glyph>

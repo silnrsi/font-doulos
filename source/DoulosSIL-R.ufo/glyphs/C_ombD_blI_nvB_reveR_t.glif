@@ -14,4 +14,10 @@
       <point x="-34" y="1429" type="curve"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.postscriptname</key>
+      <string>uniFE21</string>
+    </dict>
+  </lib>
 </glyph>

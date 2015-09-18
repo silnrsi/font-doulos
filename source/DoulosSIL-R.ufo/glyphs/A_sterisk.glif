@@ -66,4 +66,10 @@
       <point x="881" y="1061"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.postscriptname</key>
+      <string>asterisk</string>
+    </dict>
+  </lib>
 </glyph>

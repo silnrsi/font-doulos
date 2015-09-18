@@ -28,4 +28,10 @@
       <point x="497" y="980"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.postscriptname</key>
+      <string>quoteright</string>
+    </dict>
+  </lib>
 </glyph>
