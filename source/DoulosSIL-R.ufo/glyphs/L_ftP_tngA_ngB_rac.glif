@@ -2,7 +2,6 @@
 <glyph name="LftPtngAngBrac" format="1">
   <advance width="985"/>
   <unicode hex="2329"/>
-  <unicode hex="27E8"/>
   <outline>
     <contour>
       <point x="914" y="-280" type="line"/>

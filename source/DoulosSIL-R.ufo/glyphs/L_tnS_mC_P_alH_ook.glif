@@ -2,7 +2,6 @@
 <glyph name="LtnSmCPalHook" format="1">
   <advance width="910"/>
   <unicode hex="A794"/>
-  <unicode hex="F225"/>
   <outline>
     <contour>
       <point x="841" y="348" type="line"/>
