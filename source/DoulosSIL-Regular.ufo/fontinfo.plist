@@ -18,42 +18,6 @@
   <integer>5313</integer>
   <key>macintoshFONDName</key>
   <string>Doulos SIL</string>
-  <key>note</key>
-  <string>2004-01-28 pkm del - LtnCapAOgonek.RetroHookStyle
-2004-01-28 pkm del - LtnCapEOgonek.RetroHookStyle
-2004-01-28 pkm del - LtnCapIOgonek.RetroHookStyle
-2004-01-28 pkm del - LtnCapOOgonek.RetroHookStyle
-2004-01-28 pkm del - LtnCapOOgonekMacron.RetroHookStyle
-2004-01-28 pkm del - LtnCapUOgonek.RetroHookStyle
-2004-01-28 pkm del - LtnSmAOgonek.RetroHookStyle
-2004-01-28 pkm del - LtnSmEOgonek.RetroHookStyle
-2004-01-28 pkm del - LtnSmIOgonek.Dotless.RetroHookStyle
-2004-01-28 pkm del - LtnSmIOgonek.RetroHookStyle
-2004-01-28 pkm del - LtnSmOOgonek.RetroHookStyle
-2004-01-28 pkm del - LtnSmOOgonekMacron.RetroHookStyle
-2004-01-28 pkm del - LtnSmUOgonek.RetroHookStyle
-2003-06-18 pkm del Fog0222 (fi ligature), transferred outline to U+FB01 LtnSmLigFi
-2003-06-18 pkm del LtnSmLigFl U+FB02 (transferred this identity to Fog0223)
-2003-06-02 pkm del SILID 7105
-2003-06-02 pkm del SILID 7126
-2003-06-02 pkm del SILID 7134
-2003-05-14 pkm inf Encoding and Unicode: Unicode Ranges: added Private Use
-2003-03-19 pkm del LtnSmGHook.SmCap
-2003-03-19 pkm del LtnSmOe.SmCap
-2003-03-19 pkm del LtnSmY.SmCap
-2003-03-19 pkm del LtnSmR.SmCap
-2003-03-19 pkm del LtnSmN.SmCap
-2003-03-19 pkm del LtnSmL.SmCap
-2003-03-19 pkm del LtnSmH.SmCap
-2003-03-19 pkm del LtnSmG.SmCap
-2003-03-19 pkm del LtnSmE.SmCap
-2003-03-19 pkm del LtnSmB.SmCap
-2003-03-19 pkm del LtnSmA.SmCap
-2003-03-18 pkm del LtnSmC.SmCap
-2003-03-18 pkm del LtnSmD.SmCap
-
-0031 Set T1 alignment zones and Type1 stems
-0032 Converted A-Z,a-z to TT and added TT stems</string>
   <key>openTypeHeadCreated</key>
   <string>2014/10/31 06:31:13</string>
   <key>openTypeHeadFlags</key>
@@ -119,11 +83,9 @@ THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
   <key>openTypeNameManufacturer</key>
   <string>SIL International</string>
   <key>openTypeNameManufacturerURL</key>
-  <string>www.sil.org</string>
-  <key>openTypeNameSampleText</key>
-  <string/>
+  <string>http://scripts.sil.org/</string>
   <key>openTypeNameUniqueID</key>
-  <string>SILInternational: Doulos SIL: 2017</string>
+  <string>SIL International: Doulos SIL: 2017</string>
   <key>openTypeNameVersion</key>
   <string>Version 5.000</string>
   <key>openTypeOS2CodePageRanges</key>
@@ -246,12 +208,8 @@ THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
   </array>
   <key>postscriptFontName</key>
   <string>DoulosSIL</string>
-  <key>postscriptForceBold</key>
-  <false/>
   <key>postscriptFullName</key>
   <string>Doulos SIL</string>
-  <key>postscriptIsFixedPitch</key>
-  <false/>
   <key>postscriptOtherBlues</key>
   <array>
     <integer>-444</integer>
@@ -290,7 +248,7 @@ THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
   <key>postscriptUnderlineThickness</key>
   <integer>120</integer>
   <key>postscriptUniqueID</key>
-  <integer>-1</integer>
+  <integer>4013406</integer>
   <key>postscriptWeightName</key>
   <string>Regular</string>
   <key>styleMapFamilyName</key>
