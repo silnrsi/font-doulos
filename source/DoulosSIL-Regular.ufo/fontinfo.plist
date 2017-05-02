@@ -85,7 +85,7 @@ THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
   <key>openTypeNameManufacturerURL</key>
   <string>http://scripts.sil.org/</string>
   <key>openTypeNameUniqueID</key>
-  <string>SIL International: Doulos SIL: 2017</string>
+  <string>SIL International: Doulos SIL Regular: 2017</string>
   <key>openTypeNameVersion</key>
   <string>Version 5.000</string>
   <key>openTypeOS2CodePageRanges</key>
@@ -207,9 +207,9 @@ THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
     <integer>1423</integer>
   </array>
   <key>postscriptFontName</key>
-  <string>DoulosSIL</string>
+  <string>DoulosSIL-Regular</string>
   <key>postscriptFullName</key>
-  <string>Doulos SIL</string>
+  <string>Doulos SIL Regular</string>
   <key>postscriptOtherBlues</key>
   <array>
     <integer>-444</integer>
@@ -250,7 +250,7 @@ THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
   <key>postscriptUniqueID</key>
   <integer>4013406</integer>
   <key>postscriptWeightName</key>
-  <string>Regular</string>
+  <string>regular</string>
   <key>styleMapFamilyName</key>
   <string>Doulos SIL</string>
   <key>styleMapStyleName</key>
