@@ -42,10 +42,10 @@
       <point x="1406" y="388" type="line"/>
     </contour>
     <contour>
-      <point x="728" y="1031" type="move" name="U"/>
+      <point x="728" y="337" type="move" name="L"/>
     </contour>
     <contour>
-      <point x="728" y="337" type="move" name="L"/>
+      <point x="728" y="1031" type="move" name="U"/>
     </contour>
   </outline>
   <lib>

@@ -52,13 +52,13 @@
       <point x="1403" y="1320" type="curve" smooth="yes"/>
     </contour>
     <contour>
-      <point x="731" y="1435" type="move" name="U"/>
+      <point x="1224" y="0" type="move" name="H"/>
     </contour>
     <contour>
       <point x="731" y="-100" type="move" name="L"/>
     </contour>
     <contour>
-      <point x="1224" y="0" type="move" name="H"/>
+      <point x="731" y="1435" type="move" name="U"/>
     </contour>
   </outline>
   <lib>

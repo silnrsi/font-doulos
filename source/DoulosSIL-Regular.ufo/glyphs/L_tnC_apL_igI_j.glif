@@ -6,6 +6,9 @@
     <component base="LtnCapI"/>
     <component base="LtnCapJ" xOffset="682"/>
     <contour>
+      <point x="341" y="0" type="move" name="H"/>
+    </contour>
+    <contour>
       <point x="1095" y="-100" type="move" name="L"/>
     </contour>
     <contour>
@@ -13,9 +16,6 @@
     </contour>
     <contour>
       <point x="758" y="1435" type="move" name="U"/>
-    </contour>
-    <contour>
-      <point x="341" y="0" type="move" name="H"/>
     </contour>
   </outline>
   <lib>

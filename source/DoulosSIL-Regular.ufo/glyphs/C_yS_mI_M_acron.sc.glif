@@ -5,10 +5,10 @@
     <component base="CySmI.sc"/>
     <component base="CombMacron" xOffset="1151" yOffset="113"/>
     <contour>
-      <point x="639" y="1478" type="move" name="U"/>
+      <point x="639" y="-69" type="move" name="L"/>
     </contour>
     <contour>
-      <point x="639" y="-69" type="move" name="L"/>
+      <point x="639" y="1478" type="move" name="U"/>
     </contour>
   </outline>
   <lib>

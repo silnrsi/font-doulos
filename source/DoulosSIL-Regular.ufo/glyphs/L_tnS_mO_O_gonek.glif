@@ -6,16 +6,16 @@
     <component base="LtnSmO"/>
     <component base="CombOgonek" xOffset="1059" yOffset="18"/>
     <contour>
-      <point x="1025" y="900" type="move" name="R"/>
+      <point x="511" y="0" type="move" name="H"/>
     </contour>
     <contour>
       <point x="571" y="-400" type="move" name="L"/>
     </contour>
     <contour>
-      <point x="511" y="1000" type="move" name="U"/>
+      <point x="1025" y="900" type="move" name="R"/>
     </contour>
     <contour>
-      <point x="511" y="0" type="move" name="H"/>
+      <point x="511" y="1000" type="move" name="U"/>
     </contour>
   </outline>
   <lib>

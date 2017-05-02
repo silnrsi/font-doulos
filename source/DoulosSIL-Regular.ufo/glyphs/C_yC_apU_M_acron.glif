@@ -6,10 +6,10 @@
     <component base="CyCapU"/>
     <component base="CombMacron" xOffset="1236" yOffset="435"/>
     <contour>
-      <point x="724" y="1800" type="move" name="U"/>
+      <point x="724" y="-100" type="move" name="L"/>
     </contour>
     <contour>
-      <point x="724" y="-100" type="move" name="L"/>
+      <point x="724" y="1800" type="move" name="U"/>
     </contour>
   </outline>
   <lib>

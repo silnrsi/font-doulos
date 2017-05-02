@@ -33,10 +33,10 @@
       <point x="267" y="1367" type="line"/>
     </contour>
     <contour>
-      <point x="289" y="1000" type="move" name="_U"/>
+      <point x="173" y="1760" type="move" name="U"/>
     </contour>
     <contour>
-      <point x="173" y="1760" type="move" name="U"/>
+      <point x="289" y="1000" type="move" name="_U"/>
     </contour>
   </outline>
   <lib>

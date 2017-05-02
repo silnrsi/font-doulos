@@ -31,7 +31,7 @@
       <point x="77" y="0" type="line"/>
     </contour>
     <contour>
-      <point x="292" y="1475" type="move" name="U"/>
+      <point x="293" y="0" type="move" name="H"/>
     </contour>
     <contour>
       <point x="292" y="-100" type="move" name="L"/>
@@ -40,7 +40,7 @@
       <point x="470" y="900" type="move" name="R"/>
     </contour>
     <contour>
-      <point x="293" y="0" type="move" name="H"/>
+      <point x="292" y="1475" type="move" name="U"/>
     </contour>
   </outline>
   <lib>

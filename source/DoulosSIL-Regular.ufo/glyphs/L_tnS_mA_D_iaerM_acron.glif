@@ -7,19 +7,19 @@
     <component base="CombDiaer" xOffset="1003"/>
     <component base="CombMacron" xOffset="1004" yOffset="435"/>
     <contour>
-      <point x="910" y="900" type="move" name="R"/>
-    </contour>
-    <contour>
       <point x="689" y="0" type="move" name="H"/>
     </contour>
     <contour>
-      <point x="491" y="1870" type="move" name="U"/>
+      <point x="491" y="-100" type="move" name="L"/>
     </contour>
     <contour>
       <point x="817" y="0" type="move" name="O"/>
     </contour>
     <contour>
-      <point x="491" y="-100" type="move" name="L"/>
+      <point x="910" y="900" type="move" name="R"/>
+    </contour>
+    <contour>
+      <point x="491" y="1870" type="move" name="U"/>
     </contour>
   </outline>
   <lib>

@@ -5,10 +5,10 @@
     <component base="LtnSmAe.sc"/>
     <component base="CombAcute" xOffset="1270" yOffset="113"/>
     <contour>
-      <point x="758" y="1548" type="move" name="U"/>
+      <point x="758" y="-69" type="move" name="L"/>
     </contour>
     <contour>
-      <point x="758" y="-69" type="move" name="L"/>
+      <point x="758" y="1548" type="move" name="U"/>
     </contour>
   </outline>
   <lib>

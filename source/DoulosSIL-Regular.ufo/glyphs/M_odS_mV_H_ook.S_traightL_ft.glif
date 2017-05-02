@@ -4,10 +4,10 @@
   <outline>
     <component base="LtnSmVHook.StraightLft" xScale="0.72" yScale="0.6" xOffset="-2" yOffset="806"/>
     <contour>
-      <point x="367" y="1400" type="move" name="U"/>
+      <point x="365" y="746" type="move" name="L"/>
     </contour>
     <contour>
-      <point x="365" y="746" type="move" name="L"/>
+      <point x="367" y="1400" type="move" name="U"/>
     </contour>
   </outline>
   <lib>

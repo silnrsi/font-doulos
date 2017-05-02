@@ -6,10 +6,10 @@
     <component base="LtnCapSchwa"/>
     <component base="CombDiaer" xOffset="1196" yOffset="435"/>
     <contour>
-      <point x="684" y="1870" type="move" name="U"/>
+      <point x="684" y="-100" type="move" name="L"/>
     </contour>
     <contour>
-      <point x="684" y="-100" type="move" name="L"/>
+      <point x="684" y="1870" type="move" name="U"/>
     </contour>
   </outline>
   <lib>

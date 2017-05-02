@@ -4,10 +4,10 @@
   <outline>
     <component base="LtnSmJ.Dotless" xScale="0.72" yScale="0.6" yOffset="807"/>
     <contour>
-      <point x="215" y="1400" type="move" name="U"/>
+      <point x="81" y="500" type="move" name="L"/>
     </contour>
     <contour>
-      <point x="81" y="500" type="move" name="L"/>
+      <point x="215" y="1400" type="move" name="U"/>
     </contour>
   </outline>
   <lib>

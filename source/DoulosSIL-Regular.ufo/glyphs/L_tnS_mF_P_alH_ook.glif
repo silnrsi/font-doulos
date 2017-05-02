@@ -25,10 +25,10 @@
     </contour>
     <component base="LtnSmF"/>
     <contour>
-      <point x="483" y="1475" type="move" name="U"/>
+      <point x="338" y="-500" type="move" name="L"/>
     </contour>
     <contour>
-      <point x="338" y="-500" type="move" name="L"/>
+      <point x="483" y="1475" type="move" name="U"/>
     </contour>
   </outline>
   <lib>

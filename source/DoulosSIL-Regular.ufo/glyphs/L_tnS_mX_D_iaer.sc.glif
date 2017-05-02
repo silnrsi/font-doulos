@@ -5,10 +5,10 @@
     <component base="LtnSmX.sc"/>
     <component base="CombDiaer" xOffset="1152" yOffset="113"/>
     <contour>
-      <point x="640" y="1548" type="move" name="U"/>
+      <point x="640" y="-69" type="move" name="L"/>
     </contour>
     <contour>
-      <point x="640" y="-69" type="move" name="L"/>
+      <point x="640" y="1548" type="move" name="U"/>
     </contour>
   </outline>
   <lib>

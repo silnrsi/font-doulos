@@ -57,10 +57,10 @@
       <point x="599" y="-34"/>
     </contour>
     <contour>
-      <point x="386" y="140" type="move" name="U"/>
+      <point x="388" y="-767" type="move" name="L"/>
     </contour>
     <contour>
-      <point x="388" y="-767" type="move" name="L"/>
+      <point x="386" y="140" type="move" name="U"/>
     </contour>
   </outline>
   <lib>

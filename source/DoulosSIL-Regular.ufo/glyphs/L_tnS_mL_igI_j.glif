@@ -9,10 +9,10 @@
       <point x="294" y="0" type="move" name="H"/>
     </contour>
     <contour>
-      <point x="344" y="0" type="move" name="O"/>
+      <point x="691" y="-500" type="move" name="L"/>
     </contour>
     <contour>
-      <point x="691" y="-500" type="move" name="L"/>
+      <point x="344" y="0" type="move" name="O"/>
     </contour>
     <contour>
       <point x="596" y="1435" type="move" name="U"/>

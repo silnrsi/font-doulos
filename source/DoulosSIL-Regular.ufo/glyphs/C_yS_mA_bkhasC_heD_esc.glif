@@ -19,10 +19,10 @@
     </contour>
     <component base="CySmAbkhasChe"/>
     <contour>
-      <point x="647" y="1000" type="move" name="U"/>
+      <point x="647" y="-400" type="move" name="L"/>
     </contour>
     <contour>
-      <point x="647" y="-400" type="move" name="L"/>
+      <point x="647" y="1000" type="move" name="U"/>
     </contour>
   </outline>
   <lib>

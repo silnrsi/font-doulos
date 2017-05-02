@@ -5,10 +5,10 @@
     <component base="LtnSmUHorn.sc"/>
     <component base="CombDotBlw" xOffset="1162" yOffset="31"/>
     <contour>
-      <point x="650" y="1113" type="move" name="U"/>
+      <point x="650" y="-469" type="move" name="L"/>
     </contour>
     <contour>
-      <point x="650" y="-469" type="move" name="L"/>
+      <point x="650" y="1113" type="move" name="U"/>
     </contour>
   </outline>
   <lib>

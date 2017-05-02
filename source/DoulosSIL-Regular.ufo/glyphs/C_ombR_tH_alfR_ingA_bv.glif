@@ -20,10 +20,10 @@
       <point x="-608" y="1113" type="curve"/>
     </contour>
     <contour>
-      <point x="-512" y="1000" type="move" name="_U"/>
+      <point x="-511" y="1475" type="move" name="U"/>
     </contour>
     <contour>
-      <point x="-511" y="1475" type="move" name="U"/>
+      <point x="-512" y="1000" type="move" name="_U"/>
     </contour>
   </outline>
   <lib>

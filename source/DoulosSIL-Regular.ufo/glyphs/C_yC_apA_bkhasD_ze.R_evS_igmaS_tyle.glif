@@ -4,10 +4,10 @@
   <outline>
     <component base="LtnCapEzh.RevSigmaStyle"/>
     <contour>
-      <point x="626" y="1435" type="move" name="U"/>
+      <point x="626" y="-100" type="move" name="L"/>
     </contour>
     <contour>
-      <point x="626" y="-100" type="move" name="L"/>
+      <point x="626" y="1435" type="move" name="U"/>
     </contour>
   </outline>
   <lib>

@@ -5,10 +5,10 @@
   <outline>
     <component base="GrSmRho" xScale="0.71968" yScale="0.6" yOffset="-180"/>
     <contour>
-      <point x="326" y="500" type="move" name="U"/>
+      <point x="326" y="-500" type="move" name="L"/>
     </contour>
     <contour>
-      <point x="326" y="-500" type="move" name="L"/>
+      <point x="326" y="500" type="move" name="U"/>
     </contour>
   </outline>
   <lib>

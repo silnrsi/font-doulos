@@ -5,10 +5,10 @@
     <component base="LtnSmD.sc"/>
     <component base="ModLowMacron" xOffset="306" yOffset="31"/>
     <contour>
-      <point x="627" y="1113" type="move" name="U"/>
+      <point x="627" y="-469" type="move" name="L"/>
     </contour>
     <contour>
-      <point x="627" y="-469" type="move" name="L"/>
+      <point x="627" y="1113" type="move" name="U"/>
     </contour>
   </outline>
   <lib>

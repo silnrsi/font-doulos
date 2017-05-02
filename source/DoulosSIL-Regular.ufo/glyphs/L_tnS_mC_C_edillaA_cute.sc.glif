@@ -6,10 +6,10 @@
     <component base="CombCedilla" xOffset="1110" yOffset="8"/>
     <component base="CombAcute" xOffset="1158" yOffset="113"/>
     <contour>
-      <point x="646" y="1548" type="move" name="U"/>
+      <point x="598" y="-592" type="move" name="L"/>
     </contour>
     <contour>
-      <point x="598" y="-592" type="move" name="L"/>
+      <point x="646" y="1548" type="move" name="U"/>
     </contour>
   </outline>
   <lib>

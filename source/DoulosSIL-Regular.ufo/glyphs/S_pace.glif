@@ -4,19 +4,19 @@
   <unicode hex="0020"/>
   <outline>
     <contour>
-      <point x="591" y="900" type="move" name="R"/>
-    </contour>
-    <contour>
-      <point x="296" y="1435" type="move" name="U"/>
-    </contour>
-    <contour>
-      <point x="346" y="0" type="move" name="O"/>
+      <point x="296" y="0" type="move" name="H"/>
     </contour>
     <contour>
       <point x="296" y="-100" type="move" name="L"/>
     </contour>
     <contour>
-      <point x="296" y="0" type="move" name="H"/>
+      <point x="346" y="0" type="move" name="O"/>
+    </contour>
+    <contour>
+      <point x="591" y="900" type="move" name="R"/>
+    </contour>
+    <contour>
+      <point x="296" y="1435" type="move" name="U"/>
     </contour>
   </outline>
   <lib>

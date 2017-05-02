@@ -5,10 +5,10 @@
     <component base="LtnSmZ.sc"/>
     <component base="CombCaron" xOffset="1047" yOffset="113"/>
     <contour>
-      <point x="535" y="1548" type="move" name="U"/>
+      <point x="535" y="-69" type="move" name="L"/>
     </contour>
     <contour>
-      <point x="535" y="-69" type="move" name="L"/>
+      <point x="535" y="1548" type="move" name="U"/>
     </contour>
   </outline>
   <lib>

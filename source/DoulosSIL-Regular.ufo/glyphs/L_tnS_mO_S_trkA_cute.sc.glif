@@ -5,10 +5,10 @@
     <component base="LtnSmOStrk.sc"/>
     <component base="CombAcute" xOffset="1156" yOffset="113"/>
     <contour>
-      <point x="644" y="1548" type="move" name="U"/>
+      <point x="644" y="-69" type="move" name="L"/>
     </contour>
     <contour>
-      <point x="644" y="-69" type="move" name="L"/>
+      <point x="644" y="1548" type="move" name="U"/>
     </contour>
   </outline>
   <lib>
