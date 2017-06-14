@@ -43,18 +43,6 @@
   </outline>
   <lib>
     <dict>
-      <key>com.fontlab.ttprogram</key>
-      <data>
-        <ttProgram>
-          <ttc align="left" code="alignv" point="av01"/>
-          <ttc code="alignt" point="at01" zone="t: 1"/>
-          <ttc code="alignb" point="ab01" zone="b: 0"/>
-          <ttc code="singlev" point1="at01" point2="sv01" stem="T1 H: 163"/>
-          <ttc code="singlev" point1="av01" point2="sv02" stem="T1 H: 163"/>
-          <ttc align="right" code="singlev" point1="ab01" point2="sv03" round="true"/>
-          <ttc code="singlev" point1="ab01" point2="sv04" stem="T1 H: 116"/>
-        </ttProgram>
-      </data>
       <key>public.postscriptname</key>
       <string>five</string>
     </dict>

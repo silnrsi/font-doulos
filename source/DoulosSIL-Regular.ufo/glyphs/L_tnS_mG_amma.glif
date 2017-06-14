@@ -79,15 +79,6 @@
   </outline>
   <lib>
     <dict>
-      <key>com.fontlab.ttprogram</key>
-      <data>
-        <ttProgram>
-          <ttc code="alignt" point="at01" zone="t: 0"/>
-          <ttc code="alignt" point="at02" zone="t: 0"/>
-          <ttc code="alignb" point="ab01" zone="b: 1"/>
-          <ttc code="singlev" point1="ab01" point2="sv01" stem="T1 H: 76"/>
-        </ttProgram>
-      </data>
       <key>public.postscriptname</key>
       <string>uni0263</string>
     </dict>

@@ -37,15 +37,6 @@
   </outline>
   <lib>
     <dict>
-      <key>com.fontlab.ttprogram</key>
-      <data>
-        <ttProgram>
-          <ttc code="alignt" point="at01" zone="t: 1"/>
-          <ttc code="alignb" point="ab01" zone="b: 0"/>
-          <ttc code="singlev" point1="at01" point2="sv01" stem="T1 H: 76"/>
-          <ttc code="singlev" point1="ab01" point2="sv02" stem="T1 H: 86"/>
-        </ttProgram>
-      </data>
       <key>public.postscriptname</key>
       <string>Z</string>
     </dict>

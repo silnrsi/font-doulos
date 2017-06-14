@@ -49,24 +49,6 @@
   </outline>
   <lib>
     <dict>
-      <key>com.fontlab.ttprogram</key>
-      <data>
-        <ttProgram>
-          <ttc align="round" code="alignh" point="ah01"/>
-          <ttc align="round" code="alignh" point="ah02"/>
-          <ttc code="singleh" point1="ah01" point2="sh01" stem="T1 V: 213"/>
-          <ttc code="singleh" point1="sh01" point2="sh02" stem="V: 137 serif"/>
-          <ttc code="mdeltah" delta="5" point="mh01" ppm1="15" ppm2="17"/>
-          <ttc code="singleh" point1="sh01" point2="sh03" stem="T1 V: 169"/>
-          <ttc code="singleh" point1="ah02" point2="sh04" stem="T1 V: 36"/>
-          <ttc code="alignt" point="at01" zone="t: 2"/>
-          <ttc code="alignb" point="ab01" zone="b: 0"/>
-          <ttc code="singlev" point1="ab01" point2="sh02" stem="T1 H: 37"/>
-          <ttc code="interpolatev" point="sh01" point1="ab01" point2="at01"/>
-          <ttc code="interpolatev" point="sh03" point1="ab01" point2="at01"/>
-          <ttc code="singlev" point1="sh02" point2="sh04"/>
-        </ttProgram>
-      </data>
       <key>public.postscriptname</key>
       <string>l</string>
     </dict>

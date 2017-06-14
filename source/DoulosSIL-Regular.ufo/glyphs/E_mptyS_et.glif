@@ -56,13 +56,6 @@
   </outline>
   <lib>
     <dict>
-      <key>com.fontlab.ttprogram</key>
-      <data>
-        <ttProgram>
-          <ttc align="round" code="alignv" point="av01"/>
-          <ttc code="alignb" point="ab01" zone="b: 0"/>
-        </ttProgram>
-      </data>
       <key>public.postscriptname</key>
       <string>emptyset</string>
     </dict>

@@ -77,30 +77,6 @@
   </outline>
   <lib>
     <dict>
-      <key>com.fontlab.ttprogram</key>
-      <data>
-        <ttProgram>
-          <ttc code="doubleh" point1="dh01" point2="dh02" stem="T1 V: 89"/>
-          <ttc code="doubleh" point1="dh03" point2="dh04" stem="T1 V: 193"/>
-          <ttc code="interpolateh" point="ih01" point1="dh01" point2="dh04"/>
-          <ttc code="singleh" point1="dh04" point2="sh01" round="true"/>
-          <ttc code="alignt" point="at01" zone="t: 1"/>
-          <ttc code="alignt" point="at02" zone="t: 1"/>
-          <ttc code="alignb" point="ab01" zone="b: 0"/>
-          <ttc code="alignb" point="ab02" zone="b: 0"/>
-          <ttc code="alignb" point="ab03" zone="b: 0"/>
-          <ttc code="singlev" point1="ab01" point2="sv01" stem="T1 H: 37"/>
-          <ttc code="singlev" point1="sv01" point2="sv02"/>
-          <ttc code="interpolatev" point="dh03" point1="ab01" point2="at01"/>
-          <ttc code="interpolatev" point="dh02" point1="ab01" point2="at01"/>
-          <ttc code="singlev" point1="ab02" point2="sv03" stem="T1 H: 37"/>
-          <ttc code="singlev" point1="sv03" point2="sv04"/>
-          <ttc code="singlev" point1="at02" point2="sv05" stem="T1 H: 37"/>
-          <ttc code="interpolatev" point="ih01" point1="ab01" point2="at01"/>
-          <ttc code="singlev" point1="at01" point2="sv06" stem="T1 H: 37"/>
-          <ttc code="fdeltav" delta="-5" point="ih01" ppm1="16" ppm2="16"/>
-        </ttProgram>
-      </data>
       <key>public.postscriptname</key>
       <string>M</string>
     </dict>

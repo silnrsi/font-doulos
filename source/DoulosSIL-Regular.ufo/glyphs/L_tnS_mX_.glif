@@ -64,31 +64,6 @@
   </outline>
   <lib>
     <dict>
-      <key>com.fontlab.ttprogram</key>
-      <data>
-        <ttProgram>
-          <ttc code="mdeltah" delta="3" point="mh01" ppm1="9" ppm2="9"/>
-          <ttc code="mdeltah" delta="1" point="mh01" ppm1="10" ppm2="10"/>
-          <ttc code="mdeltah" delta="2" point="mh02" ppm1="9" ppm2="9"/>
-          <ttc code="alignt" point="at01" zone="t: 0"/>
-          <ttc code="alignt" point="at02" zone="t: 0"/>
-          <ttc code="alignb" point="mh02" zone="b: 0"/>
-          <ttc code="alignb" point="ab01" zone="b: 0"/>
-          <ttc code="singlev" point1="ab01" point2="sv01" stem="T1 H: 37"/>
-          <ttc code="singlev" point1="sv01" point2="sv02"/>
-          <ttc code="interpolatev" point="iv01" point1="mh02" point2="at01"/>
-          <ttc code="singlev" point1="sv01" point2="sv03"/>
-          <ttc code="mdeltav" delta="5" point="mv01" ppm1="12" ppm2="13"/>
-          <ttc code="mdeltav" delta="-6" point="mv02" ppm1="12" ppm2="13"/>
-          <ttc code="mdeltav" delta="-8" point="mv03" ppm1="12" ppm2="13"/>
-          <ttc code="interpolatev" point="iv02" point1="mh02" point2="at01"/>
-          <ttc code="mdeltav" delta="-4" point="mv04" ppm1="12" ppm2="13"/>
-          <ttc code="singlev" point1="sv01" point2="sv04"/>
-          <ttc code="fdeltah" delta="-4" point="at02" ppm1="12" ppm2="12"/>
-          <ttc code="fdeltah" delta="-4" point="fh01" ppm1="12" ppm2="12"/>
-          <ttc code="fdeltah" delta="7" point="mh01" ppm1="9" ppm2="9"/>
-        </ttProgram>
-      </data>
       <key>public.postscriptname</key>
       <string>x</string>
     </dict>

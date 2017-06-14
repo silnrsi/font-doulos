@@ -81,56 +81,6 @@
   </outline>
   <lib>
     <dict>
-      <key>com.fontlab.ttprogram</key>
-      <data>
-        <ttProgram>
-          <ttc align="round" code="alignh" point="ah01"/>
-          <ttc code="singleh" point1="ah01" point2="sh01" stem="V: 148-167 LSB"/>
-          <ttc code="singleh" point1="sh01" point2="sh02" stem="T1 V: 169"/>
-          <ttc align="round" code="singleh" point1="sh02" point2="sh03" stem="V: 388 M"/>
-          <ttc code="mdeltah" delta="6" point="sh03" ppm1="17" ppm2="17"/>
-          <ttc code="singleh" point1="sh03" point2="sh04" stem="T1 V: 169"/>
-          <ttc code="singleh" point1="sh04" point2="sh05" stem="V: 388 M"/>
-          <ttc code="mdeltah" delta="6" point="sh05" ppm1="17" ppm2="17"/>
-          <ttc code="singleh" point1="sh05" point2="sh06" stem="V: 137 serif"/>
-          <ttc code="singleh" point1="sh05" point2="sh07" stem="T1 V: 169"/>
-          <ttc code="interpolateh" point="ih01" point1="sh04" point2="sh07"/>
-          <ttc code="singleh" point1="sh04" point2="sh08" stem="V: 137 serif"/>
-          <ttc code="singleh" point1="sh03" point2="sh09" stem="V: 137 serif"/>
-          <ttc code="interpolateh" point="ih02" point1="sh02" point2="sh04"/>
-          <ttc code="singleh" point1="sh02" point2="sh10" stem="V: 137 serif"/>
-          <ttc code="singleh" point1="sh01" point2="sh11" stem="V: 137 serif"/>
-          <ttc code="singleh" point1="sh01" point2="sh12" stem="V: 137 serif"/>
-          <ttc code="singleh" point1="sh02" point2="sh13"/>
-          <ttc code="singleh" point1="sh07" point2="sh14" stem="V: 137 serif"/>
-          <ttc code="singleh" point1="sh07" point2="sh15" stem="T1 V: 169"/>
-          <ttc code="alignt" point="at01" zone="t: 0"/>
-          <ttc code="alignt" point="at02" zone="t: 0"/>
-          <ttc code="alignt" point="at03" zone="t: 0"/>
-          <ttc code="alignb" point="ab01" zone="b: 0"/>
-          <ttc code="alignb" point="ab02" zone="b: 0"/>
-          <ttc code="alignb" point="ab03" zone="b: 0"/>
-          <ttc code="alignb" point="ab04" zone="b: 0"/>
-          <ttc align="left" code="singlev" point1="ab01" point2="sh11" stem="T1 H: 37"/>
-          <ttc code="singlev" point1="sh11" point2="sh10"/>
-          <ttc code="singlev" point1="sh10" point2="sh09"/>
-          <ttc code="singlev" point1="sh09" point2="sh08"/>
-          <ttc code="singlev" point1="sh08" point2="sh06"/>
-          <ttc code="interpolatev" point="sh05" point1="ab03" point2="at03"/>
-          <ttc align="right" code="interpolatev" point="iv01" point1="ab02" point2="at03"/>
-          <ttc code="singlev" point1="at03" point2="ih01" stem="T1 H: 116"/>
-          <ttc code="interpolatev" point="sh04" point1="ab04" point2="at02"/>
-          <ttc code="interpolatev" point="sh03" point1="ab04" point2="at02"/>
-          <ttc align="right" code="interpolatev" point="iv02" point1="ab04" point2="at02"/>
-          <ttc code="singlev" point1="ih01" point2="ih02"/>
-          <ttc code="interpolatev" point="sh02" point1="ab01" point2="at01"/>
-          <ttc code="interpolatev" point="sh01" point1="ab01" point2="at01"/>
-          <ttc code="interpolatev" point="sh13" point1="ab03" point2="at01"/>
-          <ttc code="interpolatev" point="iv03" point1="ab03" point2="at01"/>
-          <ttc code="interpolatev" point="sh07" point1="ab02" point2="at03"/>
-          <ttc code="singlev" point1="sh06" point2="sh14"/>
-        </ttProgram>
-      </data>
       <key>public.postscriptname</key>
       <string>m</string>
     </dict>

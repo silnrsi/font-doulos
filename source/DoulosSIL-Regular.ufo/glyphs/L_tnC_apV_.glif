@@ -55,23 +55,6 @@
   </outline>
   <lib>
     <dict>
-      <key>com.fontlab.ttprogram</key>
-      <data>
-        <ttProgram>
-          <ttc align="round" code="alignh" point="ah01"/>
-          <ttc code="mdeltah" delta="-2" point="mh01" ppm1="12" ppm2="13"/>
-          <ttc code="mdeltah" delta="-3" point="mh01" ppm1="14" ppm2="15"/>
-          <ttc code="mdeltah" delta="-4" point="mh01" ppm1="19" ppm2="20"/>
-          <ttc code="mdeltah" delta="-3" point="mh02" ppm1="10" ppm2="10"/>
-          <ttc code="singleh" point1="ah01" point2="sh01"/>
-          <ttc code="mdeltah" delta="-3" point="sh01" ppm1="10" ppm2="10"/>
-          <ttc code="alignt" point="at01" zone="t: 1"/>
-          <ttc code="alignt" point="at02" zone="t: 1"/>
-          <ttc code="alignb" point="ab01" zone="b: 0"/>
-          <ttc code="mdeltav" delta="-5" point="mv01" ppm1="11" ppm2="11"/>
-          <ttc code="interpolatev" point="sh01" point1="ab01" point2="at01"/>
-        </ttProgram>
-      </data>
       <key>public.postscriptname</key>
       <string>V</string>
     </dict>

@@ -32,19 +32,6 @@
   </outline>
   <lib>
     <dict>
-      <key>com.fontlab.ttprogram</key>
-      <data>
-        <ttProgram>
-          <ttc align="round" code="alignh" point="ah01"/>
-          <ttc code="singleh" point1="ah01" point2="sh01" round="true"/>
-          <ttc align="left" code="singleh" point1="sh01" point2="sh02" stem="T1 V: 206"/>
-          <ttc code="singleh" point1="sh01" point2="sh03" stem="T1 V: 162"/>
-          <ttc align="right" code="singleh" point1="sh03" point2="sh04" stem="T1 V: 206"/>
-          <ttc code="singleh" point1="sh03" point2="sh05" round="true"/>
-          <ttc code="alignt" point="at01" zone="t: 1"/>
-          <ttc code="alignb" point="ab01" zone="b: 0"/>
-        </ttProgram>
-      </data>
       <key>public.postscriptname</key>
       <string>one</string>
     </dict>

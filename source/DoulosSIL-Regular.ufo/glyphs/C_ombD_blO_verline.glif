@@ -24,16 +24,6 @@
   </outline>
   <lib>
     <dict>
-      <key>com.fontlab.ttprogram</key>
-      <data>
-        <ttProgram>
-          <ttc align="round" code="alignv" point="av01"/>
-          <ttc align="round" code="alignv" point="av02"/>
-          <ttc code="doublev" point1="av01" point2="av02" round="true"/>
-          <ttc align="round" code="singlev" point1="av02" point2="sv01" stem="T1 H: 37"/>
-          <ttc align="round" code="singlev" point1="av01" point2="sv02" stem="T1 H: 37"/>
-        </ttProgram>
-      </data>
       <key>public.postscriptname</key>
       <string>uni033F</string>
     </dict>

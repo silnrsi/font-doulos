@@ -62,17 +62,6 @@
   </outline>
   <lib>
     <dict>
-      <key>com.fontlab.ttprogram</key>
-      <data>
-        <ttProgram>
-          <ttc align="round" code="alignv" point="av01"/>
-          <ttc code="alignt" point="at01" zone="t: 0"/>
-          <ttc code="alignb" point="ab01" zone="b: 1"/>
-          <ttc code="singlev" point1="at01" point2="sv01" stem="T1 H: 116"/>
-          <ttc code="singlev" point1="ab01" point2="sv02" stem="H: 204"/>
-          <ttc code="interpolatev" point="iv01" point1="ab01" point2="at01"/>
-        </ttProgram>
-      </data>
       <key>public.postscriptname</key>
       <string>uni01B4.RtHook</string>
     </dict>

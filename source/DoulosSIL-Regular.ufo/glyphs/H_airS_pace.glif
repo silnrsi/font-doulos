@@ -21,13 +21,6 @@
   </outline>
   <lib>
     <dict>
-      <key>com.fontlab.ttprogram</key>
-      <data>
-        <ttProgram>
-          <ttc align="round" code="alignh" point="lsb"/>
-          <ttc align="right" code="singleh" point1="lsb" point2="rsb"/>
-        </ttProgram>
-      </data>
       <key>public.postscriptname</key>
       <string>uni200A</string>
     </dict>
