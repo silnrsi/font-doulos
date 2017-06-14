@@ -3,7 +3,7 @@
   <advance width="678"/>
   <unicode hex="1D68"/>
   <outline>
-    <component base="GrSmRho" xScale="0.71968" yScale="0.6" yOffset="-180"/>
+    <component base="GrSmRho" xScale="0.72" yScale="0.6" yOffset="-180"/>
     <contour>
       <point x="326" y="-500" type="move" name="L"/>
     </contour>

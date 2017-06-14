@@ -3,7 +3,7 @@
   <advance width="526"/>
   <unicode hex="02F1"/>
   <outline>
-    <component base="ModLftArrwhd" xScale="0.5" yScale="0.500808" xOffset="1" yOffset="-838"/>
+    <component base="ModLftArrwhd" xScale="0.5" yScale="0.501" xOffset="1" yOffset="-838"/>
   </outline>
   <lib>
     <dict>

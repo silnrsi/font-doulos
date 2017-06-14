@@ -3,7 +3,7 @@
   <advance width="1379"/>
   <unicode hex="1D2A"/>
   <outline>
-    <component base="GrCapPsi" xScale="0.7981" yScale="0.672566" xOffset="4"/>
+    <component base="GrCapPsi" xScale="0.798" yScale="0.673" xOffset="4"/>
     <contour>
       <point x="692" y="-100" type="move" name="L"/>
     </contour>

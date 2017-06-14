@@ -9,7 +9,7 @@
       <point x="29" y="535" type="line"/>
       <point x="29" y="458" type="line"/>
     </contour>
-    <component base="LtnCapD" xScale="0.8" yScale="0.674779"/>
+    <component base="LtnCapD" xScale="0.8" yScale="0.675"/>
     <contour>
       <point x="717" y="-100" type="move" name="L"/>
     </contour>
