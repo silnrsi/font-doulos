@@ -644,6 +644,10 @@
   </dict>
   <key>com.schriftgestaltung.disablesAutomaticAlignment</key>
   <true/>
+  <key>com.schriftgestaltung.disablesLastChange</key>
+  <true/>
+  <key>com.schriftgestaltung.font.Disable Last Change</key>
+  <true/>
   <key>com.schriftgestaltung.font.description</key>
   <string>Copyright (c) SIL International, 1994-2017</string>
   <key>com.schriftgestaltung.font.fsType</key>
