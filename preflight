@@ -1,7 +1,3 @@
 #!/bin/sh
 
-# sync/copy meta data.  No need to normalize since UFOstripChangedTime will do that
-UFOsyncMeta source/DoulosSIL-Regular.ufo
-
-# Strip Glyphs changed time since otherwise every glyph shows as modified to git.
-./tools/UFOstripChangedTime.py source/DoulosSIL-Regular.ufo
+psfsyncmeta source/DoulosSIL-Regular.ufo --normalize
