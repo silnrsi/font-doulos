@@ -67,14 +67,12 @@ CircumAccent
 LowLine
 GraveAccent
 LtnSmA
-LtnSmA.SngStory
 LtnSmB
 LtnSmC
 LtnSmD
 LtnSmE
 LtnSmF
 LtnSmG
-LtnSmG.SngBowl
 LtnSmH
 LtnSmI
 LtnSmJ
@@ -297,7 +295,6 @@ LtnSupSmTurnedA
 LtnSmAlpha
 LtnSmBarredAlpha
 LtnSmAStrk.2StorySItal
-LtnSmA
 LtnSmA.SngStory
 LtnSmAAcute.SngStory
 LtnSmAGrave.SngStory
@@ -807,7 +804,6 @@ LtnSmGBarredBowl
 LtnSmGStrk
 LtnSmGDiagStrk
 LtnSmGDiagStrk.SngBowl
-LtnSmG
 LtnSmG.SngBowl
 LtnSmScriptG
 LtnSupSmScriptG
@@ -3211,7 +3207,6 @@ LtnSmODotAbvMacron.LP
 LtnSmODotAbv.LP
 LtnSmOOgonekMacron.LP
 LtnSmOOgonekMacron.RetroHook.LP
-GrThetaSym
 LtnSmOStrkAcute.LP
 LtnSmOHornAcute.LP
 LtnSmOHornGrave.LP
@@ -3226,7 +3221,6 @@ GrSmOmicronWPsili
 GrSmOmicronWPsiliOxia
 GrSmOmicronWPsiliVaria
 GrSmArchaicKoppa
-GrCapThetaSym
 GrCapOmicronWTonos
 GrCapOmicronWOxia
 GrCapOmicronWVaria

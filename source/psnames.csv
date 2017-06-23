@@ -67,14 +67,12 @@ CircumAccent,asciicircum
 LowLine,underscore
 GraveAccent,grave
 LtnSmA,a
-LtnSmA.SngStory,a.SngStory
 LtnSmB,b
 LtnSmC,c
 LtnSmD,d
 LtnSmE,e
 LtnSmF,f
 LtnSmG,g
-LtnSmG.SngBowl,g.SngBowl
 LtnSmH,h
 LtnSmI,i
 LtnSmJ,j
@@ -297,7 +295,6 @@ LtnSupSmTurnedA,uni1D44
 LtnSmAlpha,uni0251
 LtnSmBarredAlpha,uniAB30
 LtnSmAStrk.2StorySItal,uni2C65.2StorySItal
-LtnSmA,a
 LtnSmA.SngStory,a.SngStory
 LtnSmAAcute.SngStory,aacute.SngStory
 LtnSmAGrave.SngStory,agrave.SngStory
@@ -807,7 +804,6 @@ LtnSmGBarredBowl,uni01E5.BarBowl
 LtnSmGStrk,uni01E5
 LtnSmGDiagStrk,uniA7A1
 LtnSmGDiagStrk.SngBowl,uniA7A1.SngBowl
-LtnSmG,g
 LtnSmG.SngBowl,g.SngBowl
 LtnSmScriptG,uni0261
 LtnSupSmScriptG,uni1DA2
@@ -3211,7 +3207,6 @@ LtnSmODotAbvMacron.LP,uni0231.LP
 LtnSmODotAbv.LP,uni022F.LP
 LtnSmOOgonekMacron.LP,uni01ED.LP
 LtnSmOOgonekMacron.RetroHook.LP,uni01ED.RetroHook.LP
-GrThetaSym,theta1
 LtnSmOStrkAcute.LP,oslashacute.LP
 LtnSmOHornAcute.LP,uni1EDB.LP
 LtnSmOHornGrave.LP,uni1EDD.LP
@@ -3226,7 +3221,6 @@ GrSmOmicronWPsili,uni1F40
 GrSmOmicronWPsiliOxia,uni1F44
 GrSmOmicronWPsiliVaria,uni1F42
 GrSmArchaicKoppa,uni03D9
-GrCapThetaSym,uni03F4
 GrCapOmicronWTonos,Omicrontonos
 GrCapOmicronWOxia,uni1FF9
 GrCapOmicronWVaria,uni1FF8

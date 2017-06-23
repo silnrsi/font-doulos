@@ -8134,14 +8134,12 @@
     <string>LowLine</string>
     <string>GraveAccent</string>
     <string>LtnSmA</string>
-    <string>LtnSmA.SngStory</string>
     <string>LtnSmB</string>
     <string>LtnSmC</string>
     <string>LtnSmD</string>
     <string>LtnSmE</string>
     <string>LtnSmF</string>
     <string>LtnSmG</string>
-    <string>LtnSmG.SngBowl</string>
     <string>LtnSmH</string>
     <string>LtnSmI</string>
     <string>LtnSmJ</string>
@@ -8364,7 +8362,6 @@
     <string>LtnSmAlpha</string>
     <string>LtnSmBarredAlpha</string>
     <string>LtnSmAStrk.2StorySItal</string>
-    <string>LtnSmA</string>
     <string>LtnSmA.SngStory</string>
     <string>LtnSmAAcute.SngStory</string>
     <string>LtnSmAGrave.SngStory</string>
@@ -8874,7 +8871,6 @@
     <string>LtnSmGStrk</string>
     <string>LtnSmGDiagStrk</string>
     <string>LtnSmGDiagStrk.SngBowl</string>
-    <string>LtnSmG</string>
     <string>LtnSmG.SngBowl</string>
     <string>LtnSmScriptG</string>
     <string>LtnSupSmScriptG</string>
@@ -11278,7 +11274,6 @@
     <string>LtnSmODotAbv.LP</string>
     <string>LtnSmOOgonekMacron.LP</string>
     <string>LtnSmOOgonekMacron.RetroHook.LP</string>
-    <string>GrThetaSym</string>
     <string>LtnSmOStrkAcute.LP</string>
     <string>LtnSmOHornAcute.LP</string>
     <string>LtnSmOHornGrave.LP</string>
@@ -11293,7 +11288,6 @@
     <string>GrSmOmicronWPsiliOxia</string>
     <string>GrSmOmicronWPsiliVaria</string>
     <string>GrSmArchaicKoppa</string>
-    <string>GrCapThetaSym</string>
     <string>GrCapOmicronWTonos</string>
     <string>GrCapOmicronWOxia</string>
     <string>GrCapOmicronWVaria</string>
