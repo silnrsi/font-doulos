@@ -1,4 +1,4 @@
-sil_name,ps_name,sort_final_cdg,sort_final_a,assoc_feat_cdg,assoc_feat_a,assoc_feat_num,assoc_uids_cdg,assoc_uids_a
+sil_name,ps_name,sort_final_cdg,sort_final_a,assoc_feat_cdg,assoc_feat_a,assoc_feat_val,assoc_uids_cdg,assoc_uids_a
 .notdef,.notdef,0,0,,,,,
 .null,.null,1,1,,,,,
 nonmarkingreturn,nonmarkingreturn,2,2,,,,,
@@ -4473,4 +4473,4 @@ ModTnYinRuDep,uniF1E2,88404.11,88404.11,,,,,
 ModTnYangShangDep,uniF1E4,88405.11,88405.11,,,,,
 ModTnYangPingDep,uniF1E3,88406.11,88406.11,,,,,
 ModTnYangQuDep,uniF1E5,88407.11,88407.11,,,,,
-ModTnYangRuDep,uniF1E6,88408.11,88408.11,,,,,
+ModTnYangRuDep,uniF1E6,88408.11,88408.11,,val
