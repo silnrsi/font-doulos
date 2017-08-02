@@ -42,10 +42,4 @@
       <point x="469" y="-181"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>public.postscriptname</key>
-      <string>semicolon</string>
-    </dict>
-  </lib>
 </glyph>

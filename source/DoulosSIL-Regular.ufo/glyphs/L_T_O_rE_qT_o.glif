@@ -19,10 +19,4 @@
       <point x="395" y="0" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>public.postscriptname</key>
-      <string>lessequal</string>
-    </dict>
-  </lib>
 </glyph>

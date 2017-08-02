@@ -35,10 +35,4 @@
       <point x="455" y="-391"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>public.postscriptname</key>
-      <string>exclamdown</string>
-    </dict>
-  </lib>
 </glyph>

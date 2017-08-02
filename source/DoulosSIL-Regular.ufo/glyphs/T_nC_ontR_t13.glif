@@ -11,10 +11,4 @@
       <point x="140" y="55" type="move" name="_TL"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>public.postscriptname</key>
-      <string>uni02E9.3</string>
-    </dict>
-  </lib>
 </glyph>

@@ -70,10 +70,4 @@
       <point x="418" y="1136" type="curve"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>public.postscriptname</key>
-      <string>ordfeminine</string>
-    </dict>
-  </lib>
 </glyph>

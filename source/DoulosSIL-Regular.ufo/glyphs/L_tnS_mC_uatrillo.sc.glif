@@ -38,16 +38,4 @@
       <point x="519" y="332" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>org.sil.assocFeature</key>
-      <string>smcp</string>
-      <key>org.sil.assocUIDs</key>
-      <array>
-        <string>A72D</string>
-      </array>
-      <key>public.postscriptname</key>
-      <string>uniA72D.sc</string>
-    </dict>
-  </lib>
 </glyph>

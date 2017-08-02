@@ -26,10 +26,4 @@
       <point x="824" y="351" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>public.postscriptname</key>
-      <string>notequal</string>
-    </dict>
-  </lib>
 </glyph>

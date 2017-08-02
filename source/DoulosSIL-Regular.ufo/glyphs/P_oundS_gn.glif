@@ -81,10 +81,4 @@
       <point x="286" y="181"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>public.postscriptname</key>
-      <string>sterling</string>
-    </dict>
-  </lib>
 </glyph>

@@ -75,10 +75,4 @@
       <point x="301" y="268"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>public.postscriptname</key>
-      <string>colonmonetary</string>
-    </dict>
-  </lib>
 </glyph>

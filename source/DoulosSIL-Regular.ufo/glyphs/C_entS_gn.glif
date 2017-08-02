@@ -71,10 +71,4 @@
       <point x="290" y="421"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>public.postscriptname</key>
-      <string>cent</string>
-    </dict>
-  </lib>
 </glyph>

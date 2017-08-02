@@ -32,10 +32,4 @@
       <point x="453" y="24"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>public.postscriptname</key>
-      <string>twodotenleader</string>
-    </dict>
-  </lib>
 </glyph>

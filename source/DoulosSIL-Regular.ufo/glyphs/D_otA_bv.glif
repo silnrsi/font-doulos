@@ -18,10 +18,4 @@
       <point x="205" y="1163"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>public.postscriptname</key>
-      <string>dotaccent</string>
-    </dict>
-  </lib>
 </glyph>

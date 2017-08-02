@@ -100,10 +100,4 @@
       <point x="296" y="181"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>public.postscriptname</key>
-      <string>lira</string>
-    </dict>
-  </lib>
 </glyph>

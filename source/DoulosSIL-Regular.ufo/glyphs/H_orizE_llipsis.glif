@@ -46,10 +46,4 @@
       <point x="453" y="24"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>public.postscriptname</key>
-      <string>ellipsis</string>
-    </dict>
-  </lib>
 </glyph>

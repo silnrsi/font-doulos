@@ -66,10 +66,4 @@
       <point x="856" y="1435" type="move" name="U"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>public.postscriptname</key>
-      <string>uni01B3.RtHook</string>
-    </dict>
-  </lib>
 </glyph>

@@ -47,10 +47,4 @@
       <point x="1143" y="704" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>public.postscriptname</key>
-      <string>onequarter</string>
-    </dict>
-  </lib>
 </glyph>

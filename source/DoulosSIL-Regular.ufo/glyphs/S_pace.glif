@@ -19,10 +19,4 @@
       <point x="296" y="1435" type="move" name="U"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>public.postscriptname</key>
-      <string>space</string>
-    </dict>
-  </lib>
 </glyph>

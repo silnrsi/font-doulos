@@ -86,10 +86,4 @@
       <point x="653" y="637"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>public.postscriptname</key>
-      <string>section</string>
-    </dict>
-  </lib>
 </glyph>

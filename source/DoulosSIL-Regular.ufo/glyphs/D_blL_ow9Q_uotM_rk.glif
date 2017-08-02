@@ -52,10 +52,4 @@
       <point x="372" y="-209"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>public.postscriptname</key>
-      <string>quotedblbase</string>
-    </dict>
-  </lib>
 </glyph>

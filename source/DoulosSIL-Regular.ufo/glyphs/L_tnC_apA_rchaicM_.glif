@@ -80,10 +80,4 @@
       <point x="1344" y="1435" type="move" name="U"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>public.postscriptname</key>
-      <string>uniA7FF</string>
-    </dict>
-  </lib>
 </glyph>

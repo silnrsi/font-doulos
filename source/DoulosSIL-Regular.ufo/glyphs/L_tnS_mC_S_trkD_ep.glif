@@ -77,10 +77,4 @@
       <point x="290" y="733"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>public.postscriptname</key>
-      <string>uniF20B</string>
-    </dict>
-  </lib>
 </glyph>

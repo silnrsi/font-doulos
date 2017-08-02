@@ -12,10 +12,4 @@
       <point x="1025" y="372" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>public.postscriptname</key>
-      <string>logicalnot</string>
-    </dict>
-  </lib>
 </glyph>

@@ -22,10 +22,4 @@
       <point x="800" y="1301" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>public.postscriptname</key>
-      <string>paragraph</string>
-    </dict>
-  </lib>
 </glyph>

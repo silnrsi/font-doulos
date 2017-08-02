@@ -104,10 +104,4 @@
       <point x="576" y="1183"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>public.postscriptname</key>
-      <string>perthousand</string>
-    </dict>
-  </lib>
 </glyph>

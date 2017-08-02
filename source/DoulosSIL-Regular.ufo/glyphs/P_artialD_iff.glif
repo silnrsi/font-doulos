@@ -48,10 +48,4 @@
       <point x="711" y="662"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>public.postscriptname</key>
-      <string>partialdiff</string>
-    </dict>
-  </lib>
 </glyph>

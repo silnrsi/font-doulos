@@ -54,16 +54,4 @@
       <point x="480" y="1113" type="move" name="U"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>org.sil.assocFeature</key>
-      <string>smcp</string>
-      <key>org.sil.assocUIDs</key>
-      <array>
-        <string>048D</string>
-      </array>
-      <key>public.postscriptname</key>
-      <string>uni048D.sc</string>
-    </dict>
-  </lib>
 </glyph>

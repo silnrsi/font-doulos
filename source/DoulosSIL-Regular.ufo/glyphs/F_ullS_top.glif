@@ -18,10 +18,4 @@
       <point x="367" y="24"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>public.postscriptname</key>
-      <string>period</string>
-    </dict>
-  </lib>
 </glyph>

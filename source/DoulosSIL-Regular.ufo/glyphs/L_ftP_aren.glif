@@ -20,10 +20,4 @@
       <point x="301" y="-284"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>public.postscriptname</key>
-      <string>parenleft</string>
-    </dict>
-  </lib>
 </glyph>

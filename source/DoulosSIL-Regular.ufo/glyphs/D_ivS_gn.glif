@@ -38,10 +38,4 @@
       <point x="1104" y="209"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>public.postscriptname</key>
-      <string>divide</string>
-    </dict>
-  </lib>
 </glyph>

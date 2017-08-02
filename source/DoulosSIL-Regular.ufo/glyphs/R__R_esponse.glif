@@ -89,10 +89,4 @@
       <point x="869" y="1163"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>public.postscriptname</key>
-      <string>uni211F</string>
-    </dict>
-  </lib>
 </glyph>

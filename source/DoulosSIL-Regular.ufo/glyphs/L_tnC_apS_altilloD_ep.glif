@@ -27,10 +27,4 @@
       <point x="343" y="1648"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>public.postscriptname</key>
-      <string>uniF26A</string>
-    </dict>
-  </lib>
 </glyph>

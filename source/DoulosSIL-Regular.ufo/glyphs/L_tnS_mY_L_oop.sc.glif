@@ -98,16 +98,4 @@
       <point x="640" y="1113" type="move" name="U"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>org.sil.assocFeature</key>
-      <string>smcp</string>
-      <key>org.sil.assocUIDs</key>
-      <array>
-        <string>1EFF</string>
-      </array>
-      <key>public.postscriptname</key>
-      <string>uni1EFF.sc</string>
-    </dict>
-  </lib>
 </glyph>

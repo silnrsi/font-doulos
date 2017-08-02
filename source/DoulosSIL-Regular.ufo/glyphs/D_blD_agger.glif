@@ -150,10 +150,4 @@
       <point x="885" y="-79"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>public.postscriptname</key>
-      <string>daggerdbl</string>
-    </dict>
-  </lib>
 </glyph>

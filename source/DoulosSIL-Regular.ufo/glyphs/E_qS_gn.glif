@@ -16,10 +16,4 @@
       <point x="395" y="351" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>public.postscriptname</key>
-      <string>equal</string>
-    </dict>
-  </lib>
 </glyph>

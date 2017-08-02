@@ -14,10 +14,4 @@
       <point x="166" y="-406" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>public.postscriptname</key>
-      <string>bracketleft</string>
-    </dict>
-  </lib>
 </glyph>

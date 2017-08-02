@@ -32,10 +32,4 @@
       <point x="537" y="835" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>public.postscriptname</key>
-      <string>second</string>
-    </dict>
-  </lib>
 </glyph>

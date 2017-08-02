@@ -44,10 +44,4 @@
       <point x="841" y="1275"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>public.postscriptname</key>
-      <string>integral</string>
-    </dict>
-  </lib>
 </glyph>

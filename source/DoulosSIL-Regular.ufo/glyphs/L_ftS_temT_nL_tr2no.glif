@@ -9,10 +9,4 @@
       <point x="599" y="384" type="move" name="TL"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>public.postscriptname</key>
-      <string>uniA715.no</string>
-    </dict>
-  </lib>
 </glyph>

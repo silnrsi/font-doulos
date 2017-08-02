@@ -21,10 +21,4 @@
       <point x="445" y="1435" type="move" name="U"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>public.postscriptname</key>
-      <string>aring</string>
-    </dict>
-  </lib>
 </glyph>

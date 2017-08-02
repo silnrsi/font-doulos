@@ -91,10 +91,4 @@
       <point x="509" y="1000" type="move" name="U"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>public.postscriptname</key>
-      <string>oslash</string>
-    </dict>
-  </lib>
 </glyph>

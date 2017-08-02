@@ -85,10 +85,4 @@
       <point x="925" y="839"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>public.postscriptname</key>
-      <string>dagger</string>
-    </dict>
-  </lib>
 </glyph>

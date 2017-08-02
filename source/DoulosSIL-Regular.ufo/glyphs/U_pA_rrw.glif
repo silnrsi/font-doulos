@@ -16,10 +16,4 @@
       <point x="717" y="769" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>public.postscriptname</key>
-      <string>arrowup</string>
-    </dict>
-  </lib>
 </glyph>
