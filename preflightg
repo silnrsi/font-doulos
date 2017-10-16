@@ -1,0 +1,5 @@
+#!/bin/sh
+
+psfsetpsnames -i source/glyph_data.csv source/DoulosSIL-Regular.ufo
+psfsetglyphorder --header sort_final_cdg -i source/glyph_data.csv source/DoulosSIL-Regular.ufo
+psfsyncmeta source/DoulosSIL-Regular.ufo
