@@ -58,10 +58,4 @@
       <point x="735" y="1435" type="move" name="U"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>org.sil.assocFeatureValue</key>
-      <integer>1</integer>
-    </dict>
-  </lib>
 </glyph>
