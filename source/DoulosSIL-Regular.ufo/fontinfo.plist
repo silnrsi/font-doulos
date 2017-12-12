@@ -13,7 +13,7 @@
   <key>familyName</key>
   <string>Doulos SIL</string>
   <key>openTypeHeadCreated</key>
-  <string>2017/06/08 17:00:00</string>
+  <string>2017/12/12 14:16:43</string>
   <key>openTypeHheaAscender</key>
   <integer>2324</integer>
   <key>openTypeHheaDescender</key>
@@ -203,6 +203,8 @@ THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
   </array>
   <key>postscriptFontName</key>
   <string>DoulosSIL-Regular</string>
+  <key>postscriptFullName</key>
+  <string>Doulos SIL Regular</string>
   <key>postscriptOtherBlues</key>
   <array>
     <integer>-444</integer>
@@ -240,6 +242,8 @@ THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
   <integer>-290</integer>
   <key>postscriptUnderlineThickness</key>
   <integer>120</integer>
+  <key>styleMapFamilyName</key>
+  <string>Charis SIL</string>
   <key>styleMapStyleName</key>
   <string>regular</string>
   <key>styleName</key>
@@ -254,7 +258,5 @@ THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
   <integer>950</integer>
   <key>xHeight</key>
   <integer>909</integer>
-  <key>year</key>
-  <integer>2017</integer>
 </dict>
 </plist>
