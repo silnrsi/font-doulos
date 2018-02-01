@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="DigitSix" format="1">
+<glyph name="DigitSix" format="2">
   <advance width="1025"/>
   <unicode hex="0036"/>
+  <anchor x="518" y="-100" name="L"/>
+  <anchor x="518" y="1435" name="U"/>
   <outline>
     <contour>
       <point x="946" y="457" type="curve" smooth="yes"/>
@@ -47,12 +49,6 @@
       <point x="506" y="771" type="curve" smooth="yes"/>
       <point x="690" y="771"/>
       <point x="767" y="559"/>
-    </contour>
-    <contour>
-      <point x="518" y="-100" type="move" name="L"/>
-    </contour>
-    <contour>
-      <point x="518" y="1435" type="move" name="U"/>
     </contour>
   </outline>
 </glyph>

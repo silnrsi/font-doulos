@@ -1,11 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="ModMiddleGraveAccent" format="1">
+<glyph name="ModMiddleGraveAccent" format="2">
   <advance width="567"/>
   <unicode hex="02F4"/>
+  <anchor x="283" y="1000" name="U"/>
   <outline>
     <component base="CombGrave" xOffset="852" yOffset="-480"/>
-    <contour>
-      <point x="283" y="1000" type="move" name="U"/>
-    </contour>
   </outline>
 </glyph>

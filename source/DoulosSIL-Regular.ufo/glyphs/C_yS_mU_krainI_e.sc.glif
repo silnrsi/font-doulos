@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="CySmUkrainIe.sc" format="1">
+<glyph name="CySmUkrainIe.sc" format="2">
   <advance width="1184"/>
+  <anchor x="599" y="-69" name="L"/>
+  <anchor x="599" y="1113" name="U"/>
   <outline>
     <contour>
       <point x="1107" y="230" type="line"/>
@@ -41,12 +43,6 @@
       <point x="940" y="-24"/>
       <point x="1076" y="164"/>
       <point x="1109" y="219" type="curve"/>
-    </contour>
-    <contour>
-      <point x="599" y="-69" type="move" name="L"/>
-    </contour>
-    <contour>
-      <point x="599" y="1113" type="move" name="U"/>
     </contour>
   </outline>
 </glyph>

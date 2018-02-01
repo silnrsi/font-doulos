@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="LtnCapAtDep" format="1">
+<glyph name="LtnCapAtDep" format="2">
   <advance width="1896"/>
   <unicode hex="F248"/>
+  <anchor x="948" y="-500" name="L"/>
+  <anchor x="948" y="1435" name="U"/>
   <outline>
     <contour>
       <point x="49" y="-474" type="line"/>
@@ -71,12 +73,6 @@
       <point x="934" y="934" type="line"/>
       <point x="731" y="457" type="line"/>
       <point x="1136" y="457" type="line"/>
-    </contour>
-    <contour>
-      <point x="948" y="-500" type="move" name="L"/>
-    </contour>
-    <contour>
-      <point x="948" y="1435" type="move" name="U"/>
     </contour>
   </outline>
 </glyph>

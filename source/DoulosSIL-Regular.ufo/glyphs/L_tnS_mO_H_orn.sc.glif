@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="LtnSmOHorn.sc" format="1">
+<glyph name="LtnSmOHorn.sc" format="2">
   <advance width="1374"/>
+  <anchor x="642" y="-69" name="L"/>
+  <anchor x="642" y="1113" name="U"/>
   <outline>
     <contour>
       <point x="1199" y="524" type="curve" smooth="yes"/>
@@ -62,12 +64,6 @@
       <point x="870" y="984"/>
       <point x="997" y="809"/>
       <point x="997" y="511" type="curve" smooth="yes"/>
-    </contour>
-    <contour>
-      <point x="642" y="-69" type="move" name="L"/>
-    </contour>
-    <contour>
-      <point x="642" y="1113" type="move" name="U"/>
     </contour>
   </outline>
 </glyph>

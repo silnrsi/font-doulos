@@ -1,11 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="Caron" format="1">
+<glyph name="Caron" format="2">
   <advance width="643"/>
   <unicode hex="02C7"/>
+  <anchor x="321" y="1375" name="U"/>
   <outline>
     <component base="CombCaron" xOffset="833"/>
-    <contour>
-      <point x="321" y="1375" type="move" name="U"/>
-    </contour>
   </outline>
 </glyph>

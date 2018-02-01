@@ -1,14 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="GrSubSmRho" format="1">
+<glyph name="GrSubSmRho" format="2">
   <advance width="678"/>
   <unicode hex="1D68"/>
+  <anchor x="326" y="-500" name="L"/>
+  <anchor x="326" y="500" name="U"/>
   <outline>
     <component base="GrSmRho" xScale="0.72" yScale="0.6" yOffset="-180"/>
-    <contour>
-      <point x="326" y="-500" type="move" name="L"/>
-    </contour>
-    <contour>
-      <point x="326" y="500" type="move" name="U"/>
-    </contour>
   </outline>
 </glyph>

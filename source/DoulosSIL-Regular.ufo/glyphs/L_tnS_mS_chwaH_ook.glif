@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="LtnSmSchwaHook" format="1">
+<glyph name="LtnSmSchwaHook" format="2">
   <advance width="1230"/>
   <unicode hex="025A"/>
+  <anchor x="663" y="0" name="H"/>
+  <anchor x="663" y="-100" name="L"/>
+  <anchor x="713" y="0" name="O"/>
+  <anchor x="663" y="1000" name="U"/>
   <outline>
     <contour>
       <point x="1267" y="717" type="curve"/>
@@ -57,18 +61,6 @@
       <point x="649" y="585" type="line"/>
       <point x="676" y="528"/>
       <point x="694" y="455"/>
-    </contour>
-    <contour>
-      <point x="663" y="0" type="move" name="H"/>
-    </contour>
-    <contour>
-      <point x="663" y="-100" type="move" name="L"/>
-    </contour>
-    <contour>
-      <point x="713" y="0" type="move" name="O"/>
-    </contour>
-    <contour>
-      <point x="663" y="1000" type="move" name="U"/>
     </contour>
   </outline>
 </glyph>

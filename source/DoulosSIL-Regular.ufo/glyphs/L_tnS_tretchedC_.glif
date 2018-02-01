@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="LtnStretchedC" format="1">
+<glyph name="LtnStretchedC" format="2">
   <advance width="910"/>
   <unicode hex="0297"/>
+  <anchor x="455" y="-500" name="L"/>
+  <anchor x="455" y="1000" name="U"/>
   <outline>
     <contour>
       <point x="841" y="-65" type="curve"/>
@@ -40,12 +42,6 @@
       <point x="459" y="-444" type="curve" smooth="yes"/>
       <point x="639" y="-444"/>
       <point x="806" y="-288"/>
-    </contour>
-    <contour>
-      <point x="455" y="-500" type="move" name="L"/>
-    </contour>
-    <contour>
-      <point x="455" y="1000" type="move" name="U"/>
     </contour>
   </outline>
 </glyph>

@@ -1,14 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="CySmZeDiaer.sc" format="1">
+<glyph name="CySmZeDiaer.sc" format="2">
   <advance width="931"/>
+  <anchor x="446" y="-69" name="L"/>
+  <anchor x="446" y="1548" name="U"/>
   <outline>
     <component base="CySmZe.sc"/>
     <component base="CombDiaer" xOffset="958" yOffset="113"/>
-    <contour>
-      <point x="446" y="-69" type="move" name="L"/>
-    </contour>
-    <contour>
-      <point x="446" y="1548" type="move" name="U"/>
-    </contour>
   </outline>
 </glyph>

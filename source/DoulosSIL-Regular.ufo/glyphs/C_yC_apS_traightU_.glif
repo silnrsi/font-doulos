@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="CyCapStraightU" format="1">
+<glyph name="CyCapStraightU" format="2">
   <advance width="1488"/>
   <unicode hex="04AE"/>
+  <anchor x="744" y="-100" name="L"/>
+  <anchor x="744" y="1435" name="U"/>
   <outline>
     <contour>
       <point x="1461" y="1318" type="curve"/>
@@ -43,12 +45,6 @@
       <point x="1166" y="1090" type="line" smooth="yes"/>
       <point x="1238" y="1206"/>
       <point x="1309" y="1318"/>
-    </contour>
-    <contour>
-      <point x="744" y="-100" type="move" name="L"/>
-    </contour>
-    <contour>
-      <point x="744" y="1435" type="move" name="U"/>
     </contour>
   </outline>
 </glyph>

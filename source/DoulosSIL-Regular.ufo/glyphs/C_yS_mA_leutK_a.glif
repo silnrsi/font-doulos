@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="CySmAleutKa" format="1">
+<glyph name="CySmAleutKa" format="2">
   <advance width="995"/>
   <unicode hex="051F"/>
+  <anchor x="514" y="-100" name="L"/>
+  <anchor x="514" y="1000" name="U"/>
   <outline>
     <contour>
       <point x="982" y="0" type="line"/>
@@ -75,12 +77,6 @@
       <point x="824" y="602" type="line"/>
       <point x="474" y="784" type="line"/>
       <point x="442" y="722" type="line"/>
-    </contour>
-    <contour>
-      <point x="514" y="-100" type="move" name="L"/>
-    </contour>
-    <contour>
-      <point x="514" y="1000" type="move" name="U"/>
     </contour>
   </outline>
 </glyph>

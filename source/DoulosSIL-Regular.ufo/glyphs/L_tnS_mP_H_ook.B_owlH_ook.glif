@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="LtnSmPHook.BowlHook" format="1">
+<glyph name="LtnSmPHook.BowlHook" format="2">
   <advance width="1005"/>
+  <anchor x="591" y="-500" name="L"/>
+  <anchor x="591" y="1435" name="U"/>
   <outline>
     <contour>
       <point x="1194" y="944" type="curve"/>
@@ -74,12 +76,6 @@
       <point x="532" y="820" type="curve" smooth="yes"/>
       <point x="676" y="820"/>
       <point x="796" y="694"/>
-    </contour>
-    <contour>
-      <point x="591" y="-500" type="move" name="L"/>
-    </contour>
-    <contour>
-      <point x="591" y="1435" type="move" name="U"/>
     </contour>
   </outline>
 </glyph>

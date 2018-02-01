@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="LtnSmBBarredStem" format="1">
+<glyph name="LtnSmBBarredStem" format="2">
   <advance width="1005"/>
   <unicode hex="0180"/>
+  <anchor x="467" y="-100" name="L"/>
+  <anchor x="467" y="1435" name="U"/>
   <outline>
     <contour>
       <point x="954" y="495" type="curve"/>
@@ -50,12 +52,6 @@
       <point x="523" y="803" type="curve" smooth="yes"/>
       <point x="662" y="803"/>
       <point x="781" y="668"/>
-    </contour>
-    <contour>
-      <point x="467" y="-100" type="move" name="L"/>
-    </contour>
-    <contour>
-      <point x="467" y="1435" type="move" name="U"/>
     </contour>
   </outline>
 </glyph>

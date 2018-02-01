@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="CyCapElDesc" format="1">
+<glyph name="CyCapElDesc" format="2">
   <advance width="1390"/>
   <unicode hex="052E"/>
+  <anchor x="684" y="-100" name="L"/>
+  <anchor x="800" y="1435" name="U"/>
   <outline>
     <contour>
       <point x="1157" y="299" type="line"/>
@@ -57,12 +59,6 @@
       <point x="1177" y="38"/>
       <point x="1157" y="71"/>
       <point x="1157" y="241" type="curve" smooth="yes"/>
-    </contour>
-    <contour>
-      <point x="684" y="-100" type="move" name="L"/>
-    </contour>
-    <contour>
-      <point x="800" y="1435" type="move" name="U"/>
     </contour>
   </outline>
 </glyph>

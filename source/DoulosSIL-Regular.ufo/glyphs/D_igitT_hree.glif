@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="DigitThree" format="1">
+<glyph name="DigitThree" format="2">
   <advance width="1025"/>
   <unicode hex="0033"/>
+  <anchor x="471" y="-100" name="L"/>
+  <anchor x="471" y="1435" name="U"/>
   <outline>
     <contour>
       <point x="856" y="449" type="curve" smooth="yes"/>
@@ -48,12 +50,6 @@
       <point x="320" y="-24" type="curve" smooth="yes"/>
       <point x="652" y="-24"/>
       <point x="856" y="172"/>
-    </contour>
-    <contour>
-      <point x="471" y="-100" type="move" name="L"/>
-    </contour>
-    <contour>
-      <point x="471" y="1435" type="move" name="U"/>
     </contour>
   </outline>
 </glyph>

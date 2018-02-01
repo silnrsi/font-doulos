@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="ModRtHalfRing" format="1">
+<glyph name="ModRtHalfRing" format="2">
   <advance width="542"/>
   <unicode hex="02BE"/>
+  <anchor x="270" y="-100" name="L"/>
+  <anchor x="270" y="1435" name="U"/>
   <outline>
     <contour>
       <point x="446" y="1053" type="curve"/>
@@ -18,12 +20,6 @@
       <point x="100" y="708" type="line"/>
       <point x="325" y="708"/>
       <point x="446" y="856"/>
-    </contour>
-    <contour>
-      <point x="270" y="-100" type="move" name="L"/>
-    </contour>
-    <contour>
-      <point x="270" y="1435" type="move" name="U"/>
     </contour>
   </outline>
 </glyph>

@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="LtnCapHStrk" format="1">
+<glyph name="LtnCapHStrk" format="2">
   <advance width="1480"/>
   <unicode hex="0126"/>
+  <anchor x="737" y="-100" name="L"/>
+  <anchor x="737" y="1435" name="U"/>
   <outline>
     <contour>
       <point x="1439" y="0" type="line"/>
@@ -94,12 +96,6 @@
       <point x="420" y="952" type="line"/>
       <point x="1053" y="952" type="line"/>
       <point x="1053" y="728" type="line"/>
-    </contour>
-    <contour>
-      <point x="737" y="-100" type="move" name="L"/>
-    </contour>
-    <contour>
-      <point x="737" y="1435" type="move" name="U"/>
     </contour>
   </outline>
 </glyph>

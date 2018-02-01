@@ -1,14 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="LtnSubSmU" format="1">
+<glyph name="LtnSubSmU" format="2">
   <advance width="753"/>
   <unicode hex="1D64"/>
+  <anchor x="378" y="-500" name="L"/>
+  <anchor x="378" y="140" name="U"/>
   <outline>
     <component base="LtnSupSmU" yOffset="-1256"/>
-    <contour>
-      <point x="378" y="-500" type="move" name="L"/>
-    </contour>
-    <contour>
-      <point x="378" y="140" type="move" name="U"/>
-    </contour>
   </outline>
 </glyph>

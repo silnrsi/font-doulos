@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="LtnSmDBDigraphDep" format="1">
+<glyph name="LtnSmDBDigraphDep" format="2">
   <advance width="1586"/>
   <unicode hex="F240"/>
+  <anchor x="793" y="-100" name="L"/>
+  <anchor x="793" y="1435" name="U"/>
   <outline>
     <contour>
       <point x="37" y="-60" type="line"/>
@@ -86,12 +88,6 @@
       <point x="882" y="182"/>
       <point x="885" y="152"/>
       <point x="893" y="136" type="curve"/>
-    </contour>
-    <contour>
-      <point x="793" y="-100" type="move" name="L"/>
-    </contour>
-    <contour>
-      <point x="793" y="1435" type="move" name="U"/>
     </contour>
   </outline>
 </glyph>

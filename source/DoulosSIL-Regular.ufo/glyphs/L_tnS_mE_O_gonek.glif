@@ -1,15 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="LtnSmEOgonek" format="1">
+<glyph name="LtnSmEOgonek" format="2">
   <advance width="910"/>
   <unicode hex="0119"/>
+  <anchor x="464" y="-500" name="L"/>
+  <anchor x="464" y="1000" name="U"/>
   <outline>
     <component base="LtnSmE"/>
     <component base="CombOgonek" xOffset="968"/>
-    <contour>
-      <point x="464" y="-500" type="move" name="L"/>
-    </contour>
-    <contour>
-      <point x="464" y="1000" type="move" name="U"/>
-    </contour>
   </outline>
 </glyph>

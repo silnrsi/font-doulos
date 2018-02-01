@@ -1,23 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="LtnSmODiaer.sc" format="1">
+<glyph name="LtnSmODiaer.sc" format="2">
   <advance width="1293"/>
+  <anchor x="642" y="8" name="H"/>
+  <anchor x="642" y="-69" name="L"/>
+  <anchor x="861" y="8" name="O"/>
+  <anchor x="1283" y="855" name="R"/>
+  <anchor x="642" y="1548" name="U"/>
   <outline>
     <component base="LtnSmO.sc"/>
     <component base="CombDiaer" xOffset="1154" yOffset="113"/>
-    <contour>
-      <point x="642" y="8" type="move" name="H"/>
-    </contour>
-    <contour>
-      <point x="642" y="-69" type="move" name="L"/>
-    </contour>
-    <contour>
-      <point x="861" y="8" type="move" name="O"/>
-    </contour>
-    <contour>
-      <point x="1283" y="855" type="move" name="R"/>
-    </contour>
-    <contour>
-      <point x="642" y="1548" type="move" name="U"/>
-    </contour>
   </outline>
 </glyph>

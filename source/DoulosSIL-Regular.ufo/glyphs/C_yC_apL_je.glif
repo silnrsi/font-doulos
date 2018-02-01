@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="CyCapLje" format="1">
+<glyph name="CyCapLje" format="2">
   <advance width="1788"/>
   <unicode hex="0409"/>
+  <anchor x="868" y="-100" name="L"/>
+  <anchor x="868" y="1435" name="U"/>
   <outline>
     <contour>
       <point x="1719" y="384" type="curve"/>
@@ -67,12 +69,6 @@
       <point x="1213" y="674" type="curve" smooth="yes"/>
       <point x="1337" y="674"/>
       <point x="1482" y="572"/>
-    </contour>
-    <contour>
-      <point x="868" y="-100" type="move" name="L"/>
-    </contour>
-    <contour>
-      <point x="868" y="1435" type="move" name="U"/>
     </contour>
   </outline>
 </glyph>

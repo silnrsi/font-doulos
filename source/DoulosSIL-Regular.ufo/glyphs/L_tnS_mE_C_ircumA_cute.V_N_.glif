@@ -1,20 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="LtnSmECircumAcute.VN" format="1">
+<glyph name="LtnSmECircumAcute.VN" format="2">
   <advance width="1937"/>
+  <anchor x="463" y="0" name="H"/>
+  <anchor x="485" y="-100" name="L"/>
+  <anchor x="661" y="0" name="O"/>
+  <anchor x="910" y="900" name="R"/>
   <outline>
     <component base="LtnSmE"/>
     <component base="CombCircumAcute.VN" xOffset="-27"/>
-    <contour>
-      <point x="463" y="0" type="move" name="H"/>
-    </contour>
-    <contour>
-      <point x="485" y="-100" type="move" name="L"/>
-    </contour>
-    <contour>
-      <point x="661" y="0" type="move" name="O"/>
-    </contour>
-    <contour>
-      <point x="910" y="900" type="move" name="R"/>
-    </contour>
   </outline>
 </glyph>

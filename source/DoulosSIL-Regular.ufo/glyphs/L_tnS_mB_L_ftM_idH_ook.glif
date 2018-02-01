@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="LtnSmBLftMidHook" format="1">
+<glyph name="LtnSmBLftMidHook" format="2">
   <advance width="1025"/>
   <unicode hex="A797"/>
+  <anchor x="540" y="-505" name="L"/>
+  <anchor x="540" y="1435" name="U"/>
   <outline>
     <contour>
       <point x="954" y="495" type="curve" smooth="yes"/>
@@ -64,12 +66,6 @@
       <point x="354" y="-444"/>
       <point x="479" y="-363"/>
       <point x="557" y="-240" type="curve"/>
-    </contour>
-    <contour>
-      <point x="540" y="-505" type="move" name="L"/>
-    </contour>
-    <contour>
-      <point x="540" y="1435" type="move" name="U"/>
     </contour>
   </outline>
 </glyph>

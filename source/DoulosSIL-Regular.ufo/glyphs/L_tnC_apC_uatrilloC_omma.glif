@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="LtnCapCuatrilloComma" format="1">
+<glyph name="LtnCapCuatrilloComma" format="2">
   <advance width="1052"/>
   <unicode hex="A72E"/>
+  <anchor x="565" y="-100" name="L"/>
+  <anchor x="565" y="1435" name="U"/>
   <outline>
     <contour>
       <point x="607" y="582" type="line"/>
@@ -58,12 +60,6 @@
       <point x="828" y="41" type="line"/>
       <point x="942" y="72"/>
       <point x="1043" y="138"/>
-    </contour>
-    <contour>
-      <point x="565" y="-100" type="move" name="L"/>
-    </contour>
-    <contour>
-      <point x="565" y="1435" type="move" name="U"/>
     </contour>
   </outline>
 </glyph>

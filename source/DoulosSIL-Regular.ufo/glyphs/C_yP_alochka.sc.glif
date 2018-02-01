@@ -1,22 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="CyPalochka.sc" format="1">
+<glyph name="CyPalochka.sc" format="2">
   <advance width="607"/>
+  <anchor x="303" y="8" name="H"/>
+  <anchor x="303" y="-69" name="L"/>
+  <anchor x="449" y="8" name="O"/>
+  <anchor x="597" y="855" name="R"/>
+  <anchor x="303" y="1113" name="U"/>
   <outline>
     <component base="LtnSmI.sc"/>
-    <contour>
-      <point x="303" y="8" type="move" name="H"/>
-    </contour>
-    <contour>
-      <point x="303" y="-69" type="move" name="L"/>
-    </contour>
-    <contour>
-      <point x="449" y="8" type="move" name="O"/>
-    </contour>
-    <contour>
-      <point x="597" y="855" type="move" name="R"/>
-    </contour>
-    <contour>
-      <point x="303" y="1113" type="move" name="U"/>
-    </contour>
   </outline>
 </glyph>

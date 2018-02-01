@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="LtnSmCapJ" format="1">
+<glyph name="LtnSmCapJ" format="2">
   <advance width="643"/>
   <unicode hex="1D0A"/>
+  <anchor x="333" y="-100" name="L"/>
+  <anchor x="333" y="1000" name="U"/>
   <outline>
     <contour>
       <point x="630" y="879" type="line"/>
@@ -38,12 +40,6 @@
       <point x="519" y="867"/>
       <point x="548" y="879"/>
       <point x="593" y="879" type="curve" smooth="yes"/>
-    </contour>
-    <contour>
-      <point x="333" y="-100" type="move" name="L"/>
-    </contour>
-    <contour>
-      <point x="333" y="1000" type="move" name="U"/>
     </contour>
   </outline>
 </glyph>
