@@ -1,3 +1,5 @@
 #!/bin/sh
 
-psfsyncmeta source/DoulosSIL-Regular.ufo --normalize -l source/logs/sync.log
+# update psnames and sort order, which also normalizes it
+psfsetpsnames -p checkfix=fix -i source/glyph_data.csv source/DoulosSIL-Regular.ufo -l source/logs/psnames.log
+psfsetglyphorder --header sort_final_cdg -i source/glyph_data.csv source/DoulosSIL-Regular.ufo -l source/logs/sortorder.log
