@@ -1,5 +1,8 @@
 #!/bin/sh
 
-psfsetpsnames -i source/glyph_data.csv source/DoulosSIL-Regular.ufo
-psfsetglyphorder --header sort_final_cdg -i source/glyph_data.csv source/DoulosSIL-Regular.ufo
-psfsyncmeta source/DoulosSIL-Regular.ufo
+# Produce UFO from Glyphs file
+psfglyphs2ufo source/DoulosSIL-Regular.glyphs source -l source/logs/glyphsexportR.log
+
+# update psnames and sort order, which also normalizes it
+psfsetpsnames -p checkfix=fix -i source/glyph_data.csv source/DoulosSIL-Regular.ufo -l source/logs/psnames.log
+psfsetglyphorder --header sort_final_cdg -i source/glyph_data.csv source/DoulosSIL-Regular.ufo -l source/logs/sortorder.log
