@@ -13,7 +13,7 @@
   <key>familyName</key>
   <string>Doulos SIL</string>
   <key>openTypeHeadCreated</key>
-  <string>2018/02/01 00:19:54</string>
+  <string>2018/04/23 10:31:41</string>
   <key>openTypeHheaAscender</key>
   <integer>2324</integer>
   <key>openTypeHheaDescender</key>
@@ -184,12 +184,6 @@ THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
   <integer>2324</integer>
   <key>openTypeOS2WinDescent</key>
   <integer>810</integer>
-  <key>postscriptBlueFuzz</key>
-  <integer>1</integer>
-  <key>postscriptBlueScale</key>
-  <real>0.3636</real>
-  <key>postscriptBlueShift</key>
-  <integer>7</integer>
   <key>postscriptBlueValues</key>
   <array>
     <integer>-32</integer>

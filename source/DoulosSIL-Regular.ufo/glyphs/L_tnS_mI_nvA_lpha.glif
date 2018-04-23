@@ -6,26 +6,26 @@
   <anchor x="550" y="1000" name="U"/>
   <outline>
     <contour>
-      <point x="756" y="944" type="line" name="ab02"/>
+      <point x="756" y="944" type="line"/>
       <point x="711" y="944" type="line"/>
-      <point x="711" y="812" type="line" name="sh04"/>
-      <point x="630" y="897" name="ab01"/>
-      <point x="551" y="944" name="sh01"/>
-      <point x="444" y="944" type="curve" smooth="yes" name="at01"/>
-      <point x="241" y="944" name="sh05"/>
-      <point x="67" y="753" name="at02"/>
+      <point x="711" y="812" type="line"/>
+      <point x="630" y="897"/>
+      <point x="551" y="944"/>
+      <point x="444" y="944" type="curve" smooth="yes"/>
+      <point x="241" y="944"/>
+      <point x="67" y="753"/>
       <point x="67" y="494" type="curve" smooth="yes"/>
-      <point x="67" y="258" name="sh06"/>
+      <point x="67" y="258"/>
       <point x="227" y="-30"/>
       <point x="512" y="-30" type="curve" smooth="yes"/>
       <point x="592" y="-30"/>
       <point x="658" y="-6"/>
-      <point x="711" y="47" type="curve" name="sv01"/>
-      <point x="841" y="-28" type="line" name="sh02"/>
-      <point x="879" y="-28" type="line" name="sv02"/>
-      <point x="879" y="551" type="line" smooth="yes" name="sh03"/>
-      <point x="879" y="747" name="ah01"/>
-      <point x="881" y="777" name="sh07"/>
+      <point x="711" y="47" type="curve"/>
+      <point x="841" y="-28" type="line"/>
+      <point x="879" y="-28" type="line"/>
+      <point x="879" y="551" type="line" smooth="yes"/>
+      <point x="879" y="747"/>
+      <point x="881" y="777"/>
       <point x="910" y="798" type="curve"/>
       <point x="934" y="818"/>
       <point x="968" y="814"/>
