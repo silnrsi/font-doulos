@@ -1,9 +1,50 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="LtnBilabialClick.sc" format="2">
-  <advance width="1574"/>
-  <anchor x="797" y="-100" name="L"/>
-  <anchor x="797" y="1435" name="U"/>
+  <advance width="1249"/>
+  <anchor x="612" y="-69" name="L"/>
+  <anchor x="612" y="1113" name="U"/>
   <outline>
-    <component base="LtnBilabialClick"/>
+    <contour>
+      <point x="1154" y="519" type="curve" smooth="yes"/>
+      <point x="1154" y="829"/>
+      <point x="922" y="1060"/>
+      <point x="612" y="1060" type="curve" smooth="yes"/>
+      <point x="303" y="1060"/>
+      <point x="71" y="829"/>
+      <point x="71" y="519" type="curve" smooth="yes"/>
+      <point x="71" y="208"/>
+      <point x="303" y="-24"/>
+      <point x="612" y="-24" type="curve" smooth="yes"/>
+      <point x="922" y="-24"/>
+      <point x="1154" y="208"/>
+    </contour>
+    <contour>
+      <point x="1029" y="521" type="curve" smooth="yes"/>
+      <point x="1029" y="274"/>
+      <point x="859" y="74"/>
+      <point x="612" y="74" type="curve" smooth="yes"/>
+      <point x="366" y="74"/>
+      <point x="196" y="274"/>
+      <point x="196" y="521" type="curve" smooth="yes"/>
+      <point x="196" y="766"/>
+      <point x="366" y="962"/>
+      <point x="612" y="962" type="curve" smooth="yes"/>
+      <point x="859" y="962"/>
+      <point x="1029" y="766"/>
+    </contour>
+    <contour>
+      <point x="710" y="521" type="curve" smooth="yes"/>
+      <point x="710" y="577"/>
+      <point x="669" y="622"/>
+      <point x="612" y="622" type="curve" smooth="yes"/>
+      <point x="556" y="622"/>
+      <point x="513" y="577"/>
+      <point x="513" y="521" type="curve" smooth="yes"/>
+      <point x="513" y="464"/>
+      <point x="556" y="420"/>
+      <point x="612" y="420" type="curve" smooth="yes"/>
+      <point x="669" y="420"/>
+      <point x="710" y="465"/>
+    </contour>
   </outline>
 </glyph>

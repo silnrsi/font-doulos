@@ -4,5 +4,9 @@
 <dict>
   <key>CombWigglyLineBlw</key>
   <string>C_ombW_igglyL_ineB_lw.glif</string>
+  <key>LtnRetrClick</key>
+  <string>L_tnR_etrC_lick.glif</string>
+  <key>LtnRetrClick.sc</key>
+  <string>L_tnR_etrC_lick.sc.glif</string>
 </dict>
 </plist>

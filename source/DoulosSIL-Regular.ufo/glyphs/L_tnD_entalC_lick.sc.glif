@@ -1,9 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="LtnDentalClick.sc" format="2">
-  <advance width="362"/>
-  <anchor x="181" y="-500" name="L"/>
-  <anchor x="181" y="1435" name="U"/>
+  <advance width="442"/>
+  <anchor x="211" y="-69" name="L"/>
+  <anchor x="211" y="1113" name="U"/>
   <outline>
-    <component base="LtnDentalClick"/>
+    <contour>
+      <point x="282" y="-24" type="line"/>
+      <point x="282" y="1060" type="line"/>
+      <point x="140" y="1060" type="line"/>
+      <point x="140" y="-24" type="line"/>
+    </contour>
   </outline>
 </glyph>
