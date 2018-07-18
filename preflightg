@@ -1,7 +1,7 @@
 #!/bin/sh
 
 # Produce UFO from Glyphs file
-psfglyphs2ufo --nofea source/DoulosSIL-Regular.glyphs source -l source/logs/glyphsexportR.log
+psfglyphs2ufo --nofea source/DoulosSILRoman.glyphs source -l source/logs/glyphsexportR.log
 
 # update psnames and sort order, which also normalizes it
 psfsetpsnames -p checkfix=fix -i source/glyph_data.csv source/DoulosSIL-Regular.ufo -l source/logs/psnames.log
