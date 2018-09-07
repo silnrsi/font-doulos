@@ -9,6 +9,7 @@ VCS = 'git'
 
 # set the font name, version, licensing and description
 APPNAME="DoulosSIL"
+FAMILYNAME = APPNAME
 DESC_SHORT = "Unicode font for Roman- and Cyrillic-based writing systems"
 DESC_LONG = """
 DoulosSIL is a Unicode font for Roman- and Cyrillic-based writing systems
@@ -19,6 +20,11 @@ used for building, testing and releasing.
 # packaging
 DESC_NAME = "DoulosSIL"
 DEBPKG = 'fonts-sil-doulos'
+
+
+# Get version and authorship info from Regular UFO; must be first function call:
+getufoinfo('source/' + FAMILYNAME + '-Regular' + '.ufo')
+BUILDLABEL="alpha"
 
 fontfamily="DoulosSIL"
 for dspace in ('Roman',):
