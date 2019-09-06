@@ -1,0 +1,3 @@
+#!/bin/sh
+
+psfufo2glyphs source/DoulosSILRoman.designspace source/DoulosSILRoman.glyphs
