@@ -8,7 +8,7 @@
     <array/>
   </dict>
   <key>com.schriftgestaltung.appVersion</key>
-  <string>1172</string>
+  <string>1265</string>
   <key>com.schriftgestaltung.customParameter.GSFont.DisplayStrings</key>
   <string/>
   <key>com.schriftgestaltung.customParameter.GSFont.disablesAutomaticAlignment</key>
@@ -98,15 +98,19 @@
     <key>smallcaps</key>
     <dict>
       <key>adjustMetrics</key>
+      <integer>16</integer>
+      <key>manAdjustX</key>
       <integer>10</integer>
-      <key>boldX</key>
-      <integer>7</integer>
-      <key>boldY</key>
-      <integer>11</integer>
+      <key>manAdjustY</key>
+      <integer>15</integer>
       <key>scaleX</key>
-      <real>0.86</real>
+      <real>0.85</real>
       <key>scaleY</key>
-      <real>0.77</real>
+      <real>0.764</real>
+      <key>shiftX</key>
+      <integer>-6</integer>
+      <key>shiftY</key>
+      <integer>0</integer>
     </dict>
     <key>subscript</key>
     <dict>
