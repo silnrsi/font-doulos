@@ -1,11 +1,18 @@
 #!/bin/sh
 
-# Produce UFO from Glyphs file
-psfglyphs2ufo --nofea source/DoulosSILRoman.glyphs source -l source/logs/glyphsexportR.log
+echo "-----Updating UFOs from Glyphs file..."
+psfglyphs2ufo --nofea source/DoulosSILRoman.glyphs source
 
 # update psnames and sort order, which also normalizes it
-psfsetpsnames -p checkfix=fix -i source/glyph_data.csv source/DoulosSIL-Regular.ufo -l source/logs/psnames.log
-psfsetglyphorder --header sort_final_cdg -i source/glyph_data.csv source/DoulosSIL-Regular.ufo -l source/logs/sortorder.log
+echo "-----Normalizing UFO..."
+echo "-----Updating production names..."
+psfsetpsnames -p checkfix=fix -i source/glyph_data.csv source/DoulosSIL-Regular.ufo -x
 
- # Fix problem with non-spacing marks due to glyphsLib bug
-psfremovegliflibkeys source/DoulosSIL-Regular.ufo com.schriftgestaltung.Glyphs.originalWidth  -l source/logs/widthfixR.log
+echo "-----Updating glyph orders..."
+psfsetglyphorder --header sort_final_cdg -i source/glyph_data.csv source/DoulosSIL-Regular.ufo -x
+
+# Fix problem with non-spacing marks due to glyphsLib bug
+echo "-----Fixing width of non-spacing marks..."
+psfremovegliflibkeys source/DoulosSIL-Regular.ufo com.schriftgestaltung.Glyphs.originalWidth
+
+echo "-----Preflight completed!"

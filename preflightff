@@ -1,0 +1,6 @@
+#!/bin/sh
+
+echo "-----Fixing FontForge debris..."
+psffixffglifs source/DoulosSIL-Regular.ufo -p checkfix=fix
+
+./preflight
