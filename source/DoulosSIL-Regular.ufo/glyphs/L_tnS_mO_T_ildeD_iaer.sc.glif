@@ -8,7 +8,7 @@
   <anchor x="642" y="1983" name="U"/>
   <outline>
     <component base="LtnSmO.sc"/>
-    <component base="SmTilde" xOffset="301" yOffset="113"/>
+    <component base="CombTilde" xOffset="1154" yOffset="113"/>
     <component base="CombDiaer" xOffset="1154" yOffset="548"/>
   </outline>
   <lib>

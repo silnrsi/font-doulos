@@ -9,7 +9,7 @@
   <anchor x="511" y="1800" name="U"/>
   <outline>
     <component base="LtnSmO"/>
-    <component base="DotAbv" xOffset="409"/>
+    <component base="CombDotAbv" xOffset="1023"/>
     <component base="CombMacron" xOffset="1023" yOffset="435"/>
   </outline>
   <lib>

@@ -4,7 +4,7 @@
   <anchor x="290" y="1435" name="U"/>
   <anchor x="-335" y="1000" name="_U"/>
   <outline>
-    <component base="CombInvBreve" xOffset="802"/>
+    <component base="CombInvBreve.UL"/>
   </outline>
   <lib>
     <dict>

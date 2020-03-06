@@ -9,7 +9,7 @@
   <outline>
     <component base="LtnSmA.2StorySItal"/>
     <component base="CombCircum" xOffset="957"/>
-    <component base="SmTilde" xOffset="104" yOffset="435"/>
+    <component base="CombTilde" xOffset="957" yOffset="435"/>
   </outline>
   <lib>
     <dict>

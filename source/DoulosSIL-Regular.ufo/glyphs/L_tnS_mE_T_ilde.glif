@@ -9,7 +9,7 @@
   <anchor x="485" y="1435" name="U"/>
   <outline>
     <component base="LtnSmE"/>
-    <component base="SmTilde" xOffset="144"/>
+    <component base="CombTilde" xOffset="997"/>
   </outline>
   <lib>
     <dict>

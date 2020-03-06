@@ -6,7 +6,7 @@
   <anchor x="664" y="1548" name="U"/>
   <outline>
     <component base="LtnSmG.sc"/>
-    <component base="DotAbv" xOffset="562" yOffset="113"/>
+    <component base="CombDotAbv" xOffset="1176" yOffset="113"/>
   </outline>
   <lib>
     <dict>

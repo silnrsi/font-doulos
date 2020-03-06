@@ -8,7 +8,7 @@
   <anchor x="547" y="1435" name="U"/>
   <outline>
     <component base="LtnSmD"/>
-    <component base="ModLowMacron" xOffset="229"/>
+    <component base="CombMacronBlw" xOffset="1062"/>
   </outline>
   <lib>
     <dict>

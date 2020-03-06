@@ -7,7 +7,7 @@
   <anchor x="642" y="1548" name="U"/>
   <outline>
     <component base="LtnSmA.sc"/>
-    <component base="RingAbv" xOffset="451" yOffset="113"/>
+    <component base="CombRingAbv" xOffset="1154" yOffset="113"/>
   </outline>
   <lib>
     <dict>

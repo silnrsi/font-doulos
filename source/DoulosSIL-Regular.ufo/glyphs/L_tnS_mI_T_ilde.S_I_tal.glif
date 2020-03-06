@@ -8,7 +8,7 @@
   <anchor x="294" y="1435" name="U"/>
   <outline>
     <component base="LtnSmDotlessI.SItal"/>
-    <component base="SmTilde" xOffset="-47"/>
+    <component base="CombTilde" xOffset="806"/>
   </outline>
   <lib>
     <dict>

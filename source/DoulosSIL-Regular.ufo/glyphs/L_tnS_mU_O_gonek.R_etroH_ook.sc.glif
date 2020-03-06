@@ -8,7 +8,7 @@
   <anchor x="650" y="1113" name="U"/>
   <outline>
     <component base="LtnSmU.sc"/>
-    <component base="Ogonek.RetroHook" xOffset="617" yOffset="31"/>
+    <component base="CombOgonek.RetroHook" xOffset="617" yOffset="31"/>
   </outline>
   <lib>
     <dict>

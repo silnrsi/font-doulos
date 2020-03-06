@@ -7,7 +7,7 @@
   <anchor x="513" y="1435" name="U"/>
   <outline>
     <component base="LtnSmH"/>
-    <component base="ModLowMacron" xOffset="192"/>
+    <component base="CombMacronBlw" xOffset="1025"/>
   </outline>
   <lib>
     <dict>

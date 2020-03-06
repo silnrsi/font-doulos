@@ -9,7 +9,7 @@
   <anchor x="744" y="2305" name="U"/>
   <outline>
     <component base="LtnCapU"/>
-    <component base="SmTilde" xOffset="403" yOffset="435"/>
+    <component base="CombTilde" xOffset="1256" yOffset="435"/>
     <component base="CombAcute" xOffset="1256" yOffset="870"/>
   </outline>
   <lib>

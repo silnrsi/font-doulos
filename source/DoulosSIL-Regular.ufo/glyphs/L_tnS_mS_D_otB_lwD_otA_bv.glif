@@ -8,7 +8,7 @@
   <outline>
     <component base="LtnSmS"/>
     <component base="CombDotBlw" xOffset="925"/>
-    <component base="DotAbv" xOffset="311"/>
+    <component base="CombDotAbv" xOffset="925"/>
   </outline>
   <lib>
     <dict>

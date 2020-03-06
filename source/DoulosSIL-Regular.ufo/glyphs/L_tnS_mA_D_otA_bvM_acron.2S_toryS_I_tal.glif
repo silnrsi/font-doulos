@@ -8,7 +8,7 @@
   <anchor x="445" y="1800" name="U"/>
   <outline>
     <component base="LtnSmA.2StorySItal"/>
-    <component base="DotAbv" xOffset="343"/>
+    <component base="CombDotAbv" xOffset="957"/>
     <component base="CombMacron" xOffset="957" yOffset="435"/>
   </outline>
   <lib>

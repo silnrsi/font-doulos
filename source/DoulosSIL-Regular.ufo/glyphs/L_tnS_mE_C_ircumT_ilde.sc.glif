@@ -9,7 +9,7 @@
   <outline>
     <component base="LtnSmE.sc"/>
     <component base="CombCircum" xOffset="1059" yOffset="113"/>
-    <component base="SmTilde" xOffset="206" yOffset="548"/>
+    <component base="CombTilde" xOffset="1059" yOffset="548"/>
   </outline>
   <lib>
     <dict>

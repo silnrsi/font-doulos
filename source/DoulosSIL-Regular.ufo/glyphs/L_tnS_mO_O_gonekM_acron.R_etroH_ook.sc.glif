@@ -9,7 +9,7 @@
   <outline>
     <component base="LtnSmO.sc"/>
     <component base="CombMacron" xOffset="1154" yOffset="113"/>
-    <component base="Ogonek.RetroHook" xOffset="609" yOffset="31"/>
+    <component base="CombOgonek.RetroHook" xOffset="609" yOffset="31"/>
   </outline>
   <lib>
     <dict>
