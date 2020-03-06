@@ -8,4 +8,7 @@ psfsetpsnames -p checkfix=fix -i source/glyph_data.csv source/DoulosSIL-Regular.
 echo "-----Updating glyph orders..."
 psfsetglyphorder --header sort_final_cdg -i source/glyph_data.csv source/DoulosSIL-Regular.ufo -x
 
+echo "-----Rebuilding composites..."
+psfbuildcomp -i source/composites.txt -c -n source/DoulosSIL-Regular.ufo -p backup=False
+
 echo "-----Preflight completed!"
