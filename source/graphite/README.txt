@@ -1,10 +1,10 @@
 README
-Doulos SIL v5.000
+Doulos SIL v5.890
 ========================
 
 This file describes the Graphite source files included with the Doulos SIL font. This information should be distributed along with the Doulos SIL font and any derivative works.
 
-As a reminder: these source files are Copyright (c) 1994-2014 SIL International (http://www.sil.org/),
+As a reminder: these source files are Copyright (c) 1994-2020 SIL International (http://www.sil.org/),
 with Reserved Font Names "Doulos" and "SIL".
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
             
@@ -21,4 +21,5 @@ In order to modify the Graphite tables in this font:
     ttftable -delete graphite old-font-with-Graphite-tables.ttf  new-font-without-Graphite-tables.ttf 
 * Run:
     grcompiler -d -v2 -n2048 -w3521 -w510 font.gdl ttf-file-with-Graphite-tables-stripped.ttf output-ttf.ttf
-    
+  
+Further detail of features is available in the file /source/opentype/featureinfo.xlsx
