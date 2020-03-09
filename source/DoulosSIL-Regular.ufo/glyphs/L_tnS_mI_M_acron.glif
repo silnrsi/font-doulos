@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="LtnSmIMacron" format="2">
-  <advance width="1013"/>
+  <advance width="570"/>
   <unicode hex="012B"/>
   <anchor x="295" y="0" name="H"/>
   <anchor x="294" y="-100" name="L"/>

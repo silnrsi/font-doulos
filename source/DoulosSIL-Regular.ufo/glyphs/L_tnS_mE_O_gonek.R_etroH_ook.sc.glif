@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="LtnSmEOgonek.RetroHook.sc" format="2">
-  <advance width="1462"/>
+  <advance width="1096"/>
   <anchor x="547" y="8" name="H"/>
   <anchor x="547" y="-469" name="L"/>
   <anchor x="908" y="8" name="O"/>
