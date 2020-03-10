@@ -7,6 +7,6 @@
   <anchor x="870" y="1425" name="U"/>
   <outline>
     <component base="LtnSmL"/>
-    <component base="LtnSmJ" xOffset="770"/>
+    <component base="LtnSmJ" xOffset="570"/>
   </outline>
 </glyph>
