@@ -18,7 +18,6 @@ used for building, testing and releasing.
 """
 
 # packaging
-DESC_NAME = "DoulosSIL"
 DEBPKG = 'fonts-sil-doulos'
 
 
@@ -26,16 +25,24 @@ DEBPKG = 'fonts-sil-doulos'
 getufoinfo('source/' + FAMILYNAME + '-Regular' + '.ufo')
 BUILDLABEL="alpha"
 
+ftmlTest("tests/ftml.xsl", addfontindex = 1, fontmode = "collect")
+
 fontfamily="DoulosSIL"
 for dspace in ('Roman',):
     designspace('source/' + fontfamily + dspace + '.designspace',
                 target = process('${DS:FILENAME_BASE}.ttf', 
                     cmd('psfchangettfglyphnames ${SRC} ${DEP} ${TGT}', ['${DS:FILE}'])),
                 ap = 'source/${DS:FILENAME_BASE}_ap.xml',
+                classes = 'source/opentype/%s_classes.xml' % fontfamily, 
                 opentype = fea('source/${DS:FILENAME_BASE}.fea',
                     master = 'source/opentype/${DS:FILENAME_BASE}.fea',
                     make_params = "--omitaps 'C L11 L12 L13 L21 L22 L23 L31 L32 L33 " + \
-                        "C11 C12 C13 C21 C22 C23 C31 C32 C33 U11 U12 U13 U21 U22 U23 U31 U32 U33'"
+                        "C11 C12 C13 C21 C22 C23 C31 C32 C33 U11 U12 U13 U21 U22 U23 U31 U32 U33'",
+#                   $DS:FAMILYNAME == "Doulos SIL" != "DoulosSIL" in file name
+                    depends = ('source/opentype/%s_gsub.fea' % fontfamily, 
+                        'source/opentype/${DS:FILENAME_BASE}_gpos_lkups.fea', 
+                        'source/opentype/%s_gpos_feats.fea' % fontfamily, 
+                        'source/opentype/%s_gdef.fea' % fontfamily)
                     ),
                 graphite = gdl('source/${DS:FILENAME_BASE}.gdl',
                     master = 'source/graphite/main.gdh', 
