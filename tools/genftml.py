@@ -12,7 +12,7 @@ import sys, glob, os.path, re
 import psfgenftml
 
 # tests to generate (see psfgenftml.py)
-test_lst = ["allchars", "diacs", "features", "smcp"]
+test_lst = ["allchars", "allframed", "diacs", "features", "smcp"]
 AP_type_lst = ["U", "L", "O", "H", "R"]
 for a in AP_type_lst:
     test_lst.append("features_" + a)
