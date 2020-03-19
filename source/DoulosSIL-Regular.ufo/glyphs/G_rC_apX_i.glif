@@ -2,6 +2,8 @@
 <glyph name="GrCapXi" format="2">
   <advance width="1177"/>
   <unicode hex="039E"/>
+  <anchor x="587" y="-100" name="L"/>
+  <anchor x="587" y="1435" name="U"/>
   <outline>
     <contour>
       <point x="248" y="157" type="line" smooth="yes"/>
@@ -43,7 +45,7 @@
       <point x="857" y="747"/>
       <point x="677" y="747" type="curve" smooth="yes"/>
       <point x="500" y="747" type="line" smooth="yes"/>
-      <point x="320" y="746"/>
+      <point x="320" y="747"/>
       <point x="301" y="772"/>
       <point x="286" y="882" type="curve"/>
       <point x="248" y="882" type="line"/>

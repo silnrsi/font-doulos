@@ -2,7 +2,7 @@
 <glyph name="CombLtnSmRBlw" format="2">
   <unicode hex="1DCA"/>
   <anchor x="-512" y="-750" name="L"/>
-  <anchor x="-512" y="-100" name="_L"/>
+  <anchor x="-402" y="-100" name="_L"/>
   <outline>
     <contour>
       <point x="-188" y="-205" type="curve"/>

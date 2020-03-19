@@ -3,11 +3,11 @@
   <advance width="702"/>
   <unicode hex="1E5F"/>
   <anchor x="256" y="0" name="H"/>
-  <anchor x="353" y="-500" name="L"/>
+  <anchor x="263" y="-500" name="L"/>
   <anchor x="353" y="1000" name="U"/>
   <outline>
     <component base="LtnSmR"/>
-    <component base="CombMacronBlw.Short" xOffset="625"/>
+    <component base="CombMacronBlw.Short" xOffset="535"/>
   </outline>
   <lib>
     <dict>

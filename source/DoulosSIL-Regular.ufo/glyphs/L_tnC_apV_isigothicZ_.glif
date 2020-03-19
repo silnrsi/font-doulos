@@ -2,7 +2,7 @@
 <glyph name="LtnCapVisigothicZ" format="2">
   <advance width="1000"/>
   <unicode hex="A762"/>
-  <anchor x="395" y="-500" name="L"/>
+  <anchor x="395" y="-100" name="L"/>
   <anchor x="385" y="1435" name="U"/>
   <outline>
     <contour>

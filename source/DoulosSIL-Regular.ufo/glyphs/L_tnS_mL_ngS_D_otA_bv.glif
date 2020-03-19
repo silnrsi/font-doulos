@@ -2,7 +2,7 @@
 <glyph name="LtnSmLngSDotAbv" format="2">
   <advance width="682"/>
   <unicode hex="1E9B"/>
-  <anchor x="460" y="-100" name="L"/>
+  <anchor x="340" y="-100" name="L"/>
   <anchor x="460" y="1870" name="U"/>
   <outline>
     <component base="LtnSmLngS"/>
