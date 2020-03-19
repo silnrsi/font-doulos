@@ -2383,10 +2383,10 @@ U+A7A6
 U+A7A8
 U+A7B4
 U+A7B6
-U+A7B8
+U+A7B9
 U+A7B3">
-      <comment>LtnCapKDiagStrk LtnCapNDiagStrk LtnCapRDiagStrk LtnCapSDiagStrk LtnCapBeta LtnCapOmega LtnCapUStrk LtnCapChi</comment>
-      <string>\u00A7A2\u00030D\u00A7A4\u00030D\u00A7A6\u00030D\u00A7A8\u00030D\u00A7B4\u00030D\u00A7B6\u00030D\u00A7B8\u00030D\u00A7B3\u00030D</string>
+      <comment>LtnCapKDiagStrk LtnCapNDiagStrk LtnCapRDiagStrk LtnCapSDiagStrk LtnCapBeta LtnCapOmega LtnSmUStrk LtnCapChi</comment>
+      <string>\u00A7A2\u00030D\u00A7A4\u00030D\u00A7A6\u00030D\u00A7A8\u00030D\u00A7B4\u00030D\u00A7B6\u00030D\u00A7B9\u00030D\u00A7B3\u00030D</string>
     </test>
     <test label="U+F327">
       <comment>CySmGheStrkDesc</comment>
