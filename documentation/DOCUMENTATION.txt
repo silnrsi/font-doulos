@@ -2,6 +2,7 @@ DOCUMENTATION
 Doulos SIL
 ========================
 
+*Please note that this documentation is currently outdated in this beta.*
 
 This file describes the documentation file included with the Doulos SIL font
 family. This information should be distributed along with the Doulos SIL fonts
