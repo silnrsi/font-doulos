@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="LtnSmGBarredBowl.sc" format="2">
+<glyph name="LtnSmG.BarBowl.SngBowl.sc" format="2">
   <advance width="1293"/>
   <anchor x="688" y="-69" name="L"/>
   <anchor x="688" y="1113" name="U"/>
   <outline>
-    <component base="LtnSmGStrk.sc"/>
+    <component base="LtnSmG.BarBowl.sc"/>
   </outline>
   <lib>
     <dict>

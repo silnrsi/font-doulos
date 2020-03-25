@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="LtnSmBBarredBowl" format="2">
+<glyph name="LtnSmBBarredStem.BarBowl" format="2">
   <advance width="1044"/>
   <anchor x="530" y="-100" name="L"/>
   <anchor x="530" y="1435" name="U"/>
