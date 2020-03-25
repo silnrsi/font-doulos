@@ -4,7 +4,7 @@
   <anchor x="688" y="-69" name="L"/>
   <anchor x="688" y="1113" name="U"/>
   <outline>
-    <component base="LtnSmG.BarBowl.sc"/>
+    <component base="LtnSmGStrk.sc"/>
   </outline>
   <lib>
     <dict>
