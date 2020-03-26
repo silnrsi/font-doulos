@@ -1,12 +1,12 @@
-lookup markMarkPositioninglookup0 {
+lookup rdiac_adv {
   lookupflag IgnoreBaseGlyphs;
     pos \CombRtDotAbv <0 0 255 0>;
     pos \CombCommaAbvRt <0 0 224 0>;
     pos \CombHorn <0 0 194 0>;
     pos \ModRhoticHook <0 0 237 0>;
-} markMarkPositioninglookup0;
+} rdiac_adv;
 
-lookup kernHorizontalKerninglookup4 {
+lookup tns_pos {
   lookupflag 0;
     pos cursive \TnStaffRt1 <anchor -20 55> <anchor NULL>;
     pos cursive \TnStaffRt2 <anchor -20 384> <anchor NULL>;
@@ -88,4 +88,4 @@ lookup kernHorizontalKerninglookup4 {
     pos cursive \LftStemTnLtr3no <anchor NULL> <anchor 599 713>;
     pos cursive \LftStemTnLtr4no <anchor NULL> <anchor 599 1041>;
     pos cursive \LftStemTnLtr5no <anchor NULL> <anchor 599 1370>;
-} kernHorizontalKerninglookup4;
+} tns_pos;
