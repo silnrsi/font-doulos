@@ -18,7 +18,7 @@ CombRingAbv CombLftHalfRingAbv CombRtHalfRingAbv CombHookAbv
 CombVertLineAbv CombDblVertLineAbv CombBridgeAbv CombLftArrwhdAbv 
 CombRtArrwhdAbv CombAcute_MacronDep CombMacron_AcuteDep 
 CombGrave_MacronDep CombMacron_GraveDep CombAcute_Grave_AcuteDep 
-CombGrave_Acute_GraveDep ]; 
+CombGrave_Acute_GraveDep CombKayanGraveAcute]; 
 
 
 lookup di_sub {
@@ -33,8 +33,8 @@ lookup di_sub {
 
 lookup di_csub {
   lookupflag 0;
-	sub @c_i_tilde_blw by @c_di_tilde_blw CombTildeBlw;
-	sub @c_i_dot_blw by @c_di_dot_blw CombDotBlw;
+    sub @c_i_tilde_blw by @c_di_tilde_blw CombTildeBlw;
+    sub @c_i_dot_blw by @c_di_dot_blw CombDotBlw;
 } di_csub;
 
 # Use markClasses from psfmakefea since they can be used as glyph classes
@@ -86,7 +86,7 @@ lookup ss_sub {
 
 lookup ss_ctx {
   lookupflag 0;
-	sub @c_superscripts' @cno_Sup' lookup ss_sub;
+    sub @c_superscripts' @cno_Sup' lookup ss_sub;
 } ss_ctx;
 
 lookup sc1_sub {
@@ -115,30 +115,30 @@ lookup f_sub {
 lookup tn_ctx {
   lookupflag 0;
     sub [TnLtr5 TnLtr4 TnLtr3 TnLtr2 TnLtr1 ]' [TnLtr1 ]  by [TnContRt51 TnContRt41 TnContRt31 
-	TnContRt21 TnContRt11 ];
+    TnContRt21 TnContRt11 ];
     sub [TnLtr5 TnLtr4 TnLtr3 TnLtr2 TnLtr1 ]' [TnLtr2 ]  by [TnContRt52 TnContRt42 TnContRt32 
-	TnContRt22 TnContRt12 ];
+    TnContRt22 TnContRt12 ];
     sub [TnLtr5 TnLtr4 TnLtr3 TnLtr2 TnLtr1 ]' [TnLtr3 ]  by [TnContRt53 TnContRt43 TnContRt33 
-	TnContRt23 TnContRt13 ];
+    TnContRt23 TnContRt13 ];
     sub [TnLtr5 TnLtr4 TnLtr3 TnLtr2 TnLtr1 ]' [TnLtr4 ]  by [TnContRt54 TnContRt44 TnContRt34 
-	TnContRt24 TnContRt14 ];
+    TnContRt24 TnContRt14 ];
     sub [TnLtr5 TnLtr4 TnLtr3 TnLtr2 TnLtr1 ]' [TnLtr5 ]  by [TnContRt55 TnContRt45 TnContRt35 
-	TnContRt25 TnContRt15 ];
+    TnContRt25 TnContRt15 ];
     sub [TnContLft11 TnContLft21 TnContLft31 TnContLft41 TnContLft51 
-	LftStemTnLtr1 ] [LftStemTnLtr5 LftStemTnLtr4 LftStemTnLtr3 LftStemTnLtr2 LftStemTnLtr1 ]'  by [TnContLft15 TnContLft14 TnContLft13 
-	TnContLft12 TnContLft11 ];
+    LftStemTnLtr1 ] [LftStemTnLtr5 LftStemTnLtr4 LftStemTnLtr3 LftStemTnLtr2 LftStemTnLtr1 ]'  by [TnContLft15 TnContLft14 TnContLft13 
+    TnContLft12 TnContLft11 ];
     sub [TnContLft12 TnContLft22 TnContLft32 TnContLft42 TnContLft52 
-	LftStemTnLtr2 ] [LftStemTnLtr5 LftStemTnLtr4 LftStemTnLtr3 LftStemTnLtr2 LftStemTnLtr1 ]'  by [TnContLft25 TnContLft24 TnContLft23 
-	TnContLft22 TnContLft21 ];
+    LftStemTnLtr2 ] [LftStemTnLtr5 LftStemTnLtr4 LftStemTnLtr3 LftStemTnLtr2 LftStemTnLtr1 ]'  by [TnContLft25 TnContLft24 TnContLft23 
+    TnContLft22 TnContLft21 ];
     sub [TnContLft13 TnContLft23 TnContLft33 TnContLft43 TnContLft53 
-	LftStemTnLtr3 ] [LftStemTnLtr5 LftStemTnLtr4 LftStemTnLtr3 LftStemTnLtr2 LftStemTnLtr1 ]'  by [TnContLft35 TnContLft34 TnContLft33 
-	TnContLft32 TnContLft31 ];
+    LftStemTnLtr3 ] [LftStemTnLtr5 LftStemTnLtr4 LftStemTnLtr3 LftStemTnLtr2 LftStemTnLtr1 ]'  by [TnContLft35 TnContLft34 TnContLft33 
+    TnContLft32 TnContLft31 ];
     sub [TnContLft14 TnContLft24 TnContLft34 TnContLft44 TnContLft54 
-	LftStemTnLtr4 ] [LftStemTnLtr5 LftStemTnLtr4 LftStemTnLtr3 LftStemTnLtr2 LftStemTnLtr1 ]'  by [TnContLft45 TnContLft44 TnContLft43 
-	TnContLft42 TnContLft41 ];
+    LftStemTnLtr4 ] [LftStemTnLtr5 LftStemTnLtr4 LftStemTnLtr3 LftStemTnLtr2 LftStemTnLtr1 ]'  by [TnContLft45 TnContLft44 TnContLft43 
+    TnContLft42 TnContLft41 ];
     sub [TnContLft15 TnContLft25 TnContLft35 TnContLft45 TnContLft55 
-	LftStemTnLtr5 ] [LftStemTnLtr5 LftStemTnLtr4 LftStemTnLtr3 LftStemTnLtr2 LftStemTnLtr1 ]'  by [TnContLft55 TnContLft54 TnContLft53 
-	TnContLft52 TnContLft51 ];
+    LftStemTnLtr5 ] [LftStemTnLtr5 LftStemTnLtr4 LftStemTnLtr3 LftStemTnLtr2 LftStemTnLtr1 ]'  by [TnContLft55 TnContLft54 TnContLft53 
+    TnContLft52 TnContLft51 ];
 } tn_ctx;
 
 lookup tnsr_dcmp {
@@ -181,54 +181,54 @@ lookup tne_ctx {
   lookupflag 0;
     sub [TnContRt11 TnContRt22 TnContRt33 TnContRt44 TnContRt55 ] [TnLtr5 TnLtr4 TnLtr3 TnLtr2 TnLtr1 ]'lookup tnsr_dcmp  ;
     sub [TnContRt12 TnContRt13 TnContRt14 TnContRt15 TnContRt21 TnContRt23 
-	TnContRt24 TnContRt25 TnContRt31 TnContRt32 TnContRt34 
-	TnContRt35 TnContRt41 TnContRt42 TnContRt43 TnContRt45 
-	TnContRt51 TnContRt52 TnContRt53 TnContRt54 ] [TnLtr5 TnLtr4 TnLtr3 TnLtr2 TnLtr1 ]'lookup tnsr_sub  ;
+    TnContRt24 TnContRt25 TnContRt31 TnContRt32 TnContRt34 
+    TnContRt35 TnContRt41 TnContRt42 TnContRt43 TnContRt45 
+    TnContRt51 TnContRt52 TnContRt53 TnContRt54 ] [TnLtr5 TnLtr4 TnLtr3 TnLtr2 TnLtr1 ]'lookup tnsr_sub  ;
     sub [TnContRt12 TnContRt13 TnContRt14 TnContRt15 TnContRt21 TnContRt23 
-	TnContRt24 TnContRt25 TnContRt31 TnContRt32 TnContRt34 
-	TnContRt35 TnContRt41 TnContRt42 TnContRt43 TnContRt45 
-	TnContRt51 TnContRt52 TnContRt53 TnContRt54 ] [TnContRt11 TnContRt22 TnContRt33 TnContRt44 TnContRt55 ]' [TnLtr5 TnLtr4 TnLtr3 TnLtr2 TnLtr1 ]'lookup tnsr_sub  ;
+    TnContRt24 TnContRt25 TnContRt31 TnContRt32 TnContRt34 
+    TnContRt35 TnContRt41 TnContRt42 TnContRt43 TnContRt45 
+    TnContRt51 TnContRt52 TnContRt53 TnContRt54 ] [TnContRt11 TnContRt22 TnContRt33 TnContRt44 TnContRt55 ]' [TnLtr5 TnLtr4 TnLtr3 TnLtr2 TnLtr1 ]'lookup tnsr_sub  ;
     sub [TnContRt12 TnContRt13 TnContRt14 TnContRt15 TnContRt21 TnContRt23 
-	TnContRt24 TnContRt25 TnContRt31 TnContRt32 TnContRt34 
-	TnContRt35 TnContRt41 TnContRt42 TnContRt43 TnContRt45 
-	TnContRt51 TnContRt52 TnContRt53 TnContRt54 ] [TnContRt11 TnContRt22 TnContRt33 TnContRt44 TnContRt55 ]' [TnContRt11 TnContRt22 TnContRt33 TnContRt44 TnContRt55 ]' [TnLtr5 TnLtr4 TnLtr3 TnLtr2 TnLtr1 ]'lookup tnsr_sub  ;
+    TnContRt24 TnContRt25 TnContRt31 TnContRt32 TnContRt34 
+    TnContRt35 TnContRt41 TnContRt42 TnContRt43 TnContRt45 
+    TnContRt51 TnContRt52 TnContRt53 TnContRt54 ] [TnContRt11 TnContRt22 TnContRt33 TnContRt44 TnContRt55 ]' [TnContRt11 TnContRt22 TnContRt33 TnContRt44 TnContRt55 ]' [TnLtr5 TnLtr4 TnLtr3 TnLtr2 TnLtr1 ]'lookup tnsr_sub  ;
     sub [TnContRt12 TnContRt13 TnContRt14 TnContRt15 TnContRt21 TnContRt23 
-	TnContRt24 TnContRt25 TnContRt31 TnContRt32 TnContRt34 
-	TnContRt35 TnContRt41 TnContRt42 TnContRt43 TnContRt45 
-	TnContRt51 TnContRt52 TnContRt53 TnContRt54 ] [TnContRt11 TnContRt22 TnContRt33 TnContRt44 TnContRt55 ]' [TnContRt11 TnContRt22 TnContRt33 TnContRt44 TnContRt55 ]' [TnContRt11 TnContRt22 TnContRt33 TnContRt44 TnContRt55 ]' [TnLtr5 TnLtr4 TnLtr3 TnLtr2 TnLtr1 ]'lookup tnsr_sub  ;
+    TnContRt24 TnContRt25 TnContRt31 TnContRt32 TnContRt34 
+    TnContRt35 TnContRt41 TnContRt42 TnContRt43 TnContRt45 
+    TnContRt51 TnContRt52 TnContRt53 TnContRt54 ] [TnContRt11 TnContRt22 TnContRt33 TnContRt44 TnContRt55 ]' [TnContRt11 TnContRt22 TnContRt33 TnContRt44 TnContRt55 ]' [TnContRt11 TnContRt22 TnContRt33 TnContRt44 TnContRt55 ]' [TnLtr5 TnLtr4 TnLtr3 TnLtr2 TnLtr1 ]'lookup tnsr_sub  ;
     sub [TnContRt12 TnContRt13 TnContRt14 TnContRt15 TnContRt21 TnContRt23 
-	TnContRt24 TnContRt25 TnContRt31 TnContRt32 TnContRt34 
-	TnContRt35 TnContRt41 TnContRt42 TnContRt43 TnContRt45 
-	TnContRt51 TnContRt52 TnContRt53 TnContRt54 ] [TnContRt11 TnContRt22 TnContRt33 TnContRt44 TnContRt55 ]' [TnContRt11 TnContRt22 TnContRt33 TnContRt44 TnContRt55 ]' [TnContRt11 TnContRt22 TnContRt33 TnContRt44 TnContRt55 ]' [TnContRt11 TnContRt22 TnContRt33 TnContRt44 TnContRt55 ]' [TnLtr5 TnLtr4 TnLtr3 TnLtr2 TnLtr1 ]'lookup tnsr_sub  ;
+    TnContRt24 TnContRt25 TnContRt31 TnContRt32 TnContRt34 
+    TnContRt35 TnContRt41 TnContRt42 TnContRt43 TnContRt45 
+    TnContRt51 TnContRt52 TnContRt53 TnContRt54 ] [TnContRt11 TnContRt22 TnContRt33 TnContRt44 TnContRt55 ]' [TnContRt11 TnContRt22 TnContRt33 TnContRt44 TnContRt55 ]' [TnContRt11 TnContRt22 TnContRt33 TnContRt44 TnContRt55 ]' [TnContRt11 TnContRt22 TnContRt33 TnContRt44 TnContRt55 ]' [TnLtr5 TnLtr4 TnLtr3 TnLtr2 TnLtr1 ]'lookup tnsr_sub  ;
     sub [TnContRt12 TnContRt13 TnContRt14 TnContRt15 TnContRt21 TnContRt23 
-	TnContRt24 TnContRt25 TnContRt31 TnContRt32 TnContRt34 
-	TnContRt35 TnContRt41 TnContRt42 TnContRt43 TnContRt45 
-	TnContRt51 TnContRt52 TnContRt53 TnContRt54 ] [TnContRt11 TnContRt22 TnContRt33 TnContRt44 TnContRt55 ]' [TnContRt11 TnContRt22 TnContRt33 TnContRt44 TnContRt55 ]' [TnContRt11 TnContRt22 TnContRt33 TnContRt44 TnContRt55 ]' [TnContRt11 TnContRt22 TnContRt33 TnContRt44 TnContRt55 ]' [TnContRt11 TnContRt22 TnContRt33 TnContRt44 TnContRt55 ]' [TnLtr5 TnLtr4 TnLtr3 TnLtr2 TnLtr1 ]'lookup tnsr_sub  ;
+    TnContRt24 TnContRt25 TnContRt31 TnContRt32 TnContRt34 
+    TnContRt35 TnContRt41 TnContRt42 TnContRt43 TnContRt45 
+    TnContRt51 TnContRt52 TnContRt53 TnContRt54 ] [TnContRt11 TnContRt22 TnContRt33 TnContRt44 TnContRt55 ]' [TnContRt11 TnContRt22 TnContRt33 TnContRt44 TnContRt55 ]' [TnContRt11 TnContRt22 TnContRt33 TnContRt44 TnContRt55 ]' [TnContRt11 TnContRt22 TnContRt33 TnContRt44 TnContRt55 ]' [TnContRt11 TnContRt22 TnContRt33 TnContRt44 TnContRt55 ]' [TnLtr5 TnLtr4 TnLtr3 TnLtr2 TnLtr1 ]'lookup tnsr_sub  ;
     sub [LftStemTnLtr5 LftStemTnLtr4 LftStemTnLtr3 LftStemTnLtr2 LftStemTnLtr1 ]'lookup tnsl_sub  [TnContLft11 TnContLft22 TnContLft33 TnContLft44 TnContLft55 ]' [TnContLft12 TnContLft13 TnContLft14 TnContLft15 TnContLft21 TnContLft23 
-	TnContLft24 TnContLft25 TnContLft31 TnContLft32 TnContLft34 
-	TnContLft35 TnContLft41 TnContLft42 TnContLft43 TnContLft45 
-	TnContLft51 TnContLft52 TnContLft53 TnContLft54 ] ;
+    TnContLft24 TnContLft25 TnContLft31 TnContLft32 TnContLft34 
+    TnContLft35 TnContLft41 TnContLft42 TnContLft43 TnContLft45 
+    TnContLft51 TnContLft52 TnContLft53 TnContLft54 ] ;
     sub [LftStemTnLtr5 LftStemTnLtr4 LftStemTnLtr3 LftStemTnLtr2 LftStemTnLtr1 ]'lookup tnsl_sub  [TnContLft11 TnContLft22 TnContLft33 TnContLft44 TnContLft55 ]' [TnContLft11 TnContLft22 TnContLft33 TnContLft44 TnContLft55 ]' [TnContLft12 TnContLft13 TnContLft14 TnContLft15 TnContLft21 TnContLft23 
-	TnContLft24 TnContLft25 TnContLft31 TnContLft32 TnContLft34 
-	TnContLft35 TnContLft41 TnContLft42 TnContLft43 TnContLft45 
-	TnContLft51 TnContLft52 TnContLft53 TnContLft54 ] ;
+    TnContLft24 TnContLft25 TnContLft31 TnContLft32 TnContLft34 
+    TnContLft35 TnContLft41 TnContLft42 TnContLft43 TnContLft45 
+    TnContLft51 TnContLft52 TnContLft53 TnContLft54 ] ;
     sub [LftStemTnLtr5 LftStemTnLtr4 LftStemTnLtr3 LftStemTnLtr2 LftStemTnLtr1 ]'lookup tnsl_sub  [TnContLft11 TnContLft22 TnContLft33 TnContLft44 TnContLft55 ]' [TnContLft11 TnContLft22 TnContLft33 TnContLft44 TnContLft55 ]' [TnContLft11 TnContLft22 TnContLft33 TnContLft44 TnContLft55 ]' [TnContLft12 TnContLft13 TnContLft14 TnContLft15 TnContLft21 TnContLft23 
-	TnContLft24 TnContLft25 TnContLft31 TnContLft32 TnContLft34 
-	TnContLft35 TnContLft41 TnContLft42 TnContLft43 TnContLft45 
-	TnContLft51 TnContLft52 TnContLft53 TnContLft54 ] ;
+    TnContLft24 TnContLft25 TnContLft31 TnContLft32 TnContLft34 
+    TnContLft35 TnContLft41 TnContLft42 TnContLft43 TnContLft45 
+    TnContLft51 TnContLft52 TnContLft53 TnContLft54 ] ;
     sub [LftStemTnLtr5 LftStemTnLtr4 LftStemTnLtr3 LftStemTnLtr2 LftStemTnLtr1 ]'lookup tnsl_sub  [TnContLft11 TnContLft22 TnContLft33 TnContLft44 TnContLft55 ]' [TnContLft11 TnContLft22 TnContLft33 TnContLft44 TnContLft55 ]' [TnContLft11 TnContLft22 TnContLft33 TnContLft44 TnContLft55 ]' [TnContLft11 TnContLft22 TnContLft33 TnContLft44 TnContLft55 ]' [TnContLft12 TnContLft13 TnContLft14 TnContLft15 TnContLft21 TnContLft23 
-	TnContLft24 TnContLft25 TnContLft31 TnContLft32 TnContLft34 
-	TnContLft35 TnContLft41 TnContLft42 TnContLft43 TnContLft45 
-	TnContLft51 TnContLft52 TnContLft53 TnContLft54 ] ;
+    TnContLft24 TnContLft25 TnContLft31 TnContLft32 TnContLft34 
+    TnContLft35 TnContLft41 TnContLft42 TnContLft43 TnContLft45 
+    TnContLft51 TnContLft52 TnContLft53 TnContLft54 ] ;
     sub [LftStemTnLtr5 LftStemTnLtr4 LftStemTnLtr3 LftStemTnLtr2 LftStemTnLtr1 ]'lookup tnsl_sub  [TnContLft11 TnContLft22 TnContLft33 TnContLft44 TnContLft55 ]' [TnContLft11 TnContLft22 TnContLft33 TnContLft44 TnContLft55 ]' [TnContLft11 TnContLft22 TnContLft33 TnContLft44 TnContLft55 ]' [TnContLft11 TnContLft22 TnContLft33 TnContLft44 TnContLft55 ]' [TnContLft11 TnContLft22 TnContLft33 TnContLft44 TnContLft55 ]' [TnContLft12 TnContLft13 TnContLft14 TnContLft15 TnContLft21 TnContLft23 
-	TnContLft24 TnContLft25 TnContLft31 TnContLft32 TnContLft34 
-	TnContLft35 TnContLft41 TnContLft42 TnContLft43 TnContLft45 
-	TnContLft51 TnContLft52 TnContLft53 TnContLft54 ] ;
+    TnContLft24 TnContLft25 TnContLft31 TnContLft32 TnContLft34 
+    TnContLft35 TnContLft41 TnContLft42 TnContLft43 TnContLft45 
+    TnContLft51 TnContLft52 TnContLft53 TnContLft54 ] ;
     sub [LftStemTnLtr5 LftStemTnLtr4 LftStemTnLtr3 LftStemTnLtr2 LftStemTnLtr1 ]'lookup tnsl_dcmp  [TnContLft11 TnContLft22 TnContLft33 TnContLft44 TnContLft55 ] ;
     sub [LftStemTnLtr5 LftStemTnLtr4 LftStemTnLtr3 LftStemTnLtr2 LftStemTnLtr1 ]'lookup tnsl_sub  [TnContLft12 TnContLft13 TnContLft14 TnContLft15 TnContLft21 TnContLft23 
-	TnContLft24 TnContLft25 TnContLft31 TnContLft32 TnContLft34 
-	TnContLft35 TnContLft41 TnContLft42 TnContLft43 TnContLft45 
-	TnContLft51 TnContLft52 TnContLft53 TnContLft54 ] ;
+    TnContLft24 TnContLft25 TnContLft31 TnContLft32 TnContLft34 
+    TnContLft35 TnContLft41 TnContLft42 TnContLft43 TnContLft45 
+    TnContLft51 TnContLft52 TnContLft53 TnContLft54 ] ;
 } tne_ctx;
 
 lookup bhk_sub {
@@ -361,9 +361,18 @@ lookup caron_sub {
     sub LtnSmLCaron.sc from [LtnSmLCaron.Caron.sc ];
 } caron_sub;
 
-# this may not be a valid CV since it uses a many-to-one sub
-lookup kayan_sub {
+lookup kayan_grave_sub {
   lookupflag 0;
+    sub @c_grave_comp by @c_grave_base CombGrave;
+} kayan_grave_sub;
+
+lookup kayan_grave_ctx {
+  lookupflag 0;
+    sub @c_grave_comp'lookup kayan_grave_sub CombAcute;
+} kayan_grave_ctx;
+
+lookup kayan_sub {
+  lookupflag MarkAttachmentType @MarkClass1;
     sub CombGrave CombAcute by CombKayanGraveAcute;
 } kayan_sub;
 
@@ -523,142 +532,784 @@ feature cv13 {
 
   cvParameters {
       FeatUILabelNameID {
-       name 3 1 0x0409 "a";  # English US
-       name 1 0 0 "b";  # Mac English
+       name 3 1 0x0409 "Capital B-hook alternate";  # English US
+       name 1 0 0 "Capital B-hook alternate";  # Mac English
       };
       
       FeatUITooltipTextNameID {
-       name 3 1 0x0409 "c";  # English US
-       name 1 0 0 "d";  # Mac English
+       name 3 1 0x0409 "Cap B-hook alt";  # English US
+       name 1 0 0 "Cap B-hook alt";  # Mac English
       };
       
       SampleTextNameID {
-       name 3 1 0x0409 "e";  # English US
-       name 1 0 0 "f";  # Mac English
+       name 3 1 0x0409 "Ɓ";  # English US
+       name 1 0 0 "?";  # Mac English
       };
       
       ParamUILabelNameID {
-       name 3 1 0x0409 "g";  # English US
-       name 1 0 0 "h";  # Mac English
+       name 3 1 0x0409 "Lowercase style";  # English US
+       name 1 0 0 "Lowercase style";  # Mac English
       };
-      
-      ParamUILabelNameID {
-       name 3 1 0x0409 "i";  # English US
-       name 1 0 0 "j";  # Mac English
-      };
-  
   };
 
   lookup bhk_sub;
 } cv13;
 
 feature cv17 {
+
+  cvParameters {
+      FeatUILabelNameID {
+       name 3 1 0x0409 "Capital D-hook alternate";  # English US
+       name 1 0 0 "Capital D-hook alternate";  # Mac English
+      };
+      
+      FeatUITooltipTextNameID {
+       name 3 1 0x0409 "Cap D-hook alt";  # English US
+       name 1 0 0 "Cap D-hook alt";  # Mac English
+      };
+      
+      SampleTextNameID {
+       name 3 1 0x0409 "Ɗ";  # English US
+       name 1 0 0 "?";  # Mac English
+      };
+      
+      ParamUILabelNameID {
+       name 3 1 0x0409 "Lowercase style";  # English US
+       name 1 0 0 "Lowercase style";  # Mac English
+      };
+  };
+
   lookup dhk_sub;
 } cv17;
 
 feature cv19 {
+
+  cvParameters {
+      FeatUILabelNameID {
+       name 3 1 0x0409 "Small ezh-curl alternate";  # English US
+       name 1 0 0 "Small ezh-curl alternate";  # Mac English
+      };
+      
+      FeatUITooltipTextNameID {
+       name 3 1 0x0409 "Sm ezh-curl alt";  # English US
+       name 1 0 0 "Sm ezh-curl alt";  # Mac English
+      };
+      
+      SampleTextNameID {
+       name 3 1 0x0409 "ʓ";  # English US
+       name 1 0 0 "?";  # Mac English
+      };
+      
+      ParamUILabelNameID {
+       name 3 1 0x0409 "Large bowl";  # English US
+       name 1 0 0 "Large bowl";  # Mac English
+      };
+  };
+
   lookup ezhcurl_sub;
 } cv19;
 
 feature cv20 {
+
+  cvParameters {
+      FeatUILabelNameID {
+       name 3 1 0x0409 "Capital Ezh alternates";  # English US
+       name 1 0 0 "Capital Ezh alternates";  # Mac English
+      };
+      
+      FeatUITooltipTextNameID {
+       name 3 1 0x0409 "Cap Ezh alts";  # English US
+       name 1 0 0 "Cap Ezh alts";  # Mac English
+      };
+      
+      SampleTextNameID {
+       name 3 1 0x0409 "ƷӠ";  # English US
+       name 1 0 0 "?";  # Mac English
+      };
+      
+      ParamUILabelNameID {
+       name 3 1 0x0409 "Reversed sigma";  # English US
+       name 1 0 0 "Reversed sigma";  # Mac English
+      };
+  };
+
   lookup ezh_sub;
 } cv20;
 
 feature cv25 {
+
+  cvParameters {
+      FeatUILabelNameID {
+       name 3 1 0x0409 "Rams horn alternates";  # English US
+       name 1 0 0 "Rams horn alternates";  # Mac English
+      };
+      
+      FeatUITooltipTextNameID {
+       name 3 1 0x0409 "Rams horn alts";  # English US
+       name 1 0 0 "Rams horn alts";  # Mac English
+      };
+      
+      SampleTextNameID {
+       name 3 1 0x0409 "ɤ";  # English US
+       name 1 0 0 "?";  # Mac English
+      };
+      
+      ParamUILabelNameID {
+       name 3 1 0x0409 "Large Bowl";  # English US
+       name 1 0 0 "Large Bowl";  # Mac English
+      };
+
+      ParamUILabelNameID {
+       name 3 1 0x0409 "Small gamma";  # English US
+       name 1 0 0 "Small gamma";  # Mac English
+      };
+  };
+
   lookup rams_sub;
 } cv25;
 
 feature cv28 {
+
+  cvParameters {
+      FeatUILabelNameID {
+       name 3 1 0x0409 "Capital H-stroke alternate";  # English US
+       name 1 0 0 "Capital H-stroke alternate";  # Mac English
+      };
+      
+      FeatUITooltipTextNameID {
+       name 3 1 0x0409 "Cap H-stroke alt";  # English US
+       name 1 0 0 "Cap H-stroke alt";  # Mac English
+      };
+      
+      SampleTextNameID {
+       name 3 1 0x0409 "Ħ";  # English US
+       name 1 0 0 "?";  # Mac English
+      };
+      
+      ParamUILabelNameID {
+       name 3 1 0x0409 "Vertical-stroke";  # English US
+       name 1 0 0 "Vertical-stroke";  # Mac English
+      };
+  };
+
   lookup hstrk_sub;
 } cv28;
 
 feature cv37 {
+
+  cvParameters {
+      FeatUILabelNameID {
+       name 3 1 0x0409 "J-stroke hook alternate";  # English US
+       name 1 0 0 "J-stroke hook alternate";  # Mac English
+      };
+      
+      FeatUITooltipTextNameID {
+       name 3 1 0x0409 "J-strok alt";  # English US
+       name 1 0 0 "J-strok alt";  # Mac English
+      };
+      
+      SampleTextNameID {
+       name 3 1 0x0409 "ʄ";  # English US
+       name 1 0 0 "?";  # Mac English
+      };
+      
+      ParamUILabelNameID {
+       name 3 1 0x0409 "Top serif";  # English US
+       name 1 0 0 "Top serif";  # Mac English
+      };
+  };
+
   lookup jstrk_sub;
 } cv37;
 
 feature cv43 {
+
+  cvParameters {
+      FeatUILabelNameID {
+       name 3 1 0x0409 "Uppercase Eng alternates";  # English US
+       name 1 0 0 "Uppercase Eng alternates";  # Mac English
+      };
+      
+      FeatUITooltipTextNameID {
+       name 3 1 0x0409 "Uppercase Eng alts";  # English US
+       name 1 0 0 "Uppercase Eng alts";  # Mac English
+      };
+      
+      SampleTextNameID {
+       name 3 1 0x0409 "Ŋ";  # English US
+       name 1 0 0 "?";  # Mac English
+      };
+      
+      ParamUILabelNameID {
+       name 3 1 0x0409 "Large eng with descender";  # English US
+       name 1 0 0 "Large eng with descender";  # Mac English
+      };
+
+      ParamUILabelNameID {
+       name 3 1 0x0409 "Large eng on baseline";  # English US
+       name 1 0 0 "Large eng on baseline";  # Mac English
+      };
+
+      ParamUILabelNameID {
+       name 3 1 0x0409 "Capital N with tail";  # English US
+       name 1 0 0 "Capital N with tail";  # Mac English
+      };
+
+      ParamUILabelNameID {
+       name 3 1 0x0409 "Large eng with short stem";  # English US
+       name 1 0 0 "Large eng with short stem";  # Mac English
+      };
+  };
+
   lookup engs_sub;
 } cv43;
 
 feature cv44 {
+
+  cvParameters {
+      FeatUILabelNameID {
+       name 3 1 0x0409 "Capital N-left-hook alternate";  # English US
+       name 1 0 0 "Capital N-left-hook alternate";  # Mac English
+      };
+      
+      FeatUITooltipTextNameID {
+       name 3 1 0x0409 "Cap N-left-hook alt";  # English US
+       name 1 0 0 "Cap N-left-hook alt";  # Mac English
+      };
+      
+      SampleTextNameID {
+       name 3 1 0x0409 "Ɲ";  # English US
+       name 1 0 0 "?";  # Mac English
+      };
+      
+      ParamUILabelNameID {
+       name 3 1 0x0409 "Lowercase style";  # English US
+       name 1 0 0 "Lowercase style";  # Mac English
+      };
+  };
+
   lookup nhk_sub;
 } cv44;
 
 feature cv46 {
+
+  cvParameters {
+      FeatUILabelNameID {
+       name 3 1 0x0409 "Open-O alternates";  # English US
+       name 1 0 0 "Open-O alternates";  # Mac English
+      };
+      
+      FeatUITooltipTextNameID {
+       name 3 1 0x0409 "Open-O alts";  # English US
+       name 1 0 0 "Open-O alts";  # Mac English
+      };
+      
+      SampleTextNameID {
+       name 3 1 0x0409 "Ɔɔᴐᵓᶗ";  # English US
+       name 1 0 0 "?";  # Mac English
+      };
+      
+      ParamUILabelNameID {
+       name 3 1 0x0409 "Top serif";  # English US
+       name 1 0 0 "Top serif";  # Mac English
+      };
+  };
+
   lookup opno_sub;
 } cv46;
 
 feature cv47 {
+
+  cvParameters {
+      FeatUILabelNameID {
+       name 3 1 0x0409 "OU alternates";  # English US
+       name 1 0 0 "OU alternates";  # Mac English
+      };
+      
+      FeatUITooltipTextNameID {
+       name 3 1 0x0409 "OU alts";  # English US
+       name 1 0 0 "OU alts";  # Mac English
+      };
+      
+      SampleTextNameID {
+       name 3 1 0x0409 "Ȣȣᴕᴽ";  # English US
+       name 1 0 0 "?";  # Mac English
+      };
+      
+      ParamUILabelNameID {
+       name 3 1 0x0409 "Open";  # English US
+       name 1 0 0 "Open";  # Mac English
+      };
+  };
+
   lookup ou_sub;
 } cv47;
 
 feature cv49 {
+
+  cvParameters {
+      FeatUILabelNameID {
+       name 3 1 0x0409 "Small p-hook alternate";  # English US
+       name 1 0 0 "Small p-hook alternate";  # Mac English
+      };
+      
+      FeatUITooltipTextNameID {
+       name 3 1 0x0409 "Sm p-hook alt";  # English US
+       name 1 0 0 "Sm p-hook alt";  # Mac English
+      };
+      
+      SampleTextNameID {
+       name 3 1 0x0409 "ƥ";  # English US
+       name 1 0 0 "?";  # Mac English
+      };
+      
+      ParamUILabelNameID {
+       name 3 1 0x0409 "Right hook";  # English US
+       name 1 0 0 "Right hook";  # Mac English
+      };
+  };
+
   lookup phk_sub;
 } cv49;
 
 feature cv55 {
+
+  cvParameters {
+      FeatUILabelNameID {
+       name 3 1 0x0409 "Capital R-tail alternate";  # English US
+       name 1 0 0 "Capital R-tail alternate";  # Mac English
+      };
+      
+      FeatUITooltipTextNameID {
+       name 3 1 0x0409 "Cap R-tail alt";  # English US
+       name 1 0 0 "Cap R-tail alt";  # Mac English
+      };
+      
+      SampleTextNameID {
+       name 3 1 0x0409 "Ɽ";  # English US
+       name 1 0 0 "?";  # Mac English
+      };
+      
+      ParamUILabelNameID {
+       name 3 1 0x0409 "Lowercase style";  # English US
+       name 1 0 0 "Lowercase style";  # Mac English
+      };
+  };
+
   lookup rtl_sub;
 } cv55;
 
 feature cv57 {
+
+  cvParameters {
+      FeatUILabelNameID {
+       name 3 1 0x0409 "Capital T-hook alternate";  # English US
+       name 1 0 0 "Capital T-hook alternate";  # Mac English
+      };
+      
+      FeatUITooltipTextNameID {
+       name 3 1 0x0409 "Cap T-hook alt";  # English US
+       name 1 0 0 "Cap T-hook alt";  # Mac English
+      };
+      
+      SampleTextNameID {
+       name 3 1 0x0409 "Ƭ";  # English US
+       name 1 0 0 "?";  # Mac English
+      };
+      
+      ParamUILabelNameID {
+       name 3 1 0x0409 "Right Hook";  # English US
+       name 1 0 0 "Right Hook";  # Mac English
+      };
+  };
+
   lookup thk_sub;
 } cv57;
 
 feature cv62 {
+
+  cvParameters {
+      FeatUILabelNameID {
+       name 3 1 0x0409 "V-hook alternates";  # English US
+       name 1 0 0 "V-hook alternates";  # Mac English
+      };
+      
+      FeatUITooltipTextNameID {
+       name 3 1 0x0409 "V-hook alts";  # English US
+       name 1 0 0 "V-hook alts";  # Mac English
+      };
+      
+      SampleTextNameID {
+       name 3 1 0x0409 "Ʋʋᶹ";  # English US
+       name 1 0 0 "?";  # Mac English
+      };
+      
+      ParamUILabelNameID {
+       name 3 1 0x0409 "Straight with low hook";  # English US
+       name 1 0 0 "Straight with low hook";  # Mac English
+      };
+
+      ParamUILabelNameID {
+       name 3 1 0x0409 "Straight with high hook";  # English US
+       name 1 0 0 "Straight with high hook";  # Mac English
+      };
+
+  };
+
   lookup vhk_sub;
 } cv62;
 
 feature cv68 {
+
+  cvParameters {
+      FeatUILabelNameID {
+       name 3 1 0x0409 "Capital Y-hook alternate";  # English US
+       name 1 0 0 "Capital Y-hook alternate";  # Mac English
+      };
+      
+      FeatUITooltipTextNameID {
+       name 3 1 0x0409 "Cap Y-hook alt";  # English US
+       name 1 0 0 "Cap Y-hook alt";  # Mac English
+      };
+      
+      SampleTextNameID {
+       name 3 1 0x0409 "ƴ";  # English US
+       name 1 0 0 "?";  # Mac English
+      };
+      
+      ParamUILabelNameID {
+       name 3 1 0x0409 "Left hook";  # English US
+       name 1 0 0 "Left hook";  # Mac English
+      };
+  };
+
   lookup yhk_sub;
 } cv68;
 
 feature cv70 {
+
+  cvParameters {
+      FeatUILabelNameID {
+       name 3 1 0x0409 "Modifier apostrophe alternates";  # English US
+       name 1 0 0 "Modifier apostrophe alternates";  # Mac English
+      };
+      
+      FeatUITooltipTextNameID {
+       name 3 1 0x0409 "Mod apostrophe alt";  # English US
+       name 1 0 0 "Mod apostrophe alt";  # Mac English
+      };
+      
+      SampleTextNameID {
+       name 3 1 0x0409 "ʼꞋꞌ";  # English US
+       name 1 0 0 "?";  # Mac English
+      };
+      
+      ParamUILabelNameID {
+       name 3 1 0x0409 "Large";  # English US
+       name 1 0 0 "Large";  # Mac English
+      };
+  };
+
   lookup apos_sub;
 } cv70;
 
 feature cv71 {
+
+  cvParameters {
+      FeatUILabelNameID {
+       name 3 1 0x0409 "Modifier colon alternate";  # English US
+       name 1 0 0 "Modifier colon alternate";  # Mac English
+      };
+      
+      FeatUITooltipTextNameID {
+       name 3 1 0x0409 "Mod colon alt";  # English US
+       name 1 0 0 "Mod colon alt";  # Mac English
+      };
+      
+      SampleTextNameID {
+       name 3 1 0x0409 "꞉";  # English US
+       name 1 0 0 "?";  # Mac English
+      };
+      
+      ParamUILabelNameID {
+       name 3 1 0x0409 "Expanded";  # English US
+       name 1 0 0 "Expanded";  # Mac English
+      };
+  };
+
   lookup colon_sub;
 } cv71;
 
 feature cv75 {
+
+  cvParameters {
+      FeatUILabelNameID {
+       name 3 1 0x0409 "Vietnamese-style diacritics";  # English US
+       name 1 0 0 "Vietnamese-style diacritics";  # Mac English
+      };
+      
+      FeatUITooltipTextNameID {
+       name 3 1 0x0409 "Viet diacritics";  # English US
+       name 1 0 0 "Viet diacritics";  # Mac English
+      };
+      
+      SampleTextNameID {
+       name 3 1 0x0409 "sample_text";  # English US TODO: add sample_text
+       name 1 0 0 "?";  # Mac English
+      };
+      
+      ParamUILabelNameID {
+       name 3 1 0x0409 "Vietnamese-style";  # English US
+       name 1 0 0 "Vietnamese-style";  # Mac English
+      };
+  };
+
   lookup vd_sub;
   lookup vc_sub;
 } cv75;
 
 feature cv76 {
+
+  cvParameters {
+      FeatUILabelNameID {
+       name 3 1 0x0409 "Ogonek alternate";  # English US
+       name 1 0 0 "Ogonek alternate";  # Mac English
+      };
+      
+      FeatUITooltipTextNameID {
+       name 3 1 0x0409 "Ogonek alt";  # English US
+       name 1 0 0 "Ogonek alt";  # Mac English
+      };
+      
+      SampleTextNameID {
+       name 3 1 0x0409 "ĄąĘęĮįǫǪŲų";  # English US
+       name 1 0 0 "?";  # Mac English
+      };
+      
+      ParamUILabelNameID {
+       name 3 1 0x0409 "Straight";  # English US
+       name 1 0 0 "Straight";  # Mac English
+      };
+  };
+
   lookup ognk_sub;
 } cv76;
 
 feature cv77 {
+
+  cvParameters {
+      FeatUILabelNameID {
+       name 3 1 0x0409 "Non-European caron alternates";  # English US
+       name 1 0 0 "Non-European caron alternates";  # Mac English
+      };
+      
+      FeatUITooltipTextNameID {
+       name 3 1 0x0409 "Non-Eur caron alts";  # English US
+       name 1 0 0 "Non-Eur caron alts";  # Mac English
+      };
+      
+      SampleTextNameID {
+       name 3 1 0x0409 "ďľĽť";  # English US
+       name 1 0 0 "?";  # Mac English
+      };
+      
+      ParamUILabelNameID {
+       name 3 1 0x0409 "Non-European style";  # English US
+       name 1 0 0 "Non-European style";  # Mac English
+      };
+  };
+
   lookup caron_sub;
 } cv77;
 
 # this may not be a valid CV since it uses a many-to-one sub
 feature cv79 {
+
+  cvParameters {
+      FeatUILabelNameID {
+       name 3 1 0x0409 "Kayan diacritics";  # English US
+       name 1 0 0 "Kayan diacritics";  # Mac English
+      };
+      
+      FeatUITooltipTextNameID {
+       name 3 1 0x0409 "Kayan diacritics";  # English US
+       name 1 0 0 "Kayan diacritics";  # Mac English
+      };
+      
+      SampleTextNameID {
+       name 3 1 0x0409 "sample_text";  # English US TODO: set sample_text
+       name 1 0 0 "?";  # Mac English
+      };
+      
+      ParamUILabelNameID {
+       name 3 1 0x0409 "Kayan style";  # English US
+       name 1 0 0 "Kayan style";  # Mac English
+      };
+  };
+
+  lookup kayan_grave_ctx;
   lookup kayan_sub;
 } cv79;
 
 feature cv80 {
+
+  cvParameters {
+      FeatUILabelNameID {
+       name 3 1 0x0409 "Mongolian-style Cyrillic E";  # English US
+       name 1 0 0 "Mongolian-style Cyrillic E";  # Mac English
+      };
+      
+      FeatUITooltipTextNameID {
+       name 3 1 0x0409 "Mongol-style Cyr E";  # English US
+       name 1 0 0 "Mongol-style Cyr E";  # Mac English
+      };
+      
+      SampleTextNameID {
+       name 3 1 0x0409 "Ээ";  # English US
+       name 1 0 0 "?";  # Mac English
+      };
+      
+      ParamUILabelNameID {
+       name 3 1 0x0409 "Mongolian-style";  # English US
+       name 1 0 0 "Mongolian-style";  # Mac English
+      };
+  };
+
   lookup mce_sub;
 } cv80;
 
 feature cv81 {
+
+  cvParameters {
+      FeatUILabelNameID {
+       name 3 1 0x0409 "Cyrillic shha alternate";  # English US
+       name 1 0 0 "Cyrillic shha alternate";  # Mac English
+      };
+      
+      FeatUITooltipTextNameID {
+       name 3 1 0x0409 "Cyr shha alt";  # English US
+       name 1 0 0 "Cyr shha alt";  # Mac English
+      };
+      
+      SampleTextNameID {
+       name 3 1 0x0409 "һ";  # English US
+       name 1 0 0 "?";  # Mac English
+      };
+      
+      ParamUILabelNameID {
+       name 3 1 0x0409 "Uppercase style";  # English US
+       name 1 0 0 "Uppercase style";  # Mac English
+      };
+  };
+
   lookup shha_sub;
 } cv81;
 
 feature cv82 {
+
+  cvParameters {
+      FeatUILabelNameID {
+       name 3 1 0x0409 "Combining breve Cyrillic form";  # English US
+       name 1 0 0 "Combining breve Cyrillic form";  # Mac English
+      };
+      
+      FeatUITooltipTextNameID {
+       name 3 1 0x0409 "Breve Cyr form";  # English US
+       name 1 0 0 "Breve Cyr form";  # Mac English
+      };
+      
+      SampleTextNameID {
+       name 3 1 0x0409 "̆";  # English US
+       name 1 0 0 "?";  # Mac English
+      };
+      
+      ParamUILabelNameID {
+       name 3 1 0x0409 "Cyrillic-style";  # English US
+       name 1 0 0 "Cyrillic-style";  # Mac English
+      };
+  };
+
   lookup brvc_sub;
 } cv82;
 
 feature cv90 {
+
+  cvParameters {
+      FeatUILabelNameID {
+       name 3 1 0x0409 "Chinantec tones";  # English US
+       name 1 0 0 "Chinantec tones";  # Mac English
+      };
+      
+      FeatUITooltipTextNameID {
+       name 3 1 0x0409 "Chinantec tones";  # English US
+       name 1 0 0 "Chinantec tones";  # Mac English
+      };
+      
+      SampleTextNameID {
+       name 3 1 0x0409 "ˈˉˊˋ";  # English US
+       name 1 0 0 "?";  # Mac English
+      };
+      
+      ParamUILabelNameID {
+       name 3 1 0x0409 "Chinantec-style";  # English US
+       name 1 0 0 "Chinantec-style";  # Mac English
+      };
+  };
+
   lookup chnntc_sub;
 } cv90;
 
 feature cv91 {
+
+  cvParameters {
+      FeatUILabelNameID {
+       name 3 1 0x0409 "Tone numbers";  # English US
+       name 1 0 0 "Tone numbers";  # Mac English
+      };
+      
+      FeatUITooltipTextNameID {
+       name 3 1 0x0409 "Tone numbers";  # English US
+       name 1 0 0 "Tone numbers";  # Mac English
+      };
+      
+      SampleTextNameID {
+       name 3 1 0x0409 "˩˨˧˦˥꜖꜕꜔꜓꜒";  # English US
+       name 1 0 0 "?";  # Mac English
+      };
+      
+      ParamUILabelNameID {
+       name 3 1 0x0409 "Numbers";  # English US
+       name 1 0 0 "Numbers";  # Mac English
+      };
+  };
+
   lookup tn_sub;
 } cv91;
 
 feature cv98 {
+
+  cvParameters {
+      FeatUILabelNameID {
+       name 3 1 0x0409 "Empty set alternate";  # English US
+       name 1 0 0 "Empty set alternate";  # Mac English
+      };
+      
+      FeatUITooltipTextNameID {
+       name 3 1 0x0409 "Empty set alt";  # English US
+       name 1 0 0 "Empty set alt";  # Mac English
+      };
+      
+      SampleTextNameID {
+       name 3 1 0x0409 "∅";  # English US
+       name 1 0 0 "?";  # Mac English
+      };
+      
+      ParamUILabelNameID {
+       name 3 1 0x0409 "Zero";  # English US
+       name 1 0 0 "Zero";  # Mac English
+      };
+  };
+
   lookup set_sub;
 } cv98;
 

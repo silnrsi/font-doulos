@@ -4,6 +4,9 @@
   <head>
     <fontscale>200</fontscale>
     <fontsrc>url(../results/DoulosSIL-Regular.ttf)</fontsrc>
+    <styles>
+      <style feats="'cv79' 1" name="cv79_1"/>
+    </styles>
     <title>diacs</title>
   </head>
   <testgroup label="Rendering Check">
@@ -2431,6 +2434,10 @@
     <test label="U+0398">
       <comment>GrCapTheta</comment>
       <string>\u000398\u000329 \u000398\u00030D</string>
+    </test>
+    <test label="U+039E">
+      <comment>GrCapXi</comment>
+      <string>\u00039E\u000329 \u00039E\u00030D</string>
     </test>
     <test label="U+03B1">
       <comment>GrSmAlpha</comment>
@@ -7633,6 +7640,28 @@
     <test label="U+20EF">
       <comment>CombRtArrwBlw</comment>
       <string>A\u0020EF E\u0020EF H\u0020EF O\u0020EF a\u0020EF e\u0020EF i\u0020EF o\u0020EF</string>
+    </test>
+  </testgroup>
+  <testgroup label="Special case - cv79">
+    <test label="U+0300
+U+0301">
+      <comment>CombGrave CombAcute</comment>
+      <string>a\u000300\u000301 e\u000300\u000301 i\u000300\u000301 o\u000300\u000301 n\u000300\u000301 u\u000300\u000301 w\u000300\u000301 y\u000300\u000301</string>
+    </test>
+    <test label="U+0300
+U+0301" stylename="cv79_1">
+      <comment>CombGrave CombAcute</comment>
+      <string>a\u000300\u000301 e\u000300\u000301 i\u000300\u000301 o\u000300\u000301 n\u000300\u000301 u\u000300\u000301 w\u000300\u000301 y\u000300\u000301</string>
+    </test>
+    <test label="U+0300
+U+0301">
+      <comment>CombGrave CombAcute</comment>
+      <string>A\u000300\u000301 E\u000300\u000301 I\u000300\u000301 O\u000300\u000301 N\u000300\u000301 U\u000300\u000301 W\u000300\u000301 Y\u000300\u000301</string>
+    </test>
+    <test label="U+0300
+U+0301" stylename="cv79_1">
+      <comment>CombGrave CombAcute</comment>
+      <string>A\u000300\u000301 E\u000300\u000301 I\u000300\u000301 O\u000300\u000301 N\u000300\u000301 U\u000300\u000301 W\u000300\u000301 Y\u000300\u000301</string>
     </test>
   </testgroup>
 </ftml>
