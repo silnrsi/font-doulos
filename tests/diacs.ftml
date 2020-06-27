@@ -1,19 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet href="ftml.xsl" type="text/xsl"?>
+<?xml-stylesheet href="../tools/ftml.xsl" type="text/xsl"?>
 <ftml version="1.0">
   <head>
     <fontscale>200</fontscale>
     <fontsrc>url(../results/DoulosSIL-Regular.ttf)</fontsrc>
+    <fontsrc label="DRv5">url(../references/v5/DoulosSIL-Regular.ttf)</fontsrc>
+    <fontsrc label="CRb1">url(../references/b1/CharisSIL-Regular.ttf)</fontsrc>
+    <fontsrc label="CRv5">url(../references/v5/CharisSIL-Regular.ttf)</fontsrc>
     <styles>
       <style feats="'cv79' 1" name="cv79_1"/>
     </styles>
     <title>diacs</title>
   </head>
-  <testgroup label="Rendering Check">
-    <test label="check">
-      <string>RenderingUnknown</string>
-    </test>
-  </testgroup>
   <testgroup label="Representative diacritics on all bases that take diacritics">
     <test label="U+0020">
       <comment>Space</comment>
@@ -7046,10 +7044,6 @@
     <test label="U+F26D">
       <comment>LtnSmBLftHook</comment>
       <string>\u00F26D\u000329 \u00F26D\u00030D</string>
-    </test>
-    <test label="U+F26E">
-      <comment>LtnCapRamsHorn</comment>
-      <string>\u00F26E\u000329 \u00F26E\u00030D</string>
     </test>
     <test label="U+F320">
       <comment>CyCapGheDescDep</comment>
