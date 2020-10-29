@@ -14,8 +14,4 @@ psfsetglyphorder --header sort_final_cdg -i source/glyph_data.csv source/DoulosS
 echo "-----Rebuilding composites..."
 psfbuildcomp -i source/composites.txt -c -n source/DoulosSIL-Regular.ufo -p backup=False
 
-# Fix problem with non-spacing marks due to glyphsLib bug
-echo "-----Fixing width of non-spacing marks..."
-psfremovegliflibkeys source/DoulosSIL-Regular.ufo com.schriftgestaltung.Glyphs.originalWidth
-
 echo "-----Preflight completed!"
