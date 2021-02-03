@@ -4,7 +4,7 @@ Doulos SIL v5.890
 
 This file describes the Graphite source files included with the Doulos SIL font. This information should be distributed along with the Doulos SIL font and any derivative works.
 
-As a reminder: these source files are Copyright (c) 1994-2020 SIL International (http://www.sil.org/),
+As a reminder: these source files are Copyright (c) 1994-2021 SIL International (http://www.sil.org/),
 with Reserved Font Names "Doulos" and "SIL".
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
             
