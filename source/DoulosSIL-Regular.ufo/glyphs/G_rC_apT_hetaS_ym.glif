@@ -2,10 +2,7 @@
 <glyph name="GrCapThetaSym" format="2">
   <advance width="1480"/>
   <unicode hex="03F4"/>
-  <anchor x="735" y="0" name="H"/>
   <anchor x="735" y="-100" name="L"/>
-  <anchor x="990" y="0" name="O"/>
-  <anchor x="1400" y="1320" name="R"/>
   <anchor x="735" y="1435" name="U"/>
   <outline>
     <contour>

@@ -2,8 +2,6 @@
 <glyph name="LtrScriptSmL" format="2">
   <advance width="813"/>
   <unicode hex="2113"/>
-  <anchor x="352" y="-100" name="L"/>
-  <anchor x="352" y="1435" name="U"/>
   <outline>
     <contour>
       <point x="364" y="400" type="curve"/>

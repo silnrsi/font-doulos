@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="GrThetaSym.sc" format="2">
   <advance width="1290"/>
-  <anchor x="635" y="0" name="H"/>
   <anchor x="635" y="-76" name="L"/>
-  <anchor x="852" y="0" name="O"/>
-  <anchor x="1200" y="1008" name="R"/>
   <anchor x="635" y="1096" name="U"/>
   <outline>
     <contour>
