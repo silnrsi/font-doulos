@@ -2,6 +2,8 @@
 <glyph name="LtnCapRamsHorn" format="2">
   <advance width="1532"/>
   <unicode hex="F26E"/>
+  <anchor x="775" y="-100" name="L"/>
+  <anchor x="775" y="1435" name="U"/>
   <outline>
     <contour>
       <point x="891" y="578" type="curve" smooth="yes"/>

@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="LtnSmRamsHorn.sc" format="2">
   <advance width="1334"/>
+  <anchor x="672" y="-69" name="L"/>
+  <anchor x="672" y="1113" name="U"/>
   <outline>
     <contour>
       <point x="772" y="457" type="curve" smooth="yes"/>
