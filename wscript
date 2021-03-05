@@ -31,7 +31,7 @@ for dspace in ('Roman',):
                 instances = ['Doulos SIL Regular'] if '--quick' in opts else None,
 #                ap = 'source/${DS:FILENAME_BASE}_ap.xml',
 #                classes = 'source/${DS:FAMILYNAME_NOSPC}_classes.xml', # fails for Gentium Book
-                classes = 'source/{}_classes.xml'.format(familyname),
+                classes = 'source/classes.xml',
                 opentype = fea('source/main.fea',
                     master = 'source/opentype/main.feax',
                     make_params = omitapps,
