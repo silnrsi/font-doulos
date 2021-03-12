@@ -1,0 +1,7 @@
+#!/bin/sh
+
+echo "-----Rebuilding documentation..."
+echo "     > DoulosSIL-font-features.html"
+pandoc -s -f markdown-smart --template documentation/source/template.html documentation/source/DoulosSIL-font-features.md -o documentation/DoulosSIL-font-features.html
+
+echo "-----Completed!"
