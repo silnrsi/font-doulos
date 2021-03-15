@@ -4,10 +4,11 @@ Doulos SIL v5.890
 
 This file describes the Graphite source files included with the Doulos SIL font. This information should be distributed along with the Doulos SIL font and any derivative works.
 
-As a reminder: these source files are Copyright (c) 1994-2021 SIL International (http://www.sil.org/),
-with Reserved Font Names "Doulos" and "SIL".
-This Font Software is licensed under the SIL Open Font License, Version 1.1.
-            
+These files are from the Doulos SIL project (https://software.sil.org/doulos/).
+Copyright (c) 1994-2021 SIL International (http://www.sil.org/) with Reserved
+Font Names "Doulos" and "SIL". This Font Software is licensed under the SIL
+Open Font License, Version 1.1 (http://scripts.sil.org/OFL).
+
 doulos.gdl            - definition of glyphs and glyph classes; auto-generated from the font
 main.gdh              - bulk of Graphite rules and extra definitions to support them
 features.gdh          - feature and language-feature definitions
