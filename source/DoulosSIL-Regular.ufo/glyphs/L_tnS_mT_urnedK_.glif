@@ -2,7 +2,7 @@
 <glyph name="LtnSmTurnedK" format="2">
   <advance width="1025"/>
   <unicode hex="029E"/>
-  <anchor x="503" y="-500" name="L"/>
+  <anchor x="355" y="-75" name="L"/>
   <anchor x="503" y="1000" name="U"/>
   <outline>
     <contour>
@@ -32,7 +32,7 @@
       <point x="692" y="709" type="curve" smooth="yes"/>
       <point x="692" y="410" type="line"/>
       <point x="412" y="765" type="line" smooth="yes"/>
-      <point x="372" y="814"/>
+      <point x="373" y="815"/>
       <point x="369" y="833"/>
       <point x="376" y="856" type="curve" smooth="yes"/>
       <point x="382" y="873"/>
@@ -45,11 +45,11 @@
       <point x="65" y="879"/>
       <point x="79" y="871" type="curve" smooth="yes"/>
       <point x="146" y="833"/>
-      <point x="140" y="850"/>
+      <point x="138" y="849"/>
       <point x="295" y="654" type="curve" smooth="yes"/>
       <point x="536" y="355" type="line"/>
       <point x="295" y="140" type="line" smooth="yes"/>
-      <point x="250" y="98"/>
+      <point x="249" y="99"/>
       <point x="211" y="73"/>
       <point x="175" y="57" type="curve" smooth="yes"/>
       <point x="138" y="41"/>

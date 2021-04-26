@@ -2,7 +2,7 @@
 <glyph name="LtnSmYMacron" format="2">
   <advance width="1025"/>
   <unicode hex="0233"/>
-  <anchor x="513" y="-500" name="L"/>
+  <anchor x="763" y="-100" name="L"/>
   <anchor x="1025" y="900" name="R"/>
   <anchor x="550" y="1365" name="U"/>
   <outline>

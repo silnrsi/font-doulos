@@ -2,7 +2,7 @@
 <glyph name="LtnSmTurnedHFishhookTail" format="2">
   <advance width="1224"/>
   <unicode hex="02AF"/>
-  <anchor x="702" y="-500" name="L"/>
+  <anchor x="615" y="-75" name="L"/>
   <anchor x="702" y="1000" name="U"/>
   <outline>
     <contour>
