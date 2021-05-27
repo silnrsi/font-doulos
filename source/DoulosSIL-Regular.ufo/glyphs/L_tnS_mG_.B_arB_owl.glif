@@ -4,12 +4,12 @@
   <anchor x="515" y="-500" name="L"/>
   <anchor x="515" y="1000" name="U"/>
   <outline>
+    <component base="LtnSmG"/>
     <contour>
       <point x="-22" y="559" type="line"/>
       <point x="1052" y="559" type="line"/>
       <point x="1052" y="662" type="line"/>
       <point x="-22" y="662" type="line"/>
     </contour>
-    <component base="LtnSmG"/>
   </outline>
 </glyph>

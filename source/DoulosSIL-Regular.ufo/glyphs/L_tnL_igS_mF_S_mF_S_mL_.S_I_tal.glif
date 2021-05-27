@@ -2,6 +2,7 @@
 <glyph name="LtnLigSmFSmFSmL.SItal" format="2">
   <advance width="1775"/>
   <outline>
+    <component base="LtnSmLigFl" xOffset="630"/>
     <contour>
       <point x="981" y="1241" type="curve"/>
       <point x="981" y="1333"/>
@@ -46,6 +47,5 @@
       <point x="946" y="1158"/>
       <point x="981" y="1206"/>
     </contour>
-    <component base="LtnSmLigFl" xOffset="630"/>
   </outline>
 </glyph>

@@ -5,6 +5,7 @@
   <anchor x="473" y="-539" name="L"/>
   <anchor x="473" y="1000" name="U"/>
   <outline>
+    <component base="LtnSmG.SngBowl"/>
     <contour>
       <point x="1221" y="148" type="line"/>
       <point x="1221" y="-29" type="line" smooth="yes"/>
@@ -27,6 +28,5 @@
       <point x="781" y="198" type="line"/>
       <point x="781" y="148" type="line"/>
     </contour>
-    <component base="LtnSmG.SngBowl"/>
   </outline>
 </glyph>

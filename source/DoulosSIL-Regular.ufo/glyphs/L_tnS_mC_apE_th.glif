@@ -5,12 +5,12 @@
   <anchor x="717" y="-100" name="L"/>
   <anchor x="575" y="1000" name="U"/>
   <outline>
+    <component base="LtnCapD" xScale="0.8" yScale="0.675"/>
     <contour>
       <point x="654" y="458" type="line"/>
       <point x="654" y="535" type="line"/>
       <point x="29" y="535" type="line"/>
       <point x="29" y="458" type="line"/>
     </contour>
-    <component base="LtnCapD" xScale="0.8" yScale="0.675"/>
   </outline>
 </glyph>

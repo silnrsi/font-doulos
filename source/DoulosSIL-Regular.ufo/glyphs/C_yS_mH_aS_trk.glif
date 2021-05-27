@@ -5,12 +5,12 @@
   <anchor x="515" y="-100" name="L"/>
   <anchor x="515" y="1000" name="U"/>
   <outline>
+    <component base="CySmHa"/>
     <contour>
       <point x="748" y="478" type="line"/>
       <point x="748" y="533" type="line"/>
       <point x="239" y="533" type="line"/>
       <point x="239" y="478" type="line"/>
     </contour>
-    <component base="CySmHa"/>
   </outline>
 </glyph>

@@ -5,12 +5,12 @@
   <anchor x="511" y="-100" name="L"/>
   <anchor x="511" y="1000" name="U"/>
   <outline>
+    <component base="LtnSmUpsilon"/>
     <contour>
       <point x="1010" y="455" type="line"/>
       <point x="1010" y="558" type="line"/>
       <point x="15" y="558" type="line"/>
       <point x="15" y="455" type="line"/>
     </contour>
-    <component base="LtnSmUpsilon"/>
   </outline>
 </glyph>
