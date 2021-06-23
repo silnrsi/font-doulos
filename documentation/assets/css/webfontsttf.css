@@ -6,7 +6,7 @@ Open Font License, Version 1.1 (http://scripts.sil.org/OFL).
 */
 @font-face {
     font-family: DoulosSIL-R;
-    src: url("../../../web/DoulosSIL-Regular.woff2") format("woff2");
+    src: url("../../../results/DoulosSIL-Regular.ttf") format("truetype");
 }
 
 .doulos-R { font-family: DoulosSIL-R; }
