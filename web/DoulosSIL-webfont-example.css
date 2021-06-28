@@ -5,13 +5,13 @@ Font Names "Doulos" and "SIL". This Font Software is licensed under the SIL
 Open Font License, Version 1.1 (http://scripts.sil.org/OFL).
 */
 
-/* use Doulos SIL - Regular in .woff format */
+/* use Doulos SIL - Regular in .woff2 format */
 @font-face {
   font-family: DoulosSILW;
   src: url(DoulosSIL-Regular.woff2);
 }
 
-/* set body to use Doulos SIL in .ttf format */
+/* set body to use Doulos SIL */
 body {
   font-family: DoulosSILW, sans-serif;
     /* fall back to sans serif so that it's really obvious if the fonts don't load */
