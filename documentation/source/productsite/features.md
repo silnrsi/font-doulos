@@ -352,3 +352,5 @@ Feature | Sample                      | Feature setting
 ------- | --------------------------- | -------
 Standard | <span class='doulos-R normal'>˥ ˦ ˧ ˨ ˩ ꜒ ꜓ ꜔ ꜕ ꜖ (˩˦˥˧˨ ꜖꜓꜒꜔꜕)</span> | `cv92=0`
 Hide staves  | <span class='doulos-R normal' style='font-feature-settings: "cv92" 1'>˥ ˦ ˧ ˨ ˩ ꜒ ꜓ ꜔ ꜕ ꜖ (˩˦˥˧˨ ꜖꜓꜒꜔꜕)</span> | `cv92=1`
+
+[font id='doulos' face='DoulosSIL-Regular' size='150%']
