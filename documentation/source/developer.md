@@ -1,6 +1,6 @@
 ---
 title: Doulos SIL - Developer information
-fontversion: 6.000
+fontversion: 6.001
 ---
 
 ## Welcome font developers!

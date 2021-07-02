@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <metadata version="1.0">
-  <uniqueid id="org.sil.fonts.DoulosSIL.6.000" />
+  <uniqueid id="org.sil.fonts.DoulosSIL.6.001" />
   <vendor name="SIL International" url="http://www.sil.org/" />
   <credits>
     <credit
@@ -45,6 +45,10 @@
       
       
       ## ChangeLog
+      
+      ### 2 July 2021 (SIL WSTech Team) Doulos SIL version 6.001
+      
+      - Reverted font Postscript name to that used in v5 and earlier to avoid problems with unrecognized fonts when opening older documents.
       
       ### 29 Jun 2021 (SIL WSTech Team) Doulos SIL version 6.000
       

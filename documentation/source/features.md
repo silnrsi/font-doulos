@@ -1,6 +1,6 @@
 ---
 title: Doulos SIL - Font Features
-fontversion: 6.000
+fontversion: 6.001
 ---
 
 Doulos SIL is an OpenType-enabled font that supports the Latin and Cyrillic scripts. It includes a number of optional features that may be useful or required for particular uses or languages. This document lists all the available features.

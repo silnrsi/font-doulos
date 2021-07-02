@@ -1,6 +1,6 @@
 ---
 title: Doulos SIL - About
-fontversion: 6.000
+fontversion: 6.001
 ---
 
 ## About this project
