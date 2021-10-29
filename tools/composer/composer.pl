@@ -97,6 +97,7 @@ my %nm_to_tag = (
 	'Barred-bowl' => 'T',
 	'Literacy alternates' => 'Lit',
 	'Slant italic specials' => 'SlntItlc',
+	'Slanted italic specials' => 'SlntItlc', #new
 	'Uppercase Eng alternates' => 'Eng',
 	'Capital Eng' => 'Eng', #new
 	'Large eng with descender' => 'LgDsc',
@@ -262,6 +263,8 @@ my %nm_to_tag = (
 	'Greek circumflex' => 'PorCirc', #new
 	'Porsonic-style' => 'Por',
 	'Porsonic form' => 'Por', #new
+	'Greek iota adscript' => 'IotaAd', #new
+	'Subscript' => 'Sub', #new
 	'Diacritic selection' => 'DiacSlct',
 	'Line spacing' => 'LnSpc',
 	'Loose' => 'Ls',
@@ -329,6 +332,8 @@ my %featset_to_suffix = (
 	'SmYTail-Strt' => '\.NoTailY',
 	'LgDHk-Lc' => '\.TopBar',
 	'PorCirc-PorStyle' => '\.Por',
+	'PorCirc-Por' => '\.Por', #new
+	'IotaAd-Sub' => '\.ISub',
 );
 
 #map one set of feature settings to a simpler set
@@ -394,6 +399,8 @@ my %reduced_featsets = (
 	'LpDiacs-T SlntItlc-T SmCp-T VIEdiacs-T' => 'LpDiacs-T SmCp-T VIEdiacs-T', #above
 	'Lit-T LpDiacs-T SlntItlc-T SmCp-T VIEdiacs-T' => 'LpDiacs-T SmCp-T VIEdiacs-T', #above
 	'Lit-T Ognk-Strt SlntItlc-T SmCp-T' => 'Lit-T Ognk-Strt SmCp-T', #new, above
+	'CapJ-T SmJSerif-TopSrf' => 'SmJSerif-TopSrf', #new, Andika
+	'CapJ-T SmCp-T SmJSerif-TopSrf' => 'CapJ-T SmCp-T', #new, Andika
 );
 
 #specify glyph variants which have a suffix but no corresponding non-default feature setting
