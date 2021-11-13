@@ -506,11 +506,11 @@
 			<cmd name="encode" args="01E5 uni01E5.SngBowl"/>
 		</value>
 	</feature>
-	<feature name="Small Caps" value="Default" tag="SmCp">
+	<feature name="Small caps from lowercase" value="Default" tag="SmCp">
 		<value name="Default" tag="Dflt">
 			<cmd name="null" args="null"/>
 		</value>
-		<value name="True" tag="T">
+		<value name="Small caps" tag="T">
 			<cmd name="encode" args="0061 a.sc"/>
 			<cmd name="encode" args="0430 uni0430.sc"/>
 			<cmd name="encode" args="00E1 aacute.sc"/>
@@ -1091,15 +1091,15 @@
 		</value>
 	</feature>
 	<feature name="Line spacing" value="Normal" tag="LnSpc">
-		<!-- Charis -->
+		<!-- Doulos -->
 		<value name="Normal" tag="Nrml">
-			<cmd name="null" args="2450 900"/>
+			<cmd name="null" args="2324 810"/>
 		</value>
 		<value name="Tight" tag="Tght">
-			<cmd name="line_gap" args="1950 500"/>
+			<cmd name="line_metrics" args="1420 442 307 1825 443 1825 443 87"/>
 		</value>
 		<value name="Loose" tag="Ls">
-			<cmd name="line_gap" args="2900 1200"/>
+			<cmd name="line_gap" args="2800 1100"/>
 		</value>
 		<value name="Imported" tag="Im">
 			<cmd name="line_metrics_scaled" args="null"/>
