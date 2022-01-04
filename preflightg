@@ -1,7 +1,7 @@
 #!/bin/sh
 
 echo "-----Updating UFOs from Glyphs file..."
-psfglyphs2ufo --nofea source/DoulosSILRoman.glyphs source
+psfglyphs2ufo --preservefea source/DoulosSILRoman.glyphs source
 psfremovegliflibkeys source/DoulosSIL-Regular.ufo public.verticalOrigin
 
 # update psnames and sort order, which also normalizes it
