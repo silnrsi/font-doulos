@@ -8,12 +8,13 @@
     <array/>
   </dict>
   <key>com.schriftgestaltung.appVersion</key>
-  <string>3106</string>
+  <string>3109</string>
   <key>com.schriftgestaltung.customParameter.GSFont.DisplayStrings</key>
   <array>
     <string>/LtnSmFengDigraphTrill/LtnSmRevScriptG/LtnSmCapTurnedG/LtnSmRevK/LtnSmLezhRetrHook/LtnSmRevEng/LtnSmTHookRetrHook/Space/LtnSmCapTurnedK/Space/LtnSmLFishhook/Space/LtnSmEshDblBar</string>
     <string>/LtnSmDezhDigraphPalHook/LtnSmEngPalHook/LtnSmTeshPalHook/LtnSmLBeltPalHook/LtnSmTurnedRPalHook/LtnSmRFishhookPalHook/LtnSmEshDblBar/LtnSmEsh</string>
     <string>/LtnSmDezhDigraphRetrHook/LtnRetroflexClickRetrHook/LtnSmIStrkRetrHook/LtnSmORetrHook/LtnSmTeshRetrHook/LtnSmCRetrHook</string>
+    <string>/LtnSmEshCurlDblBar/LtnSmTurnedT/LtnSmTurnedTCurl/LtnInvGlottalStopCurl/LtnStretchedCCurl/LtnSmSCurl</string>
   </array>
   <key>com.schriftgestaltung.customParameter.GSFont.disablesAutomaticAlignment</key>
   <true/>
