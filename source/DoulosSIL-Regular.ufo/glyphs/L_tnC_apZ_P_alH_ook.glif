@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="LtnCapZPalHook" format="2">
   <advance width="1251"/>
-  <unicode hex="F234"/>
+  <unicode hex="A7C6"/>
   <anchor x="611" y="-500" name="L"/>
   <anchor x="611" y="1435" name="U"/>
   <outline>
