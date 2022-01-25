@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="LtnSmCPalHook.sc" format="2">
+  <advance width="1368"/>
+  <anchor x="684" y="0" name="H"/>
+  <anchor x="740" y="-100" name="L"/>
+  <anchor x="740" y="1435" name="U"/>
+  <outline>
+    <component base="LtnCapC"/>
+  </outline>
+</glyph>
