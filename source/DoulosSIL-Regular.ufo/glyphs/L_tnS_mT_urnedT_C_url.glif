@@ -2,8 +2,8 @@
 <glyph name="LtnSmTurnedTCurl" format="2">
   <advance width="672"/>
   <unicode hex="1DF0D"/>
-  <anchor x="364" y="-500" name="L"/>
-  <anchor x="364" y="1000" name="U"/>
+  <anchor x="272" y="-500" name="L"/>
+  <anchor x="272" y="1000" name="U"/>
   <outline>
     <contour>
       <point x="331" y="-169" type="curve"/>
@@ -20,8 +20,10 @@
       <point x="287" y="-151"/>
     </contour>
     <contour>
-      <point x="493" y="0" type="curve"/>
-      <point x="650" y="0" type="line"/>
+      <point x="490" y="-86" type="curve"/>
+      <point x="539" y="-30"/>
+      <point x="600" y="18"/>
+      <point x="650" y="38" type="curve"/>
       <point x="650" y="69" type="line"/>
       <point x="494" y="69" type="line"/>
       <point x="494" y="688" type="line" smooth="yes"/>
@@ -62,8 +64,8 @@
       <point x="592" y="-291"/>
       <point x="536" y="-226"/>
       <point x="476" y="-175" type="curve"/>
-      <point x="489" y="-121"/>
-      <point x="493" y="-68"/>
+      <point x="483" y="-144"/>
+      <point x="488" y="-113"/>
     </contour>
   </outline>
   <lib>

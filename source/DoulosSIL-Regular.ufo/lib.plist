@@ -11,10 +11,7 @@
   <string>3112</string>
   <key>com.schriftgestaltung.customParameter.GSFont.DisplayStrings</key>
   <array>
-    <string>/LtnSmFengDigraphTrill/LtnSmRevScriptG/LtnSmCapTurnedG/LtnSmRevK/LtnSmLezhRetrHook/LtnSmRevEng/LtnSmTHookRetrHook/Space/LtnSmCapTurnedK/Space/LtnSmLFishhook/Space/LtnSmEshDblBar</string>
-    <string>/LtnSmDezhDigraphPalHook/LtnSmEngPalHook/LtnSmTeshPalHook/LtnSmLBeltPalHook/LtnSmTurnedRPalHook/LtnSmRFishhookPalHook/LtnSmEshDblBar/LtnSmEsh</string>
-    <string>/LtnSmDezhDigraphRetrHook/LtnRetroflexClickRetrHook/LtnSmIStrkRetrHook/LtnSmORetrHook/LtnSmTeshRetrHook/LtnSmCRetrHook</string>
-    <string>/LtnSmEshCurlDblBar/LtnSmTurnedT/LtnSmTurnedTCurl/LtnInvGlottalStopCurl/LtnStretchedCCurl/LtnSmSCurl</string>
+    <string>/LtnCapZPalHook c/LtnSmCPalHook C/LtnCapCPalHook/LtnSmSHook S/LtnCapSHook</string>
   </array>
   <key>com.schriftgestaltung.customParameter.GSFont.disablesAutomaticAlignment</key>
   <true/>
