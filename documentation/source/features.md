@@ -1,6 +1,6 @@
 ---
 title: Doulos SIL - Font Features
-fontversion: 6.001
+fontversion: 6.100
 ---
 
 Doulos SIL is an OpenType-enabled font that supports the Latin and Cyrillic scripts. It includes a number of optional features that may be useful or required for particular uses or languages. This document lists all the available features.
@@ -327,6 +327,28 @@ Feature | Sample                      | Feature setting
 ------- | --------------------------- | -------
 Standard | <span class='doulos-R normal'>б</span> | 
 Serbian  | <span class='doulos-R normal' lang='sr'>б</span> | `lang='sr'`
+
+#### Macedonian Cyrillic alternates
+
+*Unlike other features this is activated by tagging the span of text as being in the Macedonian language, not by turning on an OpenType feature.*
+
+<span class='affects'>Affects: U+0431</span>
+
+Feature | Sample                      | Feature setting
+------- | --------------------------- | -------
+Standard   | <span class='doulos-R normal'>б</span> | 
+Macedonian | <span class='doulos-R normal' lang='mk'>б</span> | `lang='mk'`
+
+#### Serbian and Macedonian Cyrillic alternatess
+
+*This feature provides an alternate way to activate the Serbian and Macedonian forms in applications that do not support language-specific features.*
+
+<span class='affects'>Affects: U+0431</span>
+
+Feature | Sample                      | Feature setting
+------- | --------------------------- | -------
+Standard                 | <span class='doulos-R normal'>б</span> | `cv84=0`
+Serbian Macedonian forms | <span class='doulos-R normal' style='font-feature-settings: "cv84" 1'>б</span> | `cv84=1`
 
 ### Tone alternates
 
