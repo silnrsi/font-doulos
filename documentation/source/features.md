@@ -339,7 +339,7 @@ Feature | Sample                      | Feature setting
 Standard   | <span class='doulos-R normal'>б</span> | 
 Macedonian | <span class='doulos-R normal' lang='mk'>б</span> | `lang='mk'`
 
-#### Serbian and Macedonian Cyrillic alternatess
+#### Serbian and Macedonian Cyrillic alternates
 
 *This feature provides an alternate way to activate the Serbian and Macedonian forms in applications that do not support language-specific features.*
 
