@@ -3,10 +3,8 @@
 <ftml version="1.0">
   <head>
     <fontscale>200</fontscale>
-    <fontsrc>url(../results/DoulosSIL-Regular.ttf)</fontsrc>
-    <fontsrc label="DRv5">url(../references/v5/DoulosSIL-Regular.ttf)</fontsrc>
-    <fontsrc label="CRb1">url(../references/b1/CharisSIL-Regular.ttf)</fontsrc>
-    <fontsrc label="CRv5">url(../references/v5/CharisSIL-Regular.ttf)</fontsrc>
+    <fontsrc label="DR">url(../results/DoulosSIL-Regular.ttf)</fontsrc>
+    <fontsrc label="DRv6">url(../references/v6001/DoulosSIL-Regular.ttf)</fontsrc>
     <styles>
       <style lang="cnr" name="cnr"/>
       <style feats="'cv46' 1" name="cv46_1"/>
