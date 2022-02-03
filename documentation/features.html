@@ -815,6 +815,54 @@
     </tr>
     </tbody>
     </table>
+    <h4 id="macedonian-cyrillic-alternates">Macedonian Cyrillic alternates</h4>
+    <p><em>Unlike other features this is activated by tagging the span of text as being in the Macedonian language, not by turning on an OpenType feature.</em></p>
+    <p><span class="affects">Affects: U+0431</span></p>
+    <table>
+    <thead>
+    <tr class="header">
+    <th>Feature</th>
+    <th>Sample</th>
+    <th>Feature setting</th>
+    </tr>
+    </thead>
+    <tbody>
+    <tr class="odd">
+    <td>Standard</td>
+    <td><span class="doulos-R normal">б</span></td>
+    <td></td>
+    </tr>
+    <tr class="even">
+    <td>Macedonian</td>
+    <td><span class="doulos-R normal" lang="mk">б</span></td>
+    <td><code>lang='mk'</code></td>
+    </tr>
+    </tbody>
+    </table>
+    <h4 id="serbian-and-macedonian-cyrillic-alternates">Serbian and Macedonian Cyrillic alternates</h4>
+    <p><em>This feature provides an alternate way to activate the Serbian and Macedonian forms in applications that do not support language-specific features.</em></p>
+    <p><span class="affects">Affects: U+0431</span></p>
+    <table>
+    <thead>
+    <tr class="header">
+    <th>Feature</th>
+    <th>Sample</th>
+    <th>Feature setting</th>
+    </tr>
+    </thead>
+    <tbody>
+    <tr class="odd">
+    <td>Standard</td>
+    <td><span class="doulos-R normal">б</span></td>
+    <td><code>cv84=0</code></td>
+    </tr>
+    <tr class="even">
+    <td>Serbian Macedonian forms</td>
+    <td><span class="doulos-R normal" style="font-feature-settings: &quot;cv84&quot; 1">б</span></td>
+    <td><code>cv84=1</code></td>
+    </tr>
+    </tbody>
+    </table>
     <h3 id="tone-alternates">Tone alternates</h3>
     <h4 id="chinantec-tones">Chinantec tones</h4>
     <p><span class="affects">Affects: U+02CB U+02C8 U+02C9 U+02CA</span></p>
@@ -889,7 +937,7 @@
     [font id='doulos' face='DoulosSIL-Regular' size='150%']
     -->
     <footer class="footer">
-        <p>This guide is from the <a href="https://software.sil.org/doulos/" title="" class="active">Doulos SIL project</a> version 6.001 and is copyright © 1994-2021 SIL International.</p>
+        <p>This guide is from the <a href="https://software.sil.org/doulos/" title="" class="active">Doulos SIL project</a> version 6.100 and is copyright © 1994-2022 SIL International.</p>
     </footer>
 </article>
 </div>
