@@ -1,6 +1,6 @@
 ---
 title: Doulos SIL - Documentation
-fontversion: 6.100
+fontversion: 6.101
 ---
 
 Thank you for your interest in the Doulos SIL font. This font supports the broad variety of writing systems that use Latin and Cyrillic scripts.
