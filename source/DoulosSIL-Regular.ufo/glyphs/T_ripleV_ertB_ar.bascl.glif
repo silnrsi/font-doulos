@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="TripleVertBar.bascl" format="2">
+  <advance width="618"/>
+  <anchor x="309" y="-500" name="L"/>
+  <anchor x="309" y="1491" name="U"/>
+  <outline>
+    <component base="LtnLateralClick"/>
+  </outline>
+</glyph>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="LtnDentalClick.bascl" format="2">
+  <advance width="362"/>
+  <anchor x="181" y="-500" name="L"/>
+  <anchor x="181" y="1495" name="U"/>
+  <outline>
+    <component base="LtnDentalClick"/>
+  </outline>
+</glyph>
