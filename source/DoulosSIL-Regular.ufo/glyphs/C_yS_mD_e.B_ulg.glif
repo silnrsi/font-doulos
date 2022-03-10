@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="CySmDe.Bulg" format="2">
+  <advance width="985"/>
+  <anchor x="540" y="-432" name="H"/>
+  <anchor x="540" y="-500" name="L"/>
+  <anchor x="985" y="900" name="R"/>
+  <anchor x="540" y="1000" name="U"/>
+  <outline>
+    <component base="LtnSmG.SngBowl"/>
+  </outline>
+</glyph>

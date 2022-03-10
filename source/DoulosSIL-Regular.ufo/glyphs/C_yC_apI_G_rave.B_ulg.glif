@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="CyCapIGrave.Bulg" format="2">
+  <advance width="1463"/>
+  <anchor x="731" y="-100" name="L"/>
+  <anchor x="731" y="1870" name="U"/>
+  <outline>
+    <component base="CyCapI"/>
+    <component base="CombGrave" xOffset="1243" yOffset="435"/>
+  </outline>
+</glyph>

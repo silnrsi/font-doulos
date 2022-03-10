@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="CySmShortI.Bulg.sc" format="2">
+  <advance width="1463"/>
+  <anchor x="731" y="-100" name="L"/>
+  <anchor x="731" y="1890" name="U"/>
+  <outline>
+    <component base="CyCapI"/>
+    <component base="CombBreve.CyShortMrkAlt.UCHt" xOffset="1462" yOffset="60"/>
+  </outline>
+</glyph>
