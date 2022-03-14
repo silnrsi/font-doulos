@@ -2,9 +2,9 @@
 <glyph name="TurnedDigitTwo" format="2">
   <advance width="1025"/>
   <unicode hex="218A"/>
-  <anchor x="493" y="-100" name="L"/>
-  <anchor x="493" y="1435" name="U"/>
+  <anchor x="543" y="-100" name="L"/>
+  <anchor x="543" y="1435" name="U"/>
   <outline>
-    <component base="DigitTwo"/>
+    <component base="DigitTwo" xScale="-1" yScale="-1" xOffset="1025" yOffset="1362"/>
   </outline>
 </glyph>
