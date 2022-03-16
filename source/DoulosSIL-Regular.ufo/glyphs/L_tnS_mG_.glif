@@ -42,32 +42,31 @@
       <point x="755" y="-444"/>
       <point x="976" y="-269"/>
       <point x="976" y="-85" type="curve" smooth="yes"/>
-      <point x="976" y="127"/>
-      <point x="728" y="132"/>
-      <point x="656" y="132" type="curve"/>
+      <point x="976" y="122"/>
+      <point x="728" y="130"/>
+      <point x="656" y="132" type="curve" smooth="yes"/>
       <point x="361" y="140"/>
-      <point x="323" y="143"/>
-      <point x="299" y="167" type="curve"/>
-      <point x="258" y="205"/>
+      <point x="323" y="144"/>
+      <point x="299" y="167" type="curve" smooth="yes"/>
+      <point x="259" y="206"/>
       <point x="305" y="275"/>
       <point x="359" y="316" type="curve"/>
       <point x="406" y="301"/>
       <point x="452" y="295"/>
       <point x="499" y="295" type="curve" smooth="yes"/>
       <point x="727" y="295"/>
-      <point x="862" y="438"/>
-      <point x="859" y="605" type="curve"/>
+      <point x="859" y="438"/>
+      <point x="859" y="605" type="curve" smooth="yes"/>
       <point x="859" y="681"/>
       <point x="840" y="741"/>
       <point x="805" y="788" type="curve"/>
-      <point x="922" y="788" type="line"/>
       <point x="931" y="787"/>
       <point x="939" y="787"/>
-      <point x="946" y="788" type="curve" smooth="yes"/>
-      <point x="959" y="789"/>
-      <point x="971" y="791"/>
-      <point x="978" y="796" type="curve"/>
-      <point x="985" y="805"/>
+      <point x="946" y="787" type="curve" smooth="yes"/>
+      <point x="959" y="787"/>
+      <point x="972" y="790"/>
+      <point x="978" y="796" type="curve" smooth="yes"/>
+      <point x="986" y="804"/>
       <point x="987" y="828"/>
     </contour>
     <contour>
@@ -96,9 +95,9 @@
       <point x="242" y="-67"/>
       <point x="299" y="0" type="curve"/>
       <point x="380" y="-12"/>
-      <point x="496" y="-15"/>
-      <point x="647" y="-22" type="curve"/>
-      <point x="857" y="-33"/>
+      <point x="496" y="-17"/>
+      <point x="647" y="-22" type="curve" smooth="yes"/>
+      <point x="857" y="-29"/>
       <point x="903" y="-57"/>
     </contour>
   </outline>
