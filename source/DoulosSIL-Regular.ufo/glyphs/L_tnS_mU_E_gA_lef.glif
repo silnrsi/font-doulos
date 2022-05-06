@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="LtnSmUEgAlef" format="2">
+  <advance width="1025"/>
+  <unicode hex="A7BF"/>
+  <anchor x="475" y="0" name="H"/>
+  <anchor x="513" y="-100" name="L"/>
+  <anchor x="877" y="0" name="O"/>
+  <anchor x="995" y="900" name="R"/>
+  <anchor x="513" y="1000" name="U"/>
+  <outline>
+    <component base="LtnSmU"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.99,0.62,0.11,1</string>
+    </dict>
+  </lib>
+</glyph>
