@@ -2,10 +2,30 @@
 <glyph name="LtnSmTsHook" format="2">
   <advance width="1232"/>
   <unicode hex="AB67"/>
-  <anchor x="587" y="-100" name="L"/>
+  <anchor x="587" y="-500" name="L"/>
   <anchor x="620" y="1298" name="U"/>
   <outline>
     <component base="LtnSmTsDigraph"/>
+    <contour>
+      <point x="464" y="60" type="line"/>
+      <point x="464" y="-233" type="line" smooth="yes"/>
+      <point x="464" y="-400"/>
+      <point x="589" y="-442"/>
+      <point x="679" y="-442" type="curve" smooth="yes"/>
+      <point x="796" y="-442"/>
+      <point x="880" y="-361"/>
+      <point x="880" y="-270" type="curve" smooth="yes"/>
+      <point x="880" y="-235"/>
+      <point x="849" y="-188"/>
+      <point x="803" y="-188" type="curve" smooth="yes"/>
+      <point x="656" y="-188"/>
+      <point x="745" y="-376"/>
+      <point x="632" y="-376" type="curve" smooth="yes"/>
+      <point x="591" y="-376"/>
+      <point x="538" y="-353"/>
+      <point x="538" y="-207" type="curve" smooth="yes"/>
+      <point x="538" y="130" type="line"/>
+    </contour>
   </outline>
   <lib>
     <dict>
