@@ -11,7 +11,7 @@
   <string>3133</string>
   <key>com.schriftgestaltung.customParameter.GSFont.DisplayStrings</key>
   <array>
-    <string>i/ModCntrdLftHalfRing/ModLftHalfRing/ModCntrdRtHalfRing/ModRtHalfRing b</string>
+    <string>/LtnSmEgAlef áå/LtnSmAEgAlef/LtnSmAAcute.SngStory/LtnSmARingAbv.SngStory/LtnSmAEgAlef.SngStory/LtnSmDotlessI/LtnSmIEgAlef/LtnSmUEgAlef AH/LtnCapAEgAlef H/LtnCapIEgAlef/LtnCapUEgAlef</string>
   </array>
   <key>com.schriftgestaltung.customParameter.GSFont.disablesAutomaticAlignment</key>
   <true/>

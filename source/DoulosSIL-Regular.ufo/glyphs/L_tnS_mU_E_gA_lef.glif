@@ -6,9 +6,30 @@
   <anchor x="513" y="-100" name="L"/>
   <anchor x="877" y="0" name="O"/>
   <anchor x="995" y="900" name="R"/>
-  <anchor x="513" y="1000" name="U"/>
+  <anchor x="513" y="1435" name="U"/>
   <outline>
     <component base="LtnSmU"/>
+    <contour>
+      <point x="656" y="1296" type="curve" smooth="yes"/>
+      <point x="656" y="1429"/>
+      <point x="516" y="1464"/>
+      <point x="439" y="1464" type="curve" smooth="yes"/>
+      <point x="385" y="1464"/>
+      <point x="330" y="1441"/>
+      <point x="330" y="1387" type="curve" smooth="yes"/>
+      <point x="330" y="1341"/>
+      <point x="366" y="1318"/>
+      <point x="404" y="1318" type="curve" smooth="yes"/>
+      <point x="512" y="1318"/>
+      <point x="569" y="1288"/>
+      <point x="569" y="1234" type="curve" smooth="yes"/>
+      <point x="569" y="1161"/>
+      <point x="507" y="1089"/>
+      <point x="368" y="1068" type="curve"/>
+      <point x="368" y="1032" type="line"/>
+      <point x="538" y="1054"/>
+      <point x="656" y="1133"/>
+    </contour>
   </outline>
   <lib>
     <dict>
