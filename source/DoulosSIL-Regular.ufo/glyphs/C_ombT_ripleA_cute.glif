@@ -1,10 +1,51 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="CombTripleAcute" format="2">
   <unicode hex="1ACB"/>
-  <anchor x="-512" y="1435" name="U"/>
-  <anchor x="-512" y="1000" name="_U"/>
+  <anchor x="-697" y="1435" name="U"/>
+  <anchor x="-697" y="1000" name="_U"/>
   <outline>
-    <component base="DblAcuteAccent" xOffset="-852"/>
+    <contour>
+      <point x="-393" y="1345" type="curve" smooth="yes"/>
+      <point x="-393" y="1379"/>
+      <point x="-416" y="1397"/>
+      <point x="-457" y="1397" type="curve" smooth="yes"/>
+      <point x="-496" y="1397"/>
+      <point x="-521" y="1375"/>
+      <point x="-568" y="1328" type="curve" smooth="yes"/>
+      <point x="-852" y="1042" type="line"/>
+      <point x="-779" y="1042" type="line"/>
+      <point x="-441" y="1273" type="line" smooth="yes"/>
+      <point x="-406" y="1297"/>
+      <point x="-393" y="1312"/>
+    </contour>
+    <contour>
+      <point x="-22" y="1345" type="curve" smooth="yes"/>
+      <point x="-22" y="1379"/>
+      <point x="-45" y="1397"/>
+      <point x="-86" y="1397" type="curve" smooth="yes"/>
+      <point x="-125" y="1397"/>
+      <point x="-150" y="1375"/>
+      <point x="-197" y="1328" type="curve" smooth="yes"/>
+      <point x="-481" y="1042" type="line"/>
+      <point x="-408" y="1042" type="line"/>
+      <point x="-70" y="1273" type="line" smooth="yes"/>
+      <point x="-35" y="1297"/>
+      <point x="-22" y="1312"/>
+    </contour>
+    <contour>
+      <point x="-764" y="1345" type="curve" smooth="yes"/>
+      <point x="-764" y="1379"/>
+      <point x="-787" y="1397"/>
+      <point x="-828" y="1397" type="curve" smooth="yes"/>
+      <point x="-867" y="1397"/>
+      <point x="-892" y="1375"/>
+      <point x="-939" y="1328" type="curve" smooth="yes"/>
+      <point x="-1223" y="1042" type="line"/>
+      <point x="-1150" y="1042" type="line"/>
+      <point x="-812" y="1273" type="line" smooth="yes"/>
+      <point x="-777" y="1297"/>
+      <point x="-764" y="1312"/>
+    </contour>
   </outline>
   <lib>
     <dict>

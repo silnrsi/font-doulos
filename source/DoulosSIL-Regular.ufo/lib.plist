@@ -11,7 +11,10 @@
   <string>3133</string>
   <key>com.schriftgestaltung.customParameter.GSFont.DisplayStrings</key>
   <array>
-    <string>/LtnSmEgAlef áå/LtnSmAEgAlef/LtnSmAAcute.SngStory/LtnSmARingAbv.SngStory/LtnSmAEgAlef.SngStory/LtnSmDotlessI/LtnSmIEgAlef/LtnSmUEgAlef AH/LtnCapAEgAlef H/LtnCapIEgAlef/LtnCapUEgAlef</string>
+    <string>/CombTripleAcute</string>
+    <string>/CombDblPlusSgnBlw</string>
+    <string>/CombDblPlusSgnAbv</string>
+    <string>/DottedCirc</string>
   </array>
   <key>com.schriftgestaltung.customParameter.GSFont.disablesAutomaticAlignment</key>
   <true/>
