@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="LtnSmSMidLftHook" format="2">
+  <advance width="798"/>
+  <unicode hex="1DF29"/>
+  <anchor x="413" y="0" name="H"/>
+  <anchor x="413" y="-100" name="L"/>
+  <anchor x="413" y="1000" name="U"/>
+  <outline>
+    <component base="LtnSmS"/>
+  </outline>
+</glyph>
