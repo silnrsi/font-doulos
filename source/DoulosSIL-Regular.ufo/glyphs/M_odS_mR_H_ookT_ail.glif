@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ModSmRHookTail" format="2">
+  <advance width="505"/>
+  <unicode hex="107A8"/>
+  <anchor x="205" y="506" name="L"/>
+  <anchor x="270" y="1406" name="U"/>
+  <outline>
+    <contour>
+      <point x="525" y="644" type="curve"/>
+      <point x="525" y="665"/>
+      <point x="502" y="693"/>
+      <point x="470" y="693" type="curve" smooth="yes"/>
+      <point x="373" y="693"/>
+      <point x="425" y="586"/>
+      <point x="330" y="586" type="curve" smooth="yes"/>
+      <point x="261" y="586"/>
+      <point x="248" y="651"/>
+      <point x="248" y="806" type="curve" smooth="yes"/>
+      <point x="248" y="1198" type="line"/>
+      <point x="285" y="1257"/>
+      <point x="321" y="1292"/>
+      <point x="345" y="1292" type="curve" smooth="yes"/>
+      <point x="376" y="1292"/>
+      <point x="399" y="1249"/>
+      <point x="447" y="1249" type="curve" smooth="yes"/>
+      <point x="484" y="1249"/>
+      <point x="513" y="1276"/>
+      <point x="513" y="1305" type="curve" smooth="yes"/>
+      <point x="513" y="1344"/>
+      <point x="472" y="1371"/>
+      <point x="419" y="1371" type="curve" smooth="yes"/>
+      <point x="359" y="1371"/>
+      <point x="304" y="1331"/>
+      <point x="248" y="1248" type="curve"/>
+      <point x="248" y="1371" type="line"/>
+      <point x="220" y="1371" type="line"/>
+      <point x="16" y="1305" type="line"/>
+      <point x="22" y="1284" type="line"/>
+      <point x="63" y="1298"/>
+      <point x="86" y="1294"/>
+      <point x="106" y="1285" type="curve"/>
+      <point x="122" y="1270"/>
+      <point x="128" y="1259"/>
+      <point x="128" y="1143" type="curve" smooth="yes"/>
+      <point x="128" y="808" type="line" smooth="yes"/>
+      <point x="128" y="560"/>
+      <point x="328" y="541"/>
+      <point x="374" y="541" type="curve" smooth="yes"/>
+      <point x="459" y="541"/>
+      <point x="525" y="589"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.18,0.16,0.78,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ModSmLZDigraph" format="2">
+  <advance width="825"/>
+  <unicode hex="1079A"/>
+  <anchor x="433" y="746" name="L"/>
+  <anchor x="471" y="1691" name="U"/>
+  <outline>
+    <contour>
+      <point x="812" y="1333" type="line"/>
+      <point x="812" y="1356" type="line"/>
+      <point x="282" y="1356" type="line"/>
+      <point x="282" y="1660" type="line"/>
+      <point x="251" y="1660" type="line"/>
+      <point x="52" y="1594" type="line"/>
+      <point x="65" y="1572" type="line"/>
+      <point x="106" y="1585"/>
+      <point x="124" y="1583"/>
+      <point x="142" y="1573" type="curve"/>
+      <point x="156" y="1562"/>
+      <point x="162" y="1554"/>
+      <point x="162" y="1429" type="curve" smooth="yes"/>
+      <point x="162" y="930" type="line" smooth="yes"/>
+      <point x="162" y="879"/>
+      <point x="153" y="859"/>
+      <point x="142" y="847" type="curve" smooth="yes"/>
+      <point x="127" y="831"/>
+      <point x="109" y="829"/>
+      <point x="65" y="829" type="curve"/>
+      <point x="65" y="806" type="line"/>
+      <point x="793" y="806" type="line"/>
+      <point x="801" y="974" type="line"/>
+      <point x="775" y="974" type="line"/>
+      <point x="761" y="873"/>
+      <point x="743" y="870"/>
+      <point x="711" y="857" type="curve" smooth="yes"/>
+      <point x="694" y="850"/>
+      <point x="660" y="846"/>
+      <point x="611" y="846" type="curve" smooth="yes"/>
+      <point x="369" y="846" type="line"/>
+    </contour>
+    <contour>
+      <point x="282" y="930" type="line"/>
+      <point x="282" y="1203" type="line"/>
+      <point x="290" y="1269"/>
+      <point x="311" y="1296"/>
+      <point x="339" y="1306" type="curve"/>
+      <point x="356" y="1311"/>
+      <point x="387" y="1315"/>
+      <point x="431" y="1315" type="curve" smooth="yes"/>
+      <point x="649" y="1315" type="line"/>
+      <point x="282" y="909" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.18,0.16,0.78,1</string>
+    </dict>
+  </lib>
+</glyph>

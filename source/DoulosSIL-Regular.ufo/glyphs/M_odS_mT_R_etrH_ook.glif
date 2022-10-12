@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ModSmTRetrHook" format="2">
+  <advance width="410"/>
+  <unicode hex="107AF"/>
+  <anchor x="203" y="506" name="L"/>
+  <anchor x="420" y="1346" name="R"/>
+  <anchor x="203" y="1585" name="U"/>
+  <outline>
+    <contour>
+      <point x="523" y="644" type="curve"/>
+      <point x="523" y="665"/>
+      <point x="501" y="693"/>
+      <point x="469" y="693" type="curve" smooth="yes"/>
+      <point x="371" y="693"/>
+      <point x="423" y="586"/>
+      <point x="328" y="586" type="curve" smooth="yes"/>
+      <point x="259" y="586"/>
+      <point x="247" y="651"/>
+      <point x="247" y="806" type="curve" smooth="yes"/>
+      <point x="247" y="1315" type="line"/>
+      <point x="402" y="1315" type="line"/>
+      <point x="402" y="1356" type="line"/>
+      <point x="247" y="1356" type="line"/>
+      <point x="247" y="1537" type="line"/>
+      <point x="225" y="1537" type="line"/>
+      <point x="185" y="1458"/>
+      <point x="170" y="1441"/>
+      <point x="144" y="1415" type="curve" smooth="yes"/>
+      <point x="106" y="1378"/>
+      <point x="60" y="1345"/>
+      <point x="21" y="1333" type="curve"/>
+      <point x="21" y="1315" type="line"/>
+      <point x="127" y="1315" type="line"/>
+      <point x="127" y="808" type="line" smooth="yes"/>
+      <point x="127" y="560"/>
+      <point x="327" y="541"/>
+      <point x="373" y="541" type="curve" smooth="yes"/>
+      <point x="457" y="541"/>
+      <point x="523" y="589"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.18,0.16,0.78,1</string>
+    </dict>
+  </lib>
+</glyph>
