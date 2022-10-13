@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="TripleVertBar.sc" format="2">
+  <advance width="1024"/>
+  <anchor x="502" y="-69" name="L"/>
+  <anchor x="502" y="1113" name="U"/>
+  <outline>
+    <contour>
+      <point x="282" y="-26" type="line"/>
+      <point x="282" y="1060" type="line"/>
+      <point x="130" y="1060" type="line"/>
+      <point x="130" y="-26" type="line"/>
+    </contour>
+    <contour>
+      <point x="578" y="-26" type="line"/>
+      <point x="578" y="1060" type="line"/>
+      <point x="426" y="1060" type="line"/>
+      <point x="426" y="-26" type="line"/>
+    </contour>
+    <contour>
+      <point x="874" y="-26" type="line"/>
+      <point x="874" y="1060" type="line"/>
+      <point x="722" y="1060" type="line"/>
+      <point x="722" y="-26" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.18,0.16,0.78,1</string>
+    </dict>
+  </lib>
+</glyph>
