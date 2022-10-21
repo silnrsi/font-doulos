@@ -4,6 +4,6 @@
   <anchor x="-512" y="1675" name="U"/>
   <anchor x="-512" y="1000" name="_U"/>
   <outline>
-    <component base="LtnSupSmV" xOffset="-888" yOffset="250"/>
+    <component base="LtnSupSmV" xScale="0.9" yScale="0.9" xOffset="-868" yOffset="329"/>
   </outline>
 </glyph>

@@ -3,6 +3,6 @@
   <anchor x="-512" y="1675" name="U"/>
   <anchor x="-512" y="1000" name="_U"/>
   <outline>
-    <component base="LtnSupSmAlpha" xOffset="-874" yOffset="250"/>
+    <component base="LtnSupSmAlpha" xScale="0.9" yScale="0.9" xOffset="-844" yOffset="330"/>
   </outline>
 </glyph>

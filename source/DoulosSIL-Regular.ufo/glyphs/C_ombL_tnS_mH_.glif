@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="CombLtnSmH" format="2">
   <unicode hex="036A"/>
-  <anchor x="-512" y="1675" name="U"/>
+  <anchor x="-512" y="1850" name="U"/>
   <anchor x="-512" y="1000" name="_U"/>
   <outline>
-    <component base="ModSmH" xOffset="-888" yOffset="250"/>
+    <component base="ModSmH" xScale="0.9" yScale="0.9" xOffset="-858" yOffset="331"/>
   </outline>
 </glyph>

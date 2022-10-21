@@ -4,6 +4,6 @@
   <anchor x="-512" y="1675" name="U"/>
   <anchor x="-512" y="1000" name="_U"/>
   <outline>
-    <component base="ModSmX" xOffset="-890" yOffset="250"/>
+    <component base="ModSmX" xScale="0.9" yScale="0.9" xOffset="-848" yOffset="331"/>
   </outline>
 </glyph>
