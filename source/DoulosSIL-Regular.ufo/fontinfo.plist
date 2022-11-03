@@ -14,6 +14,10 @@
   <string>Doulos SIL</string>
   <key>openTypeHeadCreated</key>
   <string>2022/11/03 14:30:38</string>
+  <key>openTypeHeadFlags</key>
+  <array>
+    <integer>3</integer>
+  </array>
   <key>openTypeHheaAscender</key>
   <integer>2324</integer>
   <key>openTypeHheaDescender</key>
