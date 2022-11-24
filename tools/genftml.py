@@ -98,7 +98,7 @@ for test in test_lst:
         style += 'I' if fn.find('BoldItalic') != -1 else ''
         arg_lst.extend(["-s", "../results/{}={}{}".format(fn, family, style)])
     # TODO: kludgy way to add columns for other fonts, assumes tests/reference folder
-    arg_lst.extend(["-s", "../references/v6001/DoulosSIL-Regular.ttf=DR6"])
+    arg_lst.extend(["-s", "../references/v6101/DoulosSIL-Regular.ttf=DR6"])
     # arg_lst.extend(["-s", "../references/b1/CharisSIL-Regular.ttf=CRb1"])
     # arg_lst.extend(["-s", "../references/v5/CharisSIL-Regular.ttf=CRv5"])
 
