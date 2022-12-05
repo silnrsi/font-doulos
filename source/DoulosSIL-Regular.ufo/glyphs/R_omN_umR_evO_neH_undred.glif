@@ -2,6 +2,9 @@
 <glyph name="RomNumRevOneHundred" format="2">
   <advance width="1368"/>
   <unicode hex="2183"/>
+  <anchor x="684" y="-2" name="H"/>
+  <anchor x="684" y="-100" name="L"/>
+  <anchor x="1295" y="1320" name="R"/>
   <anchor x="684" y="1435" name="U"/>
   <outline>
     <contour>
