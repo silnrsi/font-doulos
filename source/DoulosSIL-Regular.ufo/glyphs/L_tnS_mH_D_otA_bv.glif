@@ -2,12 +2,13 @@
 <glyph name="LtnSmHDotAbv" format="2">
   <advance width="1025"/>
   <unicode hex="1E23"/>
+  <guideline x="577" y="1123" angle="0"/>
   <anchor x="251" y="0" name="H"/>
   <anchor x="513" y="-100" name="L"/>
-  <anchor x="513" y="1870" name="U"/>
+  <anchor x="603" y="1435" name="U"/>
   <outline>
     <component base="LtnSmH"/>
-    <component base="CombDotAbv" xOffset="1025" yOffset="435"/>
+    <component base="CombDotAbv" xOffset="1115" yOffset="-2"/>
   </outline>
   <lib>
     <dict>
