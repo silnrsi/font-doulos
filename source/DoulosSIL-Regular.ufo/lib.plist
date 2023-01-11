@@ -12,6 +12,7 @@
   <key>com.schriftgestaltung.customParameter.GSFont.DisplayStrings</key>
   <array>
     <string>o/LtnSmDMidLftHook lo/LtnSmLMidLftHook o/LtnSmRevRFishhook ono/LtnSmNMidLftHook o/LtnSmRMidLftHook o/LtnSmSMidLftHook o/LtnSmTMidLftHook</string>
+    <string>/LtnSmDShortStrk D/LtnCapDShortStrk oso/LtnSmSShortStrk oS/LtnCapSShortStrk/CyCapBarredO/LtnSmBBarredStem.BarBowl/LtnSmBarredO/LtnCapOMiddleTilde</string>
   </array>
   <key>com.schriftgestaltung.customParameter.GSFont.disablesAutomaticAlignment</key>
   <true/>

@@ -7,6 +7,12 @@
   <anchor x="413" y="1000" name="U"/>
   <outline>
     <component base="LtnSmS"/>
+    <contour>
+      <point x="747" y="558" type="line"/>
+      <point x="34" y="558" type="line"/>
+      <point x="34" y="455" type="line"/>
+      <point x="747" y="455" type="line"/>
+    </contour>
   </outline>
   <lib>
     <dict>

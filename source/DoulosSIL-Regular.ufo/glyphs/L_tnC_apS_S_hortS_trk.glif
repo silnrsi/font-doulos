@@ -7,6 +7,12 @@
   <anchor x="580" y="1435" name="U"/>
   <outline>
     <component base="LtnCapS"/>
+    <contour>
+      <point x="1057" y="765" type="line"/>
+      <point x="74" y="765" type="line"/>
+      <point x="74" y="653" type="line"/>
+      <point x="1057" y="653" type="line"/>
+    </contour>
   </outline>
   <lib>
     <dict>
