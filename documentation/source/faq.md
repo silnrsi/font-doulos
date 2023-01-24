@@ -28,11 +28,11 @@ Here are a few of the most frequently asked questions specifically regarding Dou
 
 #### *Why does the font have some Greek characters, but not all?*
 
-Although Doulos SIL includes some Greek characters, it is not intended to provide general support for the Greek language. The Greek characters that are included are there to support various notational systems (linguistic, logical, mathematical). Other fonts, such as [Gentium Plus](http://software.sil.org/gentium) provide complete Greek script support. 
+Although Doulos SIL includes some Greek characters, it is not intended to provide general support for the Greek language. The Greek characters that are included are there to support various notational systems (linguistic, logical, mathematical). Other fonts, such as [Gentium Plus](http://software.sil.org/gentium), provide complete Greek script support. 
 
 #### *Will you add full Greek script support?*
 
-We have no plans to do that, however the [OFL licensing](https://scripts.sil.org/OFL_web) allows anyone to add Greek support and freely distribute the font to others. It is even possible to [contribute that work back to the project](developer.md) and share it with others.
+We have no plans to do that. However the [OFL licensing](https://scripts.sil.org/OFL_web) allows anyone to add Greek support and freely distribute the font to others. It is even possible to [contribute that work back to the project](developer.md) and share it with others.
 
 #### *Why doesn’t Doulos SIL have a full set of styles? Will you add them in the future?*
 

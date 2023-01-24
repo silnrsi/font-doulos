@@ -9,9 +9,9 @@ These OpenType features are primarily specified using four-letter tags (e.g. 'cv
 
 *Please note that Graphite support has been removed in the current release, but continues to be available in the version 5 fonts. See our [Previous Versions archive](http://software.sil.org/doulos/download/previous-versions).*
 
-This page uses web fonts (WOFF2) to demonstrate font features and should display correctly in all modern browsers. For a more concise example of how to use Doulos SIL as a web font see *DoulosSIL-webfont-example.html* in the font package *web* folder. For detailed information see [Using SIL Fonts on Web Pages](http://software.sil.org/fonts/webfonts).
+This page uses web fonts (WOFF2) to demonstrate font features and should display correctly in all modern browsers. For a more concise example of how to use Doulos SIL as a web font, see *DoulosSIL-webfont-example.html* in the font package *web* folder. For detailed information see [Using SIL Fonts on Web Pages](http://software.sil.org/fonts/webfonts).
 
-*If this document is not displaying correctly a PDF version is also provided in the documentation/pdf folder of the release package.*
+*If this document is not displaying correctly, a PDF version is also provided in the documentation/pdf folder of the release package.*
 
 ## Complete feature list
 
@@ -332,7 +332,7 @@ Cyrillic-style | <span class='doulos-R normal' style='font-feature-settings: "cv
 
 #### Serbian Cyrillic alternates
 
-*Unlike other features this is activated by tagging the span of text as being in the Serbian language, not by turning on an OpenType feature. It is also not available through TypeTuner Web although a similar feature is supported (cv84).*
+*Unlike other features, this is activated by tagging the span of text as being in the Serbian language, not by turning on an OpenType feature. It is also not available through TypeTuner Web although a similar feature is supported (cv84).*
 
 <span class='affects'>Affects: U+0431</span>
 
@@ -343,7 +343,7 @@ Serbian  | <span class='doulos-R normal' lang='sr'>б</span> | `lang='sr'`
 
 #### Macedonian Cyrillic alternates
 
-*Unlike other features this is activated by tagging the span of text as being in the Macedonian language, not by turning on an OpenType feature. It is also not available through TypeTuner Web although a similar feature is supported (cv84).*
+*Unlike other features, this is activated by tagging the span of text as being in the Macedonian language, not by turning on an OpenType feature. It is also not available through TypeTuner Web although a similar feature is supported (cv84).*
 
 <span class='affects'>Affects: U+0431</span>
 
