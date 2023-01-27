@@ -271,6 +271,8 @@ my %nm_to_tag = (
 	'Lowercase y' => 'SmYTail', #new
 	'Capital D-hook alternate' => 'LgDHk',
 	'Capital D hook' => 'LgDHk', #new
+	'Clicks' => 'Click', #new
+	'Baseline' => 'T', #new
 	'Porsonic circumflex' => 'PorCirc', 
 	'Greek circumflex' => 'PorCirc', #new
 	'Porsonic-style' => 'Por',
@@ -280,6 +282,8 @@ my %nm_to_tag = (
 	'Cyr Serbian Macedonian' => 'SerbMac', #new
 	'Serbian Macedonian forms' => 'SrMk', #new
 	'Diacritic selection' => 'DiacSlct',
+	'Kayan diacritics' => 'Kayan', #new
+	'Side by side' => 'T', #new
 	'Line spacing' => 'LnSpc',
 	'Loose' => 'Ls',
 	'Imported' => 'Im',
@@ -348,7 +352,13 @@ my %featset_to_suffix = (
 	'SmQTail-T' => '\.Point',
 	'SmTTail-Strt' => '\.NoTailT',
 	'SmYTail-Strt' => '\.NoTailY',
+	'Dig1-T' => '\.NoBase', #new
+	'Dig4-Opn' => '\.Open', #new
+	'Dig69-T' => '\.Diag', #new
+	'Dig7-T' => '\.Bar', #new
+	'Zro-T' => '\.Slash', #new
 	'LgDHk-Lc' => '\.TopBar',
+	'Click-T' => '\.bascl', #new
 	'PorCirc-PorStyle' => '\.Por',
 	'PorCirc-Por' => '\.Por', #new
 	'IotaAd-Sub' => '\.ISub',
@@ -365,6 +375,7 @@ my %featset_to_suffix = (
 # Chinantec tones negates low profile diacritics
 # small caps negate the lower case tail variants
 my %reduced_featsets = (
+	'Click-T SmCp-T' => 'SmCp-T', #new
 	'CapQ-T SmQTail-T' => 'SmQTail-T', # lower case glyph not affected by Capital Q alternate
 	'Caron-T SmCp-T' => 'SmCp-T',
 	'CHZtn-T LpDiacs-T' => 'CHZtn-T',
@@ -1515,6 +1526,35 @@ sub Features_output($\%\%\%\%)
 	# }
 
 #bookmark
+	### output "Kayan diacritics" feature
+	unless ($opt_g)
+	{
+		my $kayan_tag = Tag_lookup('Kayan diacritics', %nm_to_tag);
+		my $side_tag = Tag_lookup('Side by side', %nm_to_tag);
+		if (not $opt_t)
+		{ #be careful of tabs in section below for proper output
+			print $fh <<END;
+	<feature name="Kayan diacritics" value="Default" tag="$kayan_tag">
+END
+		}
+		else
+		{
+			print $fh <<END;
+	<feature name="Kayan diacritics" value="$side_tag" tag="$kayan_tag">
+END
+		}
+		print $fh <<END;
+		<value name="Default" tag="Dflt">
+			<cmd name="null" args="null"/>
+		</value>
+		<value name="Side by side" tag="$side_tag">
+			<cmd name="lookup_add" args="GSUB {ccmp_DFLT_dflt} {kayan_grave_ctx}"/>
+			<cmd name="lookup_add" args="GSUB {ccmp_DFLT_dflt} {kayan_sub}"/>
+		</value>
+	</feature>
+END
+	}
+
 	### output line spacing feature
 	unless ($opt_g)
 	{
