@@ -78,7 +78,7 @@ This release is focused on adding features and glyphs, including support for ove
     - U+1DF29 LATIN SMALL LETTER S WITH MID-HEIGHT LEFT HOOK
     - U+1DF2A LATIN SMALL LETTER T WITH MID-HEIGHT LEFT HOOK
 
-- Letters used for Egyptological transiteration
+- Letters used for Egyptological transliteration
     - U+A7BA LATIN CAPITAL LETTER GLOTTAL A
     - U+A7BB LATIN SMALL LETTER GLOTTAL A
     - U+A7BC LATIN CAPITAL LETTER GLOTTAL I
@@ -282,7 +282,7 @@ This release is focused on adding features and glyphs, including support for ove
 - Size increased for:
     - U+02BE MODIFIER LETTER RIGHT HALF RING
     - U+02BF MODIFIER LETTER LEFT HALF RING
-    - U+02D2 MODIFIER LETTER CENTRED RIGHT HALF RING
+    - U+02D2 MODIFIER LETTER CENTRED RIGHT HALF RINGx
     - U+02D3 MODIFIER LETTER CENTRED LEFT HALF RING
 
 - U+00AA FEMININE ORDINAL INDICATOR is now included in single-story/double-story features
