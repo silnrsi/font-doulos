@@ -682,8 +682,8 @@ be sure to add your name (N), email (E), web-address (W) and description
 N: Walt Agee, Jon Coblentz, Sharon Correll, Lorna Evans, Victor Gaultney,
 Bob Hallissy, Martin Hosken, Jonathan Kew, Miriam Martin, Annie Olsen,
 Alan Ward
-E: https://software.sil.org/charis/about/contact/
-W: https://software.sil.org/charis/
+E: https://software.sil.org/doulos/about/contact/
+W: https://software.sil.org/doulos/
 D: SIL designers and font engineers
 
 The Doulos SIL project is maintained by SIL International, a global,
