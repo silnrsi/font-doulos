@@ -10,7 +10,9 @@
   <key>com.schriftgestaltung.appVersion</key>
   <string>3151</string>
   <key>com.schriftgestaltung.customParameter.GSFont.DisplayStrings</key>
-  <array/>
+  <array>
+    <string>/Space/CombBreve -x/MetricalBreve noH/MetricalLongShort o/MetricalShortLong fz/MetricalShortShort tzw/MetricalLongShortShort p/MetricalShortShortLong</string>
+  </array>
   <key>com.schriftgestaltung.customParameter.GSFont.disablesAutomaticAlignment</key>
   <true/>
   <key>com.schriftgestaltung.customParameter.GSFont.disablesLastChange</key>

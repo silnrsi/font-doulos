@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="MetricalLongShort" format="2">
-  <advance width="579"/>
+  <advance width="799"/>
   <unicode hex="23D2"/>
-  <anchor x="289" y="1375" name="U"/>
   <outline>
-    <component base="CombBreve" xOffset="801"/>
+    <contour>
+      <point x="719" y="626" type="curve"/>
+      <point x="654" y="626" type="line"/>
+      <point x="628" y="514"/>
+      <point x="541" y="436"/>
+      <point x="396" y="436" type="curve" smooth="yes"/>
+      <point x="248" y="436"/>
+      <point x="170" y="516"/>
+      <point x="146" y="626" type="curve"/>
+      <point x="80" y="626" type="line"/>
+      <point x="80" y="459"/>
+      <point x="180" y="312"/>
+      <point x="396" y="312" type="curve" smooth="yes"/>
+      <point x="609" y="312"/>
+      <point x="719" y="469"/>
+    </contour>
+    <contour>
+      <point x="719" y="700" type="line"/>
+      <point x="719" y="824" type="line"/>
+      <point x="80" y="824" type="line"/>
+      <point x="80" y="700" type="line"/>
+    </contour>
   </outline>
   <lib>
     <dict>
