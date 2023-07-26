@@ -11,8 +11,7 @@
   <string>3151</string>
   <key>com.schriftgestaltung.customParameter.GSFont.DisplayStrings</key>
   <array>
-    <string>/Space/CombBreve -x/MetricalBreve no/MetricalLongShort o/MetricalShortLong fz/MetricalShortShort/MetricalLongShortShort p/MetricalShortShortLong</string>
-    <string>/LftDblParen/RtDblParen/WigglyVerticalLine/VerticalSixDots/Space/Space/CombDiaer</string>
+    <string>()/LftDblParen n/RtDblParen/LftPtngAngBrac/RtPtngAngBrac/MathLftDblAngleBrac n/MathRtDblAngleBrac/DblSolidus</string>
   </array>
   <key>com.schriftgestaltung.customParameter.GSFont.disablesAutomaticAlignment</key>
   <true/>
