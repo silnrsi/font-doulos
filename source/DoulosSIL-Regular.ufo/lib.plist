@@ -32,7 +32,7 @@
   <string>3151</string>
   <key>com.schriftgestaltung.customParameter.GSFont.DisplayStrings</key>
   <array>
-    <string>/EnDash -/MetricalBreve/MetricalLongShort/MetricalShortLong/MetricalShortShort/MetricalLongShortShort/MetricalShortShortLong</string>
+    <string>/MathLftAngBrac/MathRtAngBrac/LftDblParen h/RtDblParen/MathLftDblAngleBrac O/MathRtDblAngleBrac</string>
   </array>
   <key>com.schriftgestaltung.customParameter.GSFont.disablesAutomaticAlignment</key>
   <true/>

@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="MathLftDblAngleBrac" format="2">
-  <advance width="1035"/>
+  <advance width="1039"/>
   <unicode hex="27EA"/>
   <outline>
     <contour>
-      <point x="614" y="-280" type="line"/>
-      <point x="614" y="-65" type="line"/>
-      <point x="215" y="577" type="line"/>
-      <point x="215" y="555" type="line"/>
-      <point x="614" y="1194" type="line"/>
-      <point x="614" y="1411" type="line"/>
-      <point x="71" y="566" type="line"/>
+      <point x="528" y="-290" type="line"/>
+      <point x="528" y="-20" type="line"/>
+      <point x="222" y="572" type="line"/>
+      <point x="222" y="560" type="line"/>
+      <point x="528" y="1152" type="line"/>
+      <point x="528" y="1421" type="line"/>
+      <point x="85" y="566" type="line"/>
     </contour>
     <contour>
-      <point x="964" y="-280" type="line"/>
-      <point x="964" y="-65" type="line"/>
-      <point x="565" y="577" type="line"/>
-      <point x="565" y="555" type="line"/>
-      <point x="964" y="1194" type="line"/>
-      <point x="964" y="1411" type="line"/>
-      <point x="421" y="566" type="line"/>
+      <point x="868" y="-290" type="line"/>
+      <point x="868" y="-20" type="line"/>
+      <point x="562" y="572" type="line"/>
+      <point x="562" y="560" type="line"/>
+      <point x="868" y="1152" type="line"/>
+      <point x="868" y="1421" type="line"/>
+      <point x="425" y="566" type="line"/>
     </contour>
   </outline>
   <lib>
