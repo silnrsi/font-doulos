@@ -29,11 +29,7 @@
     <array/>
   </dict>
   <key>com.schriftgestaltung.appVersion</key>
-  <string>3151</string>
-  <key>com.schriftgestaltung.customParameter.GSFont.DisplayStrings</key>
-  <array>
-    <string>/MathLftAngBrac/MathRtAngBrac/LftDblParen h/RtDblParen/MathLftDblAngleBrac O/MathRtDblAngleBrac</string>
-  </array>
+  <string>3222</string>
   <key>com.schriftgestaltung.customParameter.GSFont.disablesAutomaticAlignment</key>
   <true/>
   <key>com.schriftgestaltung.customParameter.GSFont.disablesLastChange</key>
