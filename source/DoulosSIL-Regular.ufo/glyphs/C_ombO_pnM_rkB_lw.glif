@@ -5,16 +5,28 @@
   <anchor x="-512" y="-100" name="_L"/>
   <outline>
     <contour>
-      <point x="-367" y="-517" type="curve"/>
-      <point x="-367" y="-446" type="line"/>
-      <point x="-430" y="-446"/>
-      <point x="-491" y="-400"/>
-      <point x="-491" y="-323" type="curve" smooth="yes"/>
-      <point x="-491" y="-132" type="line"/>
-      <point x="-560" y="-132" type="line"/>
-      <point x="-560" y="-323" type="line" smooth="yes"/>
-      <point x="-560" y="-438"/>
-      <point x="-462" y="-517"/>
+      <point x="-329" y="-421" type="curve"/>
+      <point x="-369" y="-421" type="line"/>
+      <point x="-384" y="-443"/>
+      <point x="-403" y="-453"/>
+      <point x="-425" y="-452" type="curve" smooth="yes"/>
+      <point x="-451" y="-451"/>
+      <point x="-473" y="-436"/>
+      <point x="-473" y="-386" type="curve" smooth="yes"/>
+      <point x="-473" y="-158" type="line"/>
+      <point x="-552" y="-158" type="line"/>
+      <point x="-552" y="-398" type="line" smooth="yes"/>
+      <point x="-552" y="-489"/>
+      <point x="-497" y="-520"/>
+      <point x="-444" y="-520" type="curve" smooth="yes"/>
+      <point x="-401" y="-520"/>
+      <point x="-350" y="-489"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
 </glyph>
