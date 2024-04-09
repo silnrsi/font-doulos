@@ -29,7 +29,7 @@
   <key>openTypeNameDescription</key>
   <string>Font family for languages that use Latin and Cyrillic scripts</string>
   <key>openTypeNameDesigner</key>
-  <string>Walt Agee, Victor Gaultney, Peter Martin, Debbi Hosken, Becca Hirsbrunner</string>
+  <string>Walt Agee, Jon Coblentz, Sharon Correll, Lorna Evans, Victor Gaultney, Bob Hallissy, Debbi Hosken, Martin Hosken, Jonathan Kew, Peter Martin, Annie Olsen, David Raymond, Becca Spalinger, Alan Ward</string>
   <key>openTypeNameDesignerURL</key>
   <string>https://software.sil.org/wstech/</string>
   <key>openTypeNameLicense</key>
@@ -255,6 +255,32 @@ THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
   <integer>6</integer>
   <key>versionMinor</key>
   <integer>902</integer>
+  <key>woffMetadataCredits</key>
+  <dict>
+    <key>credits</key>
+    <array>
+      <dict>
+        <key>name</key>
+        <string>Walt Agee, Jon Coblentz, Sharon Correll, Lorna Evans, Victor Gaultney, Bob Hallissy, Debbi Hosken, Martin Hosken, Jonathan Kew, Peter Martin, Annie Olsen, David Raymond, Becca Spalinger, Alan Ward</string>
+        <key>role</key>
+        <string>SIL designers and font engineers</string>
+        <key>url</key>
+        <string>https://software.sil.org/wstech/</string>
+      </dict>
+    </array>
+  </dict>
+  <key>woffMetadataDescription</key>
+  <dict>
+    <key>text</key>
+    <array>
+      <dict>
+        <key>text</key>
+        <string>Doulos SIL is a Unicode-based font family that supports the wide range of languages that use the Latin and Cyrillic scripts, whether used for phonetic or orthographic needs. Linguists appreciate the wide range of characters and symbols useful in their work.</string>
+      </dict>
+    </array>
+    <key>url</key>
+    <string>https://software.sil.org/doulos/history</string>
+  </dict>
   <key>xHeight</key>
   <integer>909</integer>
 </dict>
