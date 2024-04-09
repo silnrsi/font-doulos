@@ -12,6 +12,6 @@ echo "-----Rebuilding composites..."
 psfbuildcomp -i source/composites.txt -c -n source/DoulosSIL-Regular.ufo -p backup=False
 
 # echo "-----Updating woff metadata file..."
-# psfmakewoffmetadata -q -n "DoulosSIL" -i "org.sil.fonts" source/DoulosSIL-Regular.ufo
+# psfmakewoffmetadata -q -n "doulossil" -i "org.sil.fonts" source/DoulosSIL-Regular.ufo
 
 echo "-----Preflight completed!"
