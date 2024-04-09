@@ -10,6 +10,8 @@ APPNAME = 'DoulosSIL'
 familyname = APPNAME
 DEBPKG = 'fonts-sil-doulos'
 
+TESTDIR = ["tests", "../font-latin-private/tests"]
+
 # Get VERSION and BUILDLABEL from Regular UFO; must be first function call:
 getufoinfo('source/' + familyname + '-Regular' + '.ufo')
 
