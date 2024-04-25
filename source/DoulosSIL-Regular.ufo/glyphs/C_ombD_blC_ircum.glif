@@ -2,16 +2,16 @@
 <glyph name="CombDblCircum" format="2">
   <unicode hex="1DCD"/>
   <anchor x="0" y="-100" name="L"/>
-  <anchor x="0" y="1935" name="U"/>
+  <anchor x="0" y="1960" name="U"/>
   <outline>
     <contour>
-      <point x="923" y="1442" type="line"/>
-      <point x="66" y="1886" type="line"/>
-      <point x="-62" y="1886" type="line"/>
-      <point x="-920" y="1442" type="line"/>
-      <point x="-779" y="1442" type="line"/>
-      <point x="1" y="1756" type="line"/>
-      <point x="782" y="1442" type="line"/>
+      <point x="923" y="1470" type="line"/>
+      <point x="66" y="1914" type="line"/>
+      <point x="-62" y="1914" type="line"/>
+      <point x="-920" y="1470" type="line"/>
+      <point x="-779" y="1470" type="line"/>
+      <point x="1" y="1784" type="line"/>
+      <point x="782" y="1470" type="line"/>
     </contour>
   </outline>
 </glyph>
