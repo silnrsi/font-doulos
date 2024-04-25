@@ -3,10 +3,10 @@
   <advance width="682"/>
   <anchor x="483" y="0" name="H"/>
   <anchor x="338" y="-100" name="L"/>
-  <anchor x="570" y="1810" name="U"/>
+  <anchor x="570" y="1910" name="U"/>
   <outline>
     <component base="LtnSmF.SItal"/>
-    <component base="CombDotAbv" xOffset="1082" yOffset="375"/>
+    <component base="CombDotAbv" xOffset="1082" yOffset="475"/>
   </outline>
   <lib>
     <dict>
