@@ -2,7 +2,7 @@
 
 echo "-----Updating UFOs from Glyphs file..."
 psfglyphs2ufo --preservefea source/DoulosSILRoman.glyphs source
-psfremovegliflibkeys source/DoulosSIL-Regular.ufo public.verticalOrigin
+# psfremovegliflibkeys source/DoulosSIL-Regular.ufo public.verticalOrigin
 
 # update psnames and sort order, which also normalizes it
 echo "-----Normalizing UFO..."
