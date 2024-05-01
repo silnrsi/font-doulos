@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="CombTrndCommaAbv.Lrg" format="2">
-  <anchor x="-512" y="1435" name="U"/>
+  <anchor x="-512" y="1535" name="U"/>
   <anchor x="-512" y="1000" name="_U"/>
   <outline>
-    <component base="CombTrndCommaAbv"/>
+    <component base="CombTrndCommaAbv" xScale="1.3" yScale="1.3" xOffset="150" yOffset="-313"/>
   </outline>
   <lib>
     <dict>
       <key>public.markColor</key>
-      <string>0.99,0.62,0.11,1</string>
+      <string>0.97,1,0,1</string>
     </dict>
   </lib>
 </glyph>
