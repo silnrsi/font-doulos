@@ -7336,6 +7336,10 @@
       <comment>UpDwnArrwWBase</comment>
       <string>\u0021A8</string>
     </test>
+    <test label="U+21AE">
+      <comment>LftRtArrwStrk</comment>
+      <string>\u0021AE</string>
+    </test>
     <test label="U+21B6">
       <comment>ACWTopArrw</comment>
       <string>\u0021B6</string>
@@ -7524,6 +7528,18 @@
       <comment>SupersetOfEqTo</comment>
       <string>\u002287</string>
     </test>
+    <test label="U+22BB">
+      <comment>XOR</comment>
+      <string>\u0022BB</string>
+    </test>
+    <test label="U+22BC">
+      <comment>NAND</comment>
+      <string>\u0022BC</string>
+    </test>
+    <test label="U+22BD">
+      <comment>NOR</comment>
+      <string>\u0022BD</string>
+    </test>
     <test label="U+2308">
       <comment>SqrTxtBracHighLft</comment>
       <string>\u002308</string>
@@ -7671,6 +7687,14 @@
     <test label="U+2423">
       <comment>OpnBx</comment>
       <string>\u002423</string>
+    </test>
+    <test label="U+24B6">
+      <comment>LtnCapACirc</comment>
+      <string>\u0024B6</string>
+    </test>
+    <test label="U+24D0">
+      <comment>LtnSmACirc</comment>
+      <string>\u0024D0</string>
     </test>
     <test label="U+25C9">
       <comment>Fisheye</comment>
@@ -7904,6 +7928,10 @@
       <comment>CopCapEie</comment>
       <string>\u002C88</string>
     </test>
+    <test label="U+2C89">
+      <comment>CopSmEie</comment>
+      <string>\u002C89</string>
+    </test>
     <test label="U+2E00">
       <comment>SupplRtAngleSubMkr</comment>
       <string>\u002E00</string>
@@ -8011,6 +8039,14 @@
     <test label="U+2E3E">
       <comment>WigglyVerticalLine</comment>
       <string>\u002E3E</string>
+    </test>
+    <test label="U+A69C">
+      <comment>ModCySmHardSgn</comment>
+      <string>\u00A69C</string>
+    </test>
+    <test label="U+A69D">
+      <comment>ModCySmSoftSgn</comment>
+      <string>\u00A69D</string>
     </test>
     <test label="U+A700">
       <comment>ModTnYinPing</comment>

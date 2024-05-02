@@ -3975,25 +3975,23 @@ U+A7AE" stylename="c2sc_1">
     </test>
     <test label="U+A7B0
 U+A7B1
-U+A7B2
 U+A7B3
 U+A7B4
 U+A7B6
 U+A7B8
 U+A7BA">
-      <comment>LtnCapTurnedK LtnCapTurnedT LtnCapJCrossedTail LtnCapChi LtnCapBeta LtnCapOmega LtnCapUStrk LtnCapAEgAlef</comment>
-      <string>\u00A7B0\u00030D\u00A7B1\u00030D\u00A7B2\u00030D\u00A7B3\u00030D\u00A7B4\u00030D\u00A7B6\u00030D\u00A7B8\u00030D\u00A7BA\u00030D</string>
+      <comment>LtnCapTurnedK LtnCapTurnedT LtnCapChi LtnCapBeta LtnCapOmega LtnCapUStrk LtnCapAEgAlef</comment>
+      <string>\u00A7B0\u00030D\u00A7B1\u00030D\u00A7B3\u00030D\u00A7B4\u00030D\u00A7B6\u00030D\u00A7B8\u00030D\u00A7BA\u00030D</string>
     </test>
     <test label="U+A7B0
 U+A7B1
-U+A7B2
 U+A7B3
 U+A7B4
 U+A7B6
 U+A7B8
 U+A7BA" stylename="c2sc_1">
-      <comment>LtnCapTurnedK LtnCapTurnedT LtnCapJCrossedTail LtnCapChi LtnCapBeta LtnCapOmega LtnCapUStrk LtnCapAEgAlef</comment>
-      <string>\u00A7B0\u00030D\u00A7B1\u00030D\u00A7B2\u00030D\u00A7B3\u00030D\u00A7B4\u00030D\u00A7B6\u00030D\u00A7B8\u00030D\u00A7BA\u00030D</string>
+      <comment>LtnCapTurnedK LtnCapTurnedT LtnCapChi LtnCapBeta LtnCapOmega LtnCapUStrk LtnCapAEgAlef</comment>
+      <string>\u00A7B0\u00030D\u00A7B1\u00030D\u00A7B3\u00030D\u00A7B4\u00030D\u00A7B6\u00030D\u00A7B8\u00030D\u00A7BA\u00030D</string>
     </test>
     <test label="U+A7BC
 U+A7BE
