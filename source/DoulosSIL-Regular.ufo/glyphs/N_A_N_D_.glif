@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="NAND" format="2">
-  <advance width="1120"/>
+  <advance width="1180"/>
   <unicode hex="22BC"/>
   <outline>
     <component base="UpArrwhd"/>
     <contour>
-      <point x="1011" y="-40" type="line"/>
-      <point x="1011" y="83" type="line"/>
-      <point x="110" y="83" type="line"/>
-      <point x="110" y="-40" type="line"/>
+      <point x="1061" y="-50" type="line"/>
+      <point x="1061" y="73" type="line"/>
+      <point x="120" y="73" type="line"/>
+      <point x="120" y="-50" type="line"/>
     </contour>
   </outline>
   <lib>

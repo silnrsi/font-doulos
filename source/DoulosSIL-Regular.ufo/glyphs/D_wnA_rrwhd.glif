@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="DwnArrwhd" format="2">
-  <advance width="1120"/>
+  <advance width="1180"/>
   <unicode hex="2228"/>
   <outline>
     <contour>
-      <point x="1011" y="1069" type="line"/>
-      <point x="875" y="1069" type="line"/>
-      <point x="530" y="220" type="line"/>
-      <point x="591" y="220" type="line"/>
-      <point x="247" y="1069" type="line"/>
-      <point x="110" y="1069" type="line"/>
-      <point x="487" y="160" type="line"/>
-      <point x="634" y="160" type="line"/>
+      <point x="1061" y="1089" type="line"/>
+      <point x="925" y="1089" type="line"/>
+      <point x="560" y="240" type="line"/>
+      <point x="621" y="240" type="line"/>
+      <point x="257" y="1089" type="line"/>
+      <point x="120" y="1089" type="line"/>
+      <point x="517" y="180" type="line"/>
+      <point x="664" y="180" type="line"/>
     </contour>
   </outline>
 </glyph>
