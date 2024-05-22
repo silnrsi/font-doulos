@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="RtSqrBrac.sc" format="2">
+  <advance width="611"/>
+  <outline>
+    <contour>
+      <point x="459" y="-170" type="line"/>
+      <point x="459" y="1202" type="line"/>
+      <point x="75" y="1202" type="line"/>
+      <point x="75" y="1129" type="line"/>
+      <point x="322" y="1129" type="line"/>
+      <point x="322" y="-93" type="line"/>
+      <point x="75" y="-93" type="line"/>
+      <point x="75" y="-170" type="line"/>
+    </contour>
+  </outline>
+</glyph>
