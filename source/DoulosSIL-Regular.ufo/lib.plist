@@ -1498,6 +1498,7 @@ g/CombDblInvBreveBlw gg/CombDblBreveBlw gg/CombDblMacronBlw gg/CombDblRtArrwBlw 
     <string>LtnSmLCurl</string>
     <string>LtnSmLBelt</string>
     <string>ModSmLBelt</string>
+    <string>LtnSmLBeltPalHook</string>
     <string>LtnSmLRetrHookBelt</string>
     <string>ModSmLRetrHookBelt</string>
     <string>LtnSmLHighBar.SItal</string>
@@ -2022,7 +2023,6 @@ g/CombDblInvBreveBlw gg/CombDblBreveBlw gg/CombDblMacronBlw gg/CombDblRtArrwBlw 
     <string>ModSmTRetrHook</string>
     <string>LtnSmTMidLftHook</string>
     <string>LtnSmTCurl</string>
-    <string>LtnSmLBeltPalHook</string>
     <string>LtnSmTum</string>
     <string>LtnSmTHStrk</string>
     <string>LtnSmTcDigraphCurl</string>
