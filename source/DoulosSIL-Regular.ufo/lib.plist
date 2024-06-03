@@ -2157,9 +2157,6 @@ g/CombDblInvBreveBlw gg/CombDblBreveBlw gg/CombDblMacronBlw gg/CombDblRtArrwBlw 
     <string>LtnCapUHornHookAbv</string>
     <string>LtnCapUHornDotBlw</string>
     <string>LtnCapVHook</string>
-    <string>LtnCapVDiagStrk</string>
-    <string>LtnCapVYDigraph</string>
-    <string>LtnCapVend</string>
     <string>LtnCapUpsilon</string>
     <string>LtnSmV.SItal</string>
     <string>SmRomNumFive</string>
@@ -2175,15 +2172,14 @@ g/CombDblInvBreveBlw gg/CombDblBreveBlw gg/CombDblMacronBlw gg/CombDblRtArrwBlw 
     <string>ModSmVRtHook</string>
     <string>LtnSmVHook.StraightLft</string>
     <string>LtnSmVHook.StraightLftHighHook</string>
-    <string>CyCapIzhitsa</string>
+    <string>CySmIzhitsa</string>
     <string>LtnSmVCurl</string>
     <string>LtnSmVDiagStrk</string>
     <string>LtnSmVDiagStrk.SItal</string>
-    <string>LtnSmVYDigraph</string>
-    <string>LtnSmVend</string>
     <string>SmRomNumSix</string>
     <string>SmRomNumSeven</string>
     <string>SmRomNumEight</string>
+    <string>LtnSmVend</string>
     <string>LtnSmTurnedV</string>
     <string>LtnSupSmTurnedV</string>
     <string>LtnSmRamsHorn.LrgBowl</string>
@@ -2202,13 +2198,15 @@ g/CombDblInvBreveBlw gg/CombDblBreveBlw gg/CombDblMacronBlw gg/CombDblRtArrwBlw 
     <string>LtnSmCapV</string>
     <string>LtnCapVTilde</string>
     <string>LtnCapVDotBlw</string>
+    <string>LtnCapVDiagStrk</string>
     <string>V_Versicle</string>
     <string>LtnCapVHook.StraightLft</string>
     <string>LtnCapVHook.StraightLftHighHook</string>
-    <string>CySmIzhitsa</string>
+    <string>CyCapIzhitsa</string>
     <string>RomNumSix</string>
     <string>RomNumSeven</string>
     <string>RomNumEight</string>
+    <string>LtnCapVend</string>
     <string>LtnCapTurnedV</string>
     <string>GrSmCapLamda</string>
     <string>MathFrktCapV</string>
@@ -2225,6 +2223,7 @@ g/CombDblInvBreveBlw gg/CombDblBreveBlw gg/CombDblMacronBlw gg/CombDblRtArrwBlw 
     <string>LtnSmWRingAbv</string>
     <string>LtnSmWDotBlw</string>
     <string>LtnSmWHook</string>
+    <string>LtnSmVYDigraph</string>
     <string>LtnBilabialPercussive</string>
     <string>LtnSmTurnedW</string>
     <string>CombLtnSmTurnedWBlw</string>
@@ -2243,6 +2242,7 @@ g/CombDblInvBreveBlw gg/CombDblBreveBlw gg/CombDblMacronBlw gg/CombDblRtArrwBlw 
     <string>LtnCapWDotAbv</string>
     <string>LtnCapWDotBlw</string>
     <string>LtnCapWHook</string>
+    <string>LtnCapVYDigraph</string>
     <string>LtnCapOmega</string>
     <string>WonSgn</string>
     <string>CySmHa</string>
