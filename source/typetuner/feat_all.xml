@@ -555,6 +555,12 @@
 			<cmd name="null" args="null" />
 		</value>
 		<value name="Small caps" tag="T">
+			<cmd name="encode" args="0028 parenleft.sc" />
+			<cmd name="encode" args="0029 parenright.sc" />
+			<cmd name="encode" args="005B bracketleft.sc" />
+			<cmd name="encode" args="005D bracketright.sc" />
+			<cmd name="encode" args="007B braceleft.sc" />
+			<cmd name="encode" args="007D braceright.sc" />
 			<cmd name="encode" args="0061 a.sc" />
 			<cmd name="encode" args="0430 uni0430.sc" />
 			<cmd name="encode" args="00E1 aacute.sc" />
@@ -1138,24 +1144,6 @@
 			<cmd name="encode" args="2980 uni2980.sc" />
 			<cmd name="encode" args="A725 uniA725.sc" />
 			<cmd name="encode" args="A723 uniA723.sc" />
-		</value>
-	</feature>
-	<feature name="Old style figures" value="Default" tag="OSF">
-		<value name="Default" tag="Dflt">
-			<cmd name="null" args="null" />
-		</value>
-		<value name="Old style" tag="T">
-			<cmd name="null" args="null" />
-			<!-- cmd name="encode" args="0030 zero.osf" />
-			<cmd name="encode" args="0031 one.osf" />
-			<cmd name="encode" args="0032 two.osf" />
-			<cmd name="encode" args="0033 three.osf" />
-			<cmd name="encode" args="0034 four.osf" />
-			<cmd name="encode" args="0035 five.osf" />
-			<cmd name="encode" args="0036 six.osf" />
-			<cmd name="encode" args="0037 seven.osf" />
-			<cmd name="encode" args="0038 eight.osf" />
-			<cmd name="encode" args="0039 nine.osf" / -->
 		</value>
 	</feature>
 	<feature name="Kayan diacritics" value="Standard (stacked)" tag="Kayan">
