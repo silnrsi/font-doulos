@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="CombDblMacronBlw" format="2">
   <unicode hex="035F"/>
-  <anchor x="0" y="-700" name="L"/>
-  <anchor x="0" y="1458" name="U"/>
+  <anchor x="0" y="-900" name="L"/>
+  <anchor x="0" y="1508" name="U"/>
   <outline>
     <contour>
-      <point x="643" y="-647" type="line"/>
-      <point x="643" y="-536" type="line"/>
-      <point x="-643" y="-536" type="line"/>
-      <point x="-643" y="-647" type="line"/>
+      <point x="643" y="-747" type="line"/>
+      <point x="643" y="-636" type="line"/>
+      <point x="-643" y="-636" type="line"/>
+      <point x="-643" y="-747" type="line"/>
     </contour>
   </outline>
 </glyph>
