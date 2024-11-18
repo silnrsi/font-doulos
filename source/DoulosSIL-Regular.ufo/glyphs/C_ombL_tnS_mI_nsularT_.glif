@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="CombLtnSmInsularT" format="2">
   <unicode hex="1ACE"/>
-  <anchor x="-512" y="996" name="L"/>
-  <anchor x="-535" y="1656" name="U"/>
+  <anchor x="-512" y="1675" name="U"/>
+  <anchor x="-512" y="1000" name="_U"/>
   <outline>
     <contour>
       <point x="-275" y="1480" type="line"/>
