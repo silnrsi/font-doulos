@@ -1290,6 +1290,7 @@ g/CombDblInvBreveBlw gg/CombDblBreveBlw gg/CombDblMacronBlw gg/CombDblRtArrwBlw 
     <string>LtnSmIRetrHook.Dotless</string>
     <string>LtnSmIStrk.Dotless</string>
     <string>LtnSupSmIStrk.Dotless</string>
+    <string>LtnSmIStrkRetrHook.Dotless</string>
     <string>LtnSmTrndI</string>
     <string>ModSmTrndI</string>
     <string>LtnSmLigIj</string>
@@ -8864,6 +8865,8 @@ g/CombDblInvBreveBlw gg/CombDblBreveBlw gg/CombDblMacronBlw gg/CombDblRtArrwBlw 
     <string>uni0268.sc</string>
     <key>LtnSmIStrkRetrHook</key>
     <string>u1DF1A</string>
+    <key>LtnSmIStrkRetrHook.Dotless</key>
+    <string>u1DF1A.Dotless</string>
     <key>LtnSmITilde</key>
     <string>itilde</string>
     <key>LtnSmITilde.SItal</key>
