@@ -24,7 +24,7 @@ base+diacritic combinations.
 
 The OFL prohibits the use of Reserved Font Names "Doulos" and "SIL" in
 the name of any font that is derived from the Original Version of Doulos
-SIL. However, SIL International (the Copyright Holder) grants through
+SIL. However, SIL Global (the Copyright Holder) grants through
 this separate written agreement the right to use the Reserved Font Names
 in any Modified Version of this font created by using TypeTuner as long
 as the feature information contained in the Original Version is used, 
@@ -680,7 +680,7 @@ E: https://software.sil.org/doulos/about/contact/
 W: https://software.sil.org/doulos/
 D: SIL designers and font engineers
 
-The Doulos SIL project is maintained by SIL International, a global,
+The Doulos SIL project is maintained by SIL Global, a global,
 faith-based nonprofit that works with local communities around the world
 to develop language solutions that expand possibilities for a better life.
 
