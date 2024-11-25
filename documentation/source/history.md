@@ -1,6 +1,6 @@
 ---
 title: Doulos SIL - Version History
-fontversion: 6.200
+fontversion: 7.000
 ---
 
 ### 1 Feb 2023 (SIL WSTech Team) Doulos SIL version 6.200

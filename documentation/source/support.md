@@ -1,6 +1,6 @@
 ---
 title: Doulos SIL - Support
-fontversion: 6.200
+fontversion: 7.000
 ---
 
 ## Support options

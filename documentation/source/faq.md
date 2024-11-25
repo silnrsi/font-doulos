@@ -1,6 +1,6 @@
 ---
 title: Doulos SIL - Frequently Asked Questions
-fontversion: 6.200
+fontversion: 7.000
 ---
 
 Many questions can be answered by consulting the following FAQ pages. Here are a few sample questions answered in each FAQ:
