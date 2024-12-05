@@ -16,7 +16,7 @@ Many questions can be answered by consulting the following FAQ pages. Here are a
     - *How can I type IPA symbols?*
     - *How do I use both a single-story and double-story 'a' in italic?*
     - *Why don’t my diacritics position properly?*
-    - *Why is the line spacing so much looser that other fonts?*
+    - *Why is the line spacing so much looser than other fonts?*
 
 - [The SIL Open Font License (OFL-FAQ)](https://openfontlicense.org/ofl-faq)
     - *Can I use this font for...?*
@@ -37,3 +37,7 @@ We have no plans to do that. However the [OFL licensing](https://openfontlicense
 #### *Why doesn’t Doulos SIL have a full set of styles? Will you add them in the future?*
 
 Our other fonts (Charis, Gentium, and Andika) are much better suited for most purposes and contain full sets of styles. Doulos SIL is provided for those who need a very basic font in the style of Times. We have no plans to add additional styles to Doulos SIL.
+
+#### *Why is version 7 likely to be the last major version of Doulos SIL?*
+
+There remain few, if any, uses for which Doulos SIL is a good font choice, and we want to focus future efforts into our other fonts.

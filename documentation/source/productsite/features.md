@@ -3,8 +3,6 @@ Doulos SIL is an OpenType-enabled font that supports the Latin and Cyrillic scri
 
 These OpenType features are primarily specified using four-letter tags (e.g. 'cv17'), although some applications may provide a direct way to control certain common features such as small caps. For more information on how to access OpenType features in specific environments and applications, see [Using Font Features](https://software.sil.org/fonts/features).
 
-*Please note that Graphite support has been removed in the current release, but continues to be available in the version 5 fonts. See our [Previous Versions archive](https://software.sil.org/doulos/download/previous-versions).*
-
 This page uses web fonts (WOFF2) to demonstrate font features and should display correctly in all modern browsers. For a more concise example of how to use Doulos SIL as a web font, see *DoulosSIL-webfont-example.html* in the font package *web* folder. For detailed information see [Using SIL Fonts on Web Pages](https://software.sil.org/fonts/webfonts).
 
 *If this document is not displaying correctly, a PDF version is also provided in the documentation/pdf folder of the release package.*
@@ -15,12 +13,12 @@ This page uses web fonts (WOFF2) to demonstrate font features and should display
 
 #### Small caps from lowercase
 
-<span class='affects'>Affects: all lowercase letters with capital equivalents</span>
+<span class='affects'>Affects: all lowercase letters with capital equivalents and some bracketing punctuation</span>
 
 Feature | Sample                      | Feature setting
 ------- | --------------------------- | -------
-Standard   | <span class='doulos-R normal'>a ... z</span> (all letters with capital equivalents) | `smcp=0`
-Small caps | <span class='doulos-smcp-1-R normal'>a ... z</span> (all letters with capital equivalents) | `smcp=1`
+Standard   | <span class='doulos-R normal'>a ... z</span> (all letters with capital equivalents) ( ) [ ] { } | `smcp=0`
+Small caps | <span class='doulos-smcp-1-R normal'>a ... z</span> (all letters with capital equivalents) ( ) [ ] { } | `smcp=1`
 
 #### Small caps from capitals
 
@@ -213,13 +211,13 @@ Large bowl | <span class='doulos-cv19-1-R normal'>ʓ</span> | `cv19=1`
 
 #### rams horn
 
-<span class='affects'>Affects: U+0264</span>
+<span class='affects'>Affects: U+0264 U+10791</span>
 
 Feature | Sample                      | Feature setting
 ------- | --------------------------- | -------
-Standard    | <span class='doulos-R normal'>ɤ</span> | `cv25=0`
-Large bowl  | <span class='doulos-cv25-1-R normal'>ɤ</span> | `cv25=1`
-Small gamma | <span class='doulos-cv25-2-R normal'>ɤ</span> | `cv25=2`
+Standard    | <span class='doulos-R normal'>ɤ 𐞑</span> | `cv25=0`
+Large bowl  | <span class='doulos-cv25-1-R normal'>ɤ 𐞑</span> | `cv25=1`
+Small gamma | <span class='doulos-cv25-2-R normal'>ɤ 𐞑</span> | `cv25=2`
 
 #### Clicks
 
@@ -270,12 +268,12 @@ Global-style | <span class='doulos-cv77-1-R normal'>ď Ľ ľ ť</span> | `cv77=1
 
 #### Modifier apostrophe
 
-<span class='affects'>Affects: U+02BC U+A78B U+A78C</span>
+<span class='affects'>Affects: U+02BC U+0312 U+0314 U+A78B U+A78C</span>
 
 Feature | Sample                      | Feature setting
 ------- | --------------------------- | -------
-Standard | <span class='doulos-R normal'>ʼ Ꞌ ꞌ</span> | `cv70=0`
-Large    | <span class='doulos-cv70-1-R normal'>ʼ Ꞌ ꞌ</span> | `cv70=1`
+Standard | <span class='doulos-R normal'>ʼ  ̒  ̔ Ꞌ ꞌ</span> | `cv70=0`
+Large    | <span class='doulos-cv70-1-R normal'>ʼ  ̒  ̔ Ꞌ ꞌ</span> | `cv70=1`
 
 #### Modifier colon
 
@@ -350,7 +348,7 @@ Macedonian | <span class='doulos-R normal' lang='mk'>б</span> | `lang='mk'`
 
 #### Serbian and Macedonian Cyrillic alternates
 
-*This feature provides an alternate way to activate the Serbian and Macedonian forms in applications that do not support language-specific features.*
+*This feature provides an alternate way to activate the Serbian and Macedonian forms in applications that do not support language-specific features. It cannot, however, be used to explicitly turn off these forms in text tagged as being in the Serbian or Macedonian languages.*
 
 <span class='affects'>Affects: U+0431</span>
 
