@@ -19,12 +19,12 @@ This page uses web fonts (WOFF2) to demonstrate font features and should display
 
 #### Small caps from lowercase
 
-<span class='affects'>Affects: all lowercase letters with capital equivalents</span>
+<span class='affects'>Affects: all lowercase letters with capital equivalents and some bracketing punctuation</span>
 
 Feature | Sample                      | Feature setting
 ------- | --------------------------- | -------
-Standard   | <span class='doulos-R normal'>a ... z</span> (all letters with capital equivalents) | `smcp=0`
-Small caps | <span class='doulos-R normal' style='font-feature-settings: "smcp" 1'>a ... z</span> (all letters with capital equivalents) | `smcp=1`
+Standard   | <span class='doulos-R normal'>a ... z</span> (all letters with capital equivalents) ( ) [ ] { } | `smcp=0`
+Small caps | <span class='doulos-R normal' style='font-feature-settings: "smcp" 1'>a ... z</span> (all letters with capital equivalents) ( ) [ ] { } | `smcp=1`
 
 #### Small caps from capitals
 
@@ -217,13 +217,13 @@ Large bowl | <span class='doulos-R normal' style='font-feature-settings: "cv19" 
 
 #### rams horn
 
-<span class='affects'>Affects: U+0264</span>
+<span class='affects'>Affects: U+0264 U+10791</span>
 
 Feature | Sample                      | Feature setting
 ------- | --------------------------- | -------
-Standard    | <span class='doulos-R normal'>ɤ</span> | `cv25=0`
-Large bowl  | <span class='doulos-R normal' style='font-feature-settings: "cv25" 1'>ɤ</span> | `cv25=1`
-Small gamma | <span class='doulos-R normal' style='font-feature-settings: "cv25" 2'>ɤ</span> | `cv25=2`
+Standard    | <span class='doulos-R normal'>ɤ 𐞑</span> | `cv25=0`
+Large bowl  | <span class='doulos-R normal' style='font-feature-settings: "cv25" 1'>ɤ 𐞑</span> | `cv25=1`
+Small gamma | <span class='doulos-R normal' style='font-feature-settings: "cv25" 2'>ɤ 𐞑</span> | `cv25=2`
 
 #### Clicks
 
@@ -274,12 +274,12 @@ Global-style | <span class='doulos-R normal' style='font-feature-settings: "cv77
 
 #### Modifier apostrophe
 
-<span class='affects'>Affects: U+02BC U+A78B U+A78C</span>
+<span class='affects'>Affects: U+02BC U+0312 U+0314 U+A78B U+A78C</span>
 
 Feature | Sample                      | Feature setting
 ------- | --------------------------- | -------
-Standard | <span class='doulos-R normal'>ʼ Ꞌ ꞌ</span> | `cv70=0`
-Large    | <span class='doulos-R normal' style='font-feature-settings: "cv70" 1'>ʼ Ꞌ ꞌ</span> | `cv70=1`
+Standard | <span class='doulos-R normal'>ʼ  ̒  ̔ Ꞌ ꞌ</span> | `cv70=0`
+Large    | <span class='doulos-R normal' style='font-feature-settings: "cv70" 1'>ʼ  ̒  ̔ Ꞌ ꞌ</span> | `cv70=1`
 
 #### Modifier colon
 
@@ -354,7 +354,7 @@ Macedonian | <span class='doulos-R normal' lang='mk'>б</span> | `lang='mk'`
 
 #### Serbian and Macedonian Cyrillic alternates
 
-*This feature provides an alternate way to activate the Serbian and Macedonian forms in applications that do not support language-specific features.*
+*This feature provides an alternate way to activate the Serbian and Macedonian forms in applications that do not support language-specific features. It cannot, however, be used to explicitly turn off these forms in text tagged as being in the Serbian or Macedonian languages.*
 
 <span class='affects'>Affects: U+0431</span>
 
