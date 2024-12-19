@@ -39,7 +39,8 @@ o/CombDblInvBreveBlw.blwhigh oo/CombDblBreveBlw.blwhigh oo/CombDblMacronBlw.blwh
 g/CombDblInvBreveBlw gg/CombDblBreveBlw gg/CombDblMacronBlw gg/CombDblRtArrwBlw g/Space g/CombDblBreveBlw/CombDblInvBreveBlw.blwlow gg/CombDblBreveBlw/CombDblBreveBlw.blwlow gg/CombDblBreveBlw/CombDblMacronBlw.blwlow gg/CombDblBreveBlw/CombDblRtArrwBlw.blwlow g</string>
     <string>/LtnSmLambda/LtnSmLambdaStrk/LtnCapLambda/LtnCapLambdaStrk/LtnCapLStrk/LtnCapSFullDiagStrk/LtnSmSFullDiagStrk/LtnCapCStrk/LtnSmCStrk/LtnCapTDiagStrk/LtnSmTDiagStrk/LtnCapVDiagStrk/LtnSmVDiagStrk 
 T/CyCapDje/CyCapTje/CySmTje/CySmHardSgn/CySmNje/CyCapYat/CySmYat/CyCapKomiTje/CySmKomiTje 
-x/LtnSmTrndI n/ModSmTurnedH/ModSmX/ModSmTrndI/ModSmR x/SupplDownwardsAncora/KayahLiSignCwi</string>
+x/LtnSmTrndI n/ModSmTurnedH/ModSmX/ModSmTrndI/ModSmR x/SupplDownwardsAncora/KayahLiSignCwi 
+´/ModAcuteAccent/ModLowAcuteAccent/Space `/ModGraveAccent/ModLowGraveAccent</string>
   </array>
   <key>com.schriftgestaltung.customParameter.GSFont.disablesAutomaticAlignment</key>
   <true/>
