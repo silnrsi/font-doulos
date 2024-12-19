@@ -1,11 +1,58 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="CyCapTje" format="2">
-  <advance width="1384"/>
+  <advance width="1366"/>
   <unicode hex="1C89"/>
   <anchor x="685" y="-100" name="L"/>
   <anchor x="685" y="1435" name="U"/>
   <outline>
-    <component base="CyCapHardSgn"/>
+    <contour>
+      <point x="1299" y="384" type="curve" smooth="yes"/>
+      <point x="1299" y="615"/>
+      <point x="1125" y="753"/>
+      <point x="743" y="753" type="curve" smooth="yes"/>
+      <point x="691" y="753"/>
+      <point x="666" y="750"/>
+      <point x="623" y="743" type="curve"/>
+      <point x="623" y="1289" type="line"/>
+      <point x="431" y="1283" type="line"/>
+      <point x="431" y="246" type="line" smooth="yes"/>
+      <point x="431" y="94"/>
+      <point x="428" y="51"/>
+      <point x="260" y="38" type="curve"/>
+      <point x="260" y="0" type="line"/>
+      <point x="794" y="0" type="line" smooth="yes"/>
+      <point x="1028" y="0"/>
+      <point x="1299" y="124"/>
+    </contour>
+    <contour>
+      <point x="1062" y="391" type="curve" smooth="yes"/>
+      <point x="1062" y="158"/>
+      <point x="885" y="73"/>
+      <point x="721" y="73" type="curve" smooth="yes"/>
+      <point x="624" y="73"/>
+      <point x="623" y="74"/>
+      <point x="623" y="171" type="curve" smooth="yes"/>
+      <point x="623" y="668" type="line"/>
+      <point x="658" y="673"/>
+      <point x="704" y="674"/>
+      <point x="743" y="674" type="curve" smooth="yes"/>
+      <point x="958" y="674"/>
+      <point x="1062" y="607"/>
+    </contour>
+    <contour>
+      <point x="372" y="1273" type="curve" smooth="yes"/>
+      <point x="682" y="1273" type="line" smooth="yes"/>
+      <point x="859" y="1273"/>
+      <point x="931" y="1216"/>
+      <point x="950" y="1038" type="curve"/>
+      <point x="999" y="1038" type="line"/>
+      <point x="980" y="1356" type="line"/>
+      <point x="75" y="1356" type="line"/>
+      <point x="55" y="1038" type="line"/>
+      <point x="105" y="1038" type="line"/>
+      <point x="124" y="1216"/>
+      <point x="195" y="1273"/>
+    </contour>
   </outline>
   <lib>
     <dict>

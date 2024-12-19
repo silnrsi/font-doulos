@@ -37,7 +37,9 @@ O/CombDblInvBreve.mid OO/CombDblBreve.mid OO/CombDblCircum.mid OO/CombDblTilde.m
 o/CombDblInvBreve.low oo/CombDblBreve.low oo/CombDblCircum.low oo/CombDblTilde.low oo/CombDblMacron.low oo/CombDblDiaer.low o
 o/CombDblInvBreveBlw.blwhigh oo/CombDblBreveBlw.blwhigh oo/CombDblMacronBlw.blwhigh oo/CombDblRtArrwBlw.blwhigh o
 g/CombDblInvBreveBlw gg/CombDblBreveBlw gg/CombDblMacronBlw gg/CombDblRtArrwBlw g/Space g/CombDblBreveBlw/CombDblInvBreveBlw.blwlow gg/CombDblBreveBlw/CombDblBreveBlw.blwlow gg/CombDblBreveBlw/CombDblMacronBlw.blwlow gg/CombDblBreveBlw/CombDblRtArrwBlw.blwlow g</string>
-    <string>/LtnSmLambda/LtnSmLambdaStrk/LtnCapLambda/LtnCapLambdaStrk/LtnCapLStrk</string>
+    <string>/LtnSmLambda/LtnSmLambdaStrk/LtnCapLambda/LtnCapLambdaStrk/LtnCapLStrk/LtnCapSFullDiagStrk/LtnSmSFullDiagStrk/LtnCapCStrk/LtnSmCStrk/LtnCapTDiagStrk/LtnSmTDiagStrk/LtnCapVDiagStrk/LtnSmVDiagStrk 
+T/CyCapDje/CyCapTje/CySmTje/CySmHardSgn/CySmNje/CyCapYat/CySmYat/CyCapKomiTje/CySmKomiTje 
+x/LtnSmTrndI n/ModSmTurnedH/ModSmX/ModSmTrndI/ModSmR x/SupplDownwardsAncora/KayahLiSignCwi</string>
   </array>
   <key>com.schriftgestaltung.customParameter.GSFont.disablesAutomaticAlignment</key>
   <true/>
