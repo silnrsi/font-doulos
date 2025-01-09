@@ -131,8 +131,6 @@ fontversion: 7.000
     - U+02CE MODIFIER LETTER LOW GRAVE ACCENT
     - U+02CF MODIFIER LETTER LOW ACUTE ACCENT
 
-- Autohinting is more consistent across the font family
-
 ### 1 Feb 2023 (SIL WSTech Team) Doulos SIL version 6.200
 
 This release is focused on adding features and glyphs, including support for over 180 additional characters mostly from Unicode 14 and 15. It does not include significant changes to line spacing, glyph widths, or kerning that might cause document reflow or layout changes - except for minor improvements to the size and weight of superscript, subscript, and modifier letters.
