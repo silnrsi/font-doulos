@@ -29,7 +29,7 @@
     <array/>
   </dict>
   <key>com.schriftgestaltung.appVersion</key>
-  <string>3316</string>
+  <string>3337</string>
   <key>com.schriftgestaltung.customParameter.GSFont.DisplayStrings</key>
   <array>
     <string>l/CombDblInvBreve l/Space l/CombDblBreve l/Space l/CombDblCircum l/Space l/CombDblTilde l/Space l/CombDblMacron l/Space l/CombDblDiaer l/Space/LtnSmLCaron.Caron/CombDblInvBreve.high/LtnSmLCaron.Caron/Space/LtnSmLCaron.Caron/CombDblBreve.high/LtnSmLCaron.Caron/Space/LtnSmLCaron.Caron/CombDblCircum.high/LtnSmLCaron.Caron/Space/LtnSmLCaron.Caron/CombDblTilde.high/LtnSmLCaron.Caron/Space/LtnSmLCaron.Caron/CombDblMacron.high/LtnSmLCaron.Caron/Space/LtnSmLCaron.Caron/CombDblDiaer.high/LtnSmLCaron.Caron 
@@ -46,6 +46,8 @@ x/LtnSmLTrnd/LtnSmTrndI/LtnSmLDotBlw n/ModSmTurnedH/ModSmX/ModSmTrndI/ModSmR x/S
   <true/>
   <key>com.schriftgestaltung.customParameter.GSFont.disablesLastChange</key>
   <true/>
+  <key>com.schriftgestaltung.customParameter.GSFont.uniqueID</key>
+  <string>SIL Global: Doulos SIL Regular: 2025</string>
   <key>com.schriftgestaltung.customParameter.GSFont.useNiceNames</key>
   <integer>0</integer>
   <key>com.schriftgestaltung.customParameter.GSFontMaster.customValue</key>
