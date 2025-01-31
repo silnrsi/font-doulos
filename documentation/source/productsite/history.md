@@ -13,6 +13,9 @@
 
 #### Feature enhancements
 
+- The default form for capital N with left hook has been changed to the lowercase style to match the capital Eng. The related feature (`cv44`) has been changed to substitute the uppercase style form.
+    - U+019D LATIN CAPITAL LETTER N WITH LEFT HOOK
+
 - Additions to Modifier Apostrophe feature (`cv70`)
     - U+0312 COMBINING TURNED COMMA ABOVE
     - U+0314 COMBINING REVERSED COMMA ABOVE
@@ -126,8 +129,6 @@
     - U+02CB MODIFIER LETTER GRAVE ACCENT
     - U+02CE MODIFIER LETTER LOW GRAVE ACCENT
     - U+02CF MODIFIER LETTER LOW ACUTE ACCENT
-
-- Autohinting is more consistent across the font family
 
 ### 1 Feb 2023 (SIL WSTech Team) Doulos SIL version 6.200
 

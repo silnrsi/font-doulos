@@ -17,6 +17,9 @@ fontversion: 7.000
 
 #### Feature enhancements
 
+- The default form for capital N with left hook has been changed to the lowercase style to match the capital Eng. The related feature (`cv44`) has been changed to substitute the uppercase style form.
+    - U+019D LATIN CAPITAL LETTER N WITH LEFT HOOK
+
 - Additions to Modifier Apostrophe feature (`cv70`)
     - U+0312 COMBINING TURNED COMMA ABOVE
     - U+0314 COMBINING REVERSED COMMA ABOVE

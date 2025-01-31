@@ -125,7 +125,7 @@ Alt. lowercase style on baseline  | <span class='doulos-cv43-3-R normal'>Ŋ</spa
 Feature | Sample                      | Feature setting
 ------- | --------------------------- | -------
 Standard        | <span class='doulos-R normal'>Ɲ</span> | `cv44=0`
-Lowercase-style | <span class='doulos-cv44-1-R normal'>Ɲ</span> | `cv44=1`
+Uppercase-style | <span class='doulos-cv44-1-R normal'>Ɲ</span> | `cv44=1`
 
 #### Open-O
 
