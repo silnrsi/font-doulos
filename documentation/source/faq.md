@@ -41,3 +41,7 @@ Our other fonts (Charis, Gentium, and Andika) are much better suited for most pu
 #### *Why is version 7 likely to be the last major version of Doulos SIL?*
 
 There remain few, if any, uses for which Doulos SIL is a good font choice, and we want to focus future efforts into our other fonts.
+
+#### *Is there a guide to the many versions of Doulos SIL and its variants?*
+
+Yes! See the [Versions](versions.md) page.
