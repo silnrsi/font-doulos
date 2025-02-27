@@ -120,7 +120,7 @@
 		LtnSmMAcute.sc LtnSmMDotAbv.sc LtnSmMDotBlw.sc LtnSmMHook.sc
 		LtnSmN.sc LtnSmNAcute.sc LtnSmNCaron.sc LtnSmNCedilla.sc
 		LtnSmNCircumBlw.sc LtnSmNDesc.sc LtnSmNDiagStrk.sc LtnSmNDotAbv.sc
-		LtnSmNDotBlw.sc LtnSmNGrave.sc LtnSmNLftHook.LCStyle.sc LtnSmNLftHook.sc
+		LtnSmNDotBlw.sc LtnSmNGrave.sc LtnSmNLftHook.UCStyle.sc LtnSmNLftHook.sc
 		LtnSmNLineBlw.sc LtnSmNLngRtLeg.sc LtnSmNTilde.sc LtnSmNj.sc
 		LtnSmO.sc LtnSmOAcute.sc LtnSmOBreve.sc LtnSmOCaron.sc
 		LtnSmOCircum.sc LtnSmOCircumAcute.VN.sc LtnSmOCircumAcute.sc LtnSmOCircumDotBlw.sc
@@ -299,7 +299,7 @@
 		LtnSmMAcute LtnSmMDotAbv LtnSmMDotBlw LtnSmMHook
 		LtnSmN LtnSmNAcute LtnSmNCaron LtnSmNCedilla
 		LtnSmNCircumBlw LtnSmNDesc LtnSmNDiagStrk LtnSmNDotAbv
-		LtnSmNDotBlw LtnSmNGrave LtnSmNLftHook.LCStyle LtnSmNLftHook
+		LtnSmNDotBlw LtnSmNGrave LtnSmNLftHook.UCStyle LtnSmNLftHook
 		LtnSmNLineBlw LtnSmNLngRtLeg LtnSmNTilde LtnSmNj
 		LtnSmO LtnSmOAcute LtnSmOBreve LtnSmOCaron
 		LtnSmOCircum LtnSmOCircumAcute.VN LtnSmOCircumAcute LtnSmOCircumDotBlw
@@ -1236,7 +1236,7 @@
 		LtnCapLj LtnCapM LtnCapMDotBlw LtnCapMHook
 		LtnCapMHookDep LtnCapN LtnCapNCedilla LtnCapNCircumBlw
 		LtnCapNDesc LtnCapNDiagStrk LtnCapNDotBlw LtnCapNLftHook
-		LtnCapNLftHook.LCStyle LtnCapNLineBlw LtnCapNLngRtLeg LtnCapNSmJ
+		LtnCapNLftHook.UCStyle LtnCapNLineBlw LtnCapNLngRtLeg LtnCapNSmJ
 		LtnCapNj LtnCapO LtnCapOCurl LtnCapODotBlw
 		LtnCapOHorn LtnCapOHornDotBlw LtnCapOLngStrk LtnCapOMiddleTilde
 		LtnCapOODigraph LtnCapOOgonek LtnCapOOgonek.RetroHook LtnCapOStrk
@@ -1389,7 +1389,7 @@
 		LtnSmKCedilla.sc LtnSmKDotBlw.sc LtnSmKLineBlw.sc LtnSmLCedilla.sc
 		LtnSmLCircumBlw.sc LtnSmLDotBlw.sc LtnSmLLineBlw.sc LtnSmMDotBlw.sc
 		LtnSmMHook.sc LtnSmNCedilla.sc LtnSmNCircumBlw.sc LtnSmNDotBlw.sc
-		LtnSmNLftHook.sc LtnSmNLineBlw.sc LtnSmNLngRtLeg.sc LtnSmODotBlw.sc
+		LtnSmNLftHook.UCStyle.sc LtnSmNLineBlw.sc LtnSmNLngRtLeg.sc LtnSmODotBlw.sc
 		LtnSmOHornDotBlw.sc LtnSmOOgonek.RetroHook.sc LtnSmOOgonek.sc LtnSmQ.sc
 		LtnSmQDiagStrk.sc LtnSmQHookTail.sc LtnSmQStrk.sc LtnSmRCedilla.sc
 		LtnSmRDotBlw.sc LtnSmRHookTail.sc LtnSmRLineBlw.sc LtnSmRumRotunda.sc
@@ -1685,7 +1685,7 @@
 		LtnCapKDotBlw LtnCapLCedilla LtnCapLCircumBlw LtnCapLDotBlw
 		LtnCapLDotBlwMacron LtnCapLSmJ LtnCapMDotBlw LtnCapMHook
 		LtnCapMHookDep LtnCapNCedilla LtnCapNCircumBlw LtnCapNDotBlw
-		LtnCapNLftHook LtnCapNSmJ LtnCapOCircumDotBlw LtnCapODotBlw
+		LtnCapNLftHook.UCStyle LtnCapNSmJ LtnCapOCircumDotBlw LtnCapODotBlw
 		LtnCapOHornDotBlw LtnCapOOgonek LtnCapOOgonek.RetroHook LtnCapOOgonekMacron
 		LtnCapOOgonekMacron.RetroHook LtnCapQ LtnCapQDiagStrk LtnCapQStrk
 		LtnCapRCedilla LtnCapRDotBlw LtnCapRDotBlwMacron LtnCapRHookTail
@@ -1796,7 +1796,7 @@
 		CySmZeDesc.sc LtnSmAYDigraph.sc LtnSmCapSmRHookTail LtnSmEng.UCStyle.sc
 		LtnSmEng.sc LtnSmEzh.sc LtnSmEzhCaron.sc LtnSmEzhRev.sc
 		LtnSmFHook.sc LtnSmFHookStrk.sc LtnSmHeng.sc LtnSmInsularF.sc
-		LtnSmInsularR.sc LtnSmInsularS.sc LtnSmMHook.sc LtnSmNLftHook.sc
+		LtnSmInsularR.sc LtnSmInsularS.sc LtnSmMHook.sc LtnSmNLftHook.UCStyle.sc
 		LtnSmNLngRtLeg.sc LtnSmQDiagStrk.sc LtnSmQHookTail.sc LtnSmQStrk.sc
 		LtnSmRHookTail.sc LtnSmRumRotunda.sc LtnSmTRetrHook.sc LtnSmTzDigraph.sc
 		LtnSmVYDigraph.sc LtnSmVend.sc LtnSmVisigothicZ.sc LtnSmZPalHook.sc
@@ -1951,7 +1951,7 @@
 		LtnCapLigIj LtnCapLigOe LtnCapLj LtnCapM
 		LtnCapMAcute LtnCapMDotAbv LtnCapN LtnCapNAcute
 		LtnCapNCaron LtnCapNDesc LtnCapNDiagStrk LtnCapNDotAbv
-		LtnCapNGrave LtnCapNLftHook.LCStyle LtnCapNLngRtLeg LtnCapNTilde
+		LtnCapNGrave LtnCapNLftHook LtnCapNLngRtLeg LtnCapNTilde
 		LtnCapNj LtnCapO LtnCapOAcute LtnCapOBreve
 		LtnCapOCaron LtnCapOCircum LtnCapOCircumAcute LtnCapOCircumGrave
 		LtnCapOCircumHookAbv LtnCapOCircumTilde LtnCapOCircumTilde.VN LtnCapOCurl
@@ -2248,7 +2248,7 @@
 		LtnSmLigOe.sc LtnSmLj.sc LtnSmM.sc LtnSmMAcute.sc
 		LtnSmMDotAbv.sc LtnSmN.sc LtnSmNAcute.sc LtnSmNCaron.sc
 		LtnSmNDesc.sc LtnSmNDiagStrk.sc LtnSmNDotAbv.sc LtnSmNGrave.sc
-		LtnSmNLftHook.LCStyle.sc LtnSmNTilde.sc LtnSmNj.sc LtnSmO.sc
+		LtnSmNLftHook.sc LtnSmNTilde.sc LtnSmNj.sc LtnSmO.sc
 		LtnSmOAcute.sc LtnSmOBreve.sc LtnSmOCaron.sc LtnSmOCircum.sc
 		LtnSmOCircumAcute.sc LtnSmOCircumGrave.sc LtnSmOCircumHookAbv.sc LtnSmOCircumTilde.VN.sc
 		LtnSmOCircumTilde.sc LtnSmOCurl.sc LtnSmODblAcute.sc LtnSmODblGrave.sc
@@ -2297,7 +2297,7 @@
 		LtnSmUStrk.sc LtnCapFHook LtnCapFHookStrk LtnSmDTail
 		LtnSmDTailHook LtnSmDezhDigraph LtnSmDezhDigraphPalHook LtnSmDezhDigraphRetrHook
 		LtnSmHPalHook LtnSmKPalHook LtnSmMHook LtnSmNLftHook
-		LtnSmNLftHook.LCStyle LtnSmNPalHook LtnSmNRetrHook LtnSmTurnedH
+		LtnSmNLftHook.UCStyle LtnSmNPalHook LtnSmNRetrHook LtnSmTurnedH
 		LtnSmTurnedHFishhook LtnSmTurnedHFishhookTail LtnSmTurnedK LtnSmTurnedMLngLeg
 	</class>
 </classes>
