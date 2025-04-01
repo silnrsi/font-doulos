@@ -41,6 +41,9 @@ g/CombDblInvBreveBlw gg/CombDblBreveBlw gg/CombDblMacronBlw gg/CombDblRtArrwBlw 
 T/CyCapDje/CyCapTje/CySmTje/CySmHardSgn/CySmNje/CyCapYat/CySmYat/CyCapKomiTje/CySmKomiTje 
 x/LtnSmLTrnd/LtnSmTrndI/LtnSmLDotBlw n/ModSmTurnedH/ModSmX/ModSmTrndI/ModSmR x/SupplDownwardsAncora/Space/KayahLiSignCwi 
 ´/ModAcuteAccent/ModLowAcuteAccent/Space `/ModGraveAccent/ModLowGraveAccent</string>
+    <string>x/SglHighRev9QuotMrk x/ModTurnedComma x/ModTurnedComma.Lrg x/ModRevComma x/ModRevComma.Lrg x/ModApos x/ModApos.Lrg x/DblHighRev9QuotMrk x/ModDblApos x
+x/CombTrndCommaAbv x/CombTrndCommaAbv.Lrg x/CombRevCommaAbv x/CombRevCommaAbv.Lrg 
+</string>
   </array>
   <key>com.schriftgestaltung.customParameter.GSFont.disablesAutomaticAlignment</key>
   <true/>
