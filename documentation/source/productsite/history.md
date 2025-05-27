@@ -1,5 +1,5 @@
 
-### N Jan 2025 (SIL WSTech Team) Doulos SIL version 7.000
+### 2 Jun 2025 (SIL WSTech Team) Doulos SIL version 7.000
 
 ***Note that this may be the final major version of Doulos SIL. Please consider switching to one of our other font families.***
 
