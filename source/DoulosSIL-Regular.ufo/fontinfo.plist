@@ -13,7 +13,7 @@
   <key>familyName</key>
   <string>Doulos SIL</string>
   <key>openTypeHeadCreated</key>
-  <string>2025/04/01 13:48:56</string>
+  <string>2025/05/29 16:53:56</string>
   <key>openTypeHeadFlags</key>
   <array>
     <integer>0</integer>
@@ -255,7 +255,7 @@ THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
   <key>versionMajor</key>
   <integer>7</integer>
   <key>versionMinor</key>
-  <integer>000</integer>
+  <integer>0</integer>
   <key>woffMetadataCredits</key>
   <dict>
     <key>credits</key>
