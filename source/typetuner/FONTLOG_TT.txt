@@ -43,7 +43,7 @@ Reserved Font Names and would have to be named something like "Servant Foo".
 
 ## ChangeLog
 
-### %DATE% (SIL TypeTuner) Tuned version of Doulos SIL version 6.200
+### %DATE% (SIL TypeTuner) Tuned version of Doulos SIL version 7.000
 
 - Tuned and delivered by SIL TypeTuner (https://typetunerweb.languagetechnology.org/ttw/fonts2go.cgi)
 
